@@ -331,7 +331,7 @@
     "perk12Text": "Bir Şok Yuvası ve +5 Altın ile başla. 4. Gün: +5 Şok Hasarı kazan.",
     "perk12Unlock": "Bir oyunda şok hasarını toplam 300'e yükselt.",
     "perk13Name": "BÜYÜK BÜYÜCÜ",
-    "perk13Text": "Rastgele bir Tarafsız Büyü Kitabı ile başla. 5. Gün: Bir Büyü Yuvası kazan.",
+    "perk13Text": "Rastgele bir Yaygın Büyü Kitabı ile başla. 5. Gün: Bir Büyü Yuvası kazan.",
     "perk13Unlock": "Kulende sadece Büyü veya Büyü eşyalarıyla 10. Kupayı 2 kez kazanın.",
     "perk14Name": "TOPLAMA",
     "perk14Text": "3 ücretsiz yeniden salla ile başla. 2 yerine 3 karşılaşma seçeneğin olur.",
@@ -403,7 +403,7 @@
     "warrior1Name": "Bıçakla",
     "warrior1Text": "Silahlarına kalıcı olarak +6 hasar ver.",
     "warrior2Name": "Silah Ganimeti",
-    "warrior2Text": "2 rastgele Tarafsız silah kazan.",
+    "warrior2Text": "2 rastgele Yaygın silah kazan.",
     "elvenarcher1Name": "Elf Lütuf",
     "elvenarcher1Text": "Bir Toplu Saldırı Yuvası kazan (Uzak dövüş eşyası 10 hasar veren +2 mermi kazanır).",
     "elvenarcher2Name": "Yayımı al",
@@ -415,7 +415,7 @@
     "enchanter1Name": "Eşya Keşfet",
     "enchanter1Text": "Bir epik sandık kazan.",
     "enchanter2Name": "Büyüle",
-    "enchanter2Text": "Bir Tarafsız veya nadir eşyayı yükselt. (Maks 2 yıldız).",
+    "enchanter2Text": "Bir Yaygın veya Nadir eşyayı yükselt. (Maks 2 yıldız).",
     "mrspook1Name": "Şeker veya Tatlı",
     "mrspook1Text": "Artık dükkanda şekerler görünecek.",
     "mrspook2Name": "Creepy Fırsat",
@@ -633,7 +633,7 @@
     "timeSlotText": "Her gün, eşyanın bekleme süresini kalıcı olarak %5 azalt."
   },
   "rarities": {
-    "common": "Tarafsız",
+    "common": "Yaygın",
     "rare": "Nadir",
     "epic": "Epik",
     "legendary": "Efsanevi",
@@ -1060,7 +1060,7 @@
       ]
     },
     "outdoor_knife": {
-      "name": "Sürüş Bıçağı",
+      "name": "Fırtına Bıçağı",
       "texts": [
         "Savaş Başlangıcında: Her Fırtına eşyası için +3 bonus hasar kazan.",
         "Savaş Başlangıcında: Her Fırtına eşyası için +6 bonus hasar kazan.",
@@ -1123,12 +1123,12 @@
       ]
     },
     "skybolt": {
-      "name": "Gök Çivisi",
+      "name": "SkyBolt",
       "texts": [
-        "Şok düşmanda tetiklendiğinde, bunu tetikle. Bu Şok kazanamaz.",
-        "Şok düşmanda tetiklendiğinde, bunu iki kez tetikle. Bu Şok kazanamaz.",
-        "Şok düşmanda tetiklendiğinde, bunu üç kez tetikle.",
-        "Şok düşmanda tetiklendiğinde, bunu 6 kez tetikle."
+        "Şok tetiklendiğinde, bunu tetikle. Bu Şok kazanamaz.",
+        "Şok tetiklendiğinde, bunu iki kez tetikle. Bu Şok kazanamaz.",
+        "Şok tetiklendiğinde, bunu üç kez tetikle.",
+        "Şok tetiklendiğinde, bunu 6 kez tetikle."
       ]
     },
     "arcane_mace": {
@@ -1860,7 +1860,7 @@
     },
     "log": {
       "name": "Kütük",
-      "rarity": "Common",
+      "rarity": "Yaygın",
       "texts": [
         "Sadece bir kütük.",
         "Oldukça kalın bir kütük.",
