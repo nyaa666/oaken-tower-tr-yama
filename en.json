@@ -13,6 +13,44 @@
     "new_content": "1. SEZON İÇİN YENİ İÇERİKLER",
     "enjoy": "Umarım beğenirsiniz!  -Tek Geliştirici, Bocary"
   },
+  "duos_info": {
+    "welcome_to_pass": "Partner Modu'na Hoş Geldiniz!",
+    "duos_supporter_message2": "Destekçi paketini satın alan bir oyuncu olarak, Partner Modu'na erken erişim hakkı kazandınız!",
+    "beta": "Beta",
+    "tip1": "Aktarma: Portal aracılığıyla eşyaları ve iksirleri takım arkadaşına aktarabilirsin. 3 aktarmadan sonra fiyat artar.",
+    "tip2": "Gözetleme: Portal'a tıklayarak takım arkadaşının kulesini ve dükkânını görebilirsin.",
+    "tip3": "Kahin: 3, 8 ve 11. günlerde özel bir partner modu karşılaşması belirecek.",
+    "tip4": "Savaş: Rastgele bir kule başlar, ardından diğer kule savaşa devam etmek için gelir.",
+    "tip5": "Savaş senkronizasyonu bozulursa, oyun her zaman ev sahibinin sonucuyla eşleşir. Lütfen hataları resmi Discord'da bildirin."
+  },
+  "duos_seer": {
+    "seer": "Kahin",
+    "visions": "Vizyonlar",
+    "you_recieved": "Aldın:",
+    "visions_1": "Takım arkadaşının eşyalarına +{stat} Hasar ver.",
+    "visions_2": "Takım arkadaşının eşyalarına -{stat}s Bekleme Süresi ver.",
+    "visions_3": "Takım arkadaşının eşyalarına +%{stat} Krit Şansı ver.",
+    "visions_4": "Takım arkadaşına {stat} rastgele Normal İksir ver.",
+    "visions_5": "Takım arkadaşına +{stat} Maks. Sağlık ver.",
+    "visions_6": "Takım arkadaşına +{stat} Gelir ver.",
+    "visions_7": "Takım arkadaşına {stat} rastgele Parça ver.",
+    "visions_8": "Takım arkadaşına {stat} rastgele {rarity} Eşya ver.",
+    "visions_9": "Takım arkadaşına {stat} üçlü sandık ödülü ver.",
+    "visions_10": "Takım arkadaşına {stat} Kadeh ver.",
+    "visions_11": "Takım arkadaşına +{stat} ücretsiz Yeniden Salla ver.",
+    "visions_12": "Takım arkadaşına +{stat} Şans ver.",
+    "visions_13": "Takım arkadaşına +{stat} garantili Şanslı Yeniden Salla ver.",
+    "visions_14": "Takım arkadaşına +{stat} XP ver.",
+    "visions_15": "Takım arkadaşına +{stat} Altın ver.",
+    "visions_16": "Takım arkadaşına +{stat} Dönüşüm İksiri ver.",
+    "visions_17": "Takım arkadaşına rastgele {stat} Yıldızlı bir Yaygın Eşya ver.",
+    "visions_18": "Takım arkadaşına {stat} rastgele Hediye ver.",
+    "visions_19": "Takım arkadaşına sahip olduğu rastgele bir eşyanın {stat} düz kopyasını ver.",
+    "visions_20": "Takım arkadaşına bir {item} ver.",
+    "visions_21": "Takım arkadaşına {stat} rastgele Şişe ver.",
+    "visions_22": "Takım arkadaşına {stat} rastgele Şeker ver.",
+    "visions_23": "Takım arkadaşına {stat} rastgele Parça ver."
+  },
   "tutorial": {
     "acknowledge": "Anladım",
     "info1": "Oaken Tower'a Hoş Geldiniz! Dükkana gir.",
@@ -50,7 +88,7 @@
     "total_debuff": "Toplam Debuff Hasarı"
   },
   "player_titles": {
-    "oakling": "Çekirge",
+    "oakling": "Küçük Meşe Ağacı",
     "veteran": "Gazi",
     "developer": "Geliştirici",
     "alibi_games": "ALIBI",
@@ -102,18 +140,22 @@
     "roll100": "Dükkân sahibi seni dolandırmaya çalışıyor."
   },
   "ui": {
+    "left_lobby": "Takım arkadaşı lobiden ayrıldı...",
+    "solo": "Tekli",
+    "searching": "Aranıyor",
+    "find_partner": "Partner Bul",
     "need": "İhtiyaç",
     "want": "İstek?",
     "emote": "İşaret",
-    "unavailable_in_duos": "İkililerde  Kullanılamaz",
+    "unavailable_in_duos": "Partner Modu'nda  Kullanılamaz",
     "synced": "EV SAHİBİ SONUCUYLA EŞLEŞTİRİLDİ...",
-    "pass": "Pas",
+    "pass": "Aktar",
     "waiting": "Bekleniyor...",
     "ready": "Hazır",
     "not_ready": "Hazır değil",
     "host": "Ev Sahibi",
     "text_field_input": "Lobi ID'sini gir",
-    "duos": "İkili",
+    "duos": "Partner Modu",
     "invite": "Davet Et",
     "create": "Oluştur",
     "join": "Katıl",
@@ -642,6 +684,7 @@
     "special": "Özel"
   },
   "types": {
+    "shard": "Parça",
     "types": "Türler",
     "mixed": "Karma",
     "all": "Hepsi",
@@ -699,6 +742,135 @@
     "startofday": "Gün Başlangıcı efektleri envanterden çalışır."
   },
   "item": {
+    "blue_shard": {
+      "name": "Mavi Parça",
+      "texts": [
+        "Aktarndığında: Takım arkadaşına +{stat} ucuz yeniden salla ver ve bunu yok et.",
+        "",
+        "",
+        ""
+      ]
+    },
+    "purple_shard": {
+      "name": "Mor Parça",
+      "texts": [
+        "Aktarndığında: Takım arkadaşına +{stat} XP ver ve bunu yok et.",
+        "",
+        "",
+        ""
+      ]
+    },
+    "green_shard": {
+      "name": "Yeşil Parça",
+      "texts": [
+        "Aktarndığında: Takım arkadaşına +{stat} Maks. HP ver ve bunu yok et.",
+        "",
+        "",
+        ""
+      ]
+    },
+    "orange_shard": {
+      "name": "Turuncu Parça",
+      "texts": [
+        "Aktarndığında: Takım arkadaşına +{stat} Altın ver ve bunu yok et.",
+        "",
+        "",
+        ""
+      ]
+    },
+    "dark_shard": {
+      "name": "Karanlık Parça",
+      "texts": [
+        "Aktarndığında: Takım arkadaşının eşyalarına +{stat} hasar ver ve bunu yok et.",
+        "",
+        "",
+        ""
+      ]
+    },
+    "king_s_shield": {
+      "name": "Kralın Kalkanı",
+      "texts": [
+        "Aktardığında: Kalıcı olarak +4 Kalkan kazan.",
+        "Aktardığında: Kalıcı olarak +8 Kalkan kazan.",
+        "Aktardığında: Kalıcı olarak +16 Kalkan kazan.",
+        "Aktardığında: Kalıcı olarak +16 Kalkan ve +16 İyileştirme kazan."
+      ]
+    },
+    "king_s_blade": {
+      "name": "Kralın Kılıcı",
+      "texts": [
+        "Aktardığında: Kalıcı olarak +2 hasar ve +%2 krit şansı kazan.",
+        "Aktardığında: Kalıcı olarak +4 hasar ve +%4 krit şansı kazan.",
+        "Aktardığında: Kalıcı olarak +8 hasar ve +%8 krit şansı kazan.",
+        "Aktardığında: Bu eşyanın krit şansının yarısı kadar hasarı kalıcı olarak kazan."
+      ]
+    },
+    "glass_knife": {
+      "name": "Cam Bıçak",
+      "texts": [
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar.",
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar ve Aktarma etkilerini iki kez tetikle.",
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar ve Aktarma etkilerini 4 kez tetikle.",
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar. Tetiklendiğinde: Aktarma etkilerini tetikle."
+      ]
+    },
+    "silver_ring": {
+      "name": "Gümüş Yüzük",
+      "texts": [
+        "Tetiklendiğinde: +1 ucuz aktarma ve +1 ucuz yeniden salla kazan.",
+        "Tetiklendiğinde: +2 ucuz aktarma ve +2 ucuz yeniden salla kazan.",
+        "Tetiklendiğinde: +1 ücretsiz aktarma ve +1 ücretsiz yeniden salla kazan.",
+        "Tetiklendiğinde: +2 ücretsiz aktarma ve +2 ücretsiz yeniden salla kazan."
+      ]
+    },
+    "silver_akcel_ring": {
+      "name": "SilverAkcel'in Yüzüğü"
+    },
+    "king_s_bow": {
+      "name": "Kralın Yayı",
+      "texts": [
+        "Aktardığında: Bu eşyanın bekleme süresini kalıcı olarak 0.1s azalt.",
+        "Aktardığında: Bu eşyanın bekleme süresini kalıcı olarak 0.2s azalt.",
+        "Aktardığında: Bu eşyanın bekleme süresini kalıcı olarak 0.5s azalt ve +1 hasar kazan.",
+        "Aktardığında: Tüm yaylarına kalıcı olarak +1 hasar ver."
+      ]
+    },
+    "shard_pouch": {
+      "name": "Parça Kesesi",
+      "texts": [
+        "Tetiklendiğinde: Rastgele bir parça kazan.",
+        "Tetiklendiğinde: 2 rastgele parça kazan.",
+        "Tetiklendiğinde: 3 rastgele parça ve +1 ucuz aktarma kazan.",
+        "Tetiklendiğinde: 4 rastgele parça ve +1 ücretsiz aktarma kazan."
+      ]
+    },
+    "whetstone": {
+      "name": "Bileme Taşı",
+      "texts": [
+        "Tetiklendiğinde: Bir taş yığını kazan. Aktardığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
+        "Tetiklendiğinde: 2 taş yığını kazan. Aktardığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
+        "Tetiklendiğinde: 3 taş yığını kazan. Aktardığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
+        "Aktardığında: Eşyalarına kalıcı olarak +10 hasar ver."
+      ]
+    },
+    "prismatic_shard": {
+      "name": "Prizmatik Parça",
+      "texts": [
+        "Tetiklendiğinde: Gelecekte aktaryacağın parçaları kalıcı olarak yükselt.",
+        "Tetiklendiğinde: Gelecekte aktaryacağın parçaları kalıcı olarak iki kez yükselt.",
+        "Tetiklendiğinde: Gelecekte aktaryacağın parçaları kalıcı olarak üç kez yükselt.",
+        "Tetiklendiğinde: Gelecekte aktaryacağın parçaları kalıcı olarak 4 kez yükselt."
+      ]
+    },
+    "flask_of_shards": {
+      "name": "Parça Şişesi",
+      "texts": [
+        "Gelecek parçaları kalıcı olarak yükseltmek ve 3 rastgele parça kazanmak için kullan.",
+        "",
+        "",
+        ""
+      ]
+    },
     "recharge_rod": {
       "name": "Şarj Çubuğu",
       "texts": [
@@ -2053,6 +2225,9 @@
         "Savaş başlangıcı efektlerin 3 ekstra kez tetiklenir.",
         "Savaş başlangıcı efektlerin 6 ekstra kez tetiklenir."
       ]
+    },
+    "grindquill": {
+      "name": "Grindquill"
     },
     "astral_hammer": {
       "name": "Astral Çekiç",
