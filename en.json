@@ -11,13 +11,14 @@
     "20": "20+",
     "perks": "YETENEKLER",
     "new_content": "1. SEZON İÇİN YENİ İÇERİKLER",
-    "enjoy": "Umarım beğenirsiniz!  -Tek Geliştirici, Bocary"
+    "enjoy": "Umarım beğenirsiniz!  -Tek Geliştirici, Bocary",
+    "20": "20+"
   },
   "duos_info": {
-    "welcome_to_pass": "Partner Modu'na Hoş Geldiniz!",
+    "welcome_to_duos": "Partner Modu'na Hoş Geldiniz!",
     "duos_supporter_message2": "Destekçi paketini satın alan bir oyuncu olarak, Partner Modu'na erken erişim hakkı kazandınız!",
     "beta": "Beta",
-    "tip1": "Aktarma: Portal aracılığıyla eşyaları ve iksirleri takım arkadaşına aktarabilirsin. 3 aktarmadan sonra fiyat artar.",
+    "tip1": "Pas Verme: Portal aracılığıyla eşyaları ve iksirleri takım arkadaşına paslayabilirsin. 3 pastan sonra fiyat artar.",
     "tip2": "Gözetleme: Portal'a tıklayarak takım arkadaşının kulesini ve dükkânını görebilirsin.",
     "tip3": "Kahin: 3, 8 ve 11. günlerde özel bir partner modu karşılaşması belirecek.",
     "tip4": "Savaş: Rastgele bir kule başlar, ardından diğer kule savaşa devam etmek için gelir.",
@@ -66,7 +67,7 @@
     "info8": "Aynı eşyadan üç tanesi 1 Yıldızlı bir eşyaya yükselir. İki adet 1 Yıldızlı eşya elde etmek onları 2 Yıldızlı bir eşyaya yükseltir.",
     "info9": "Ayrıca eşyaların güçlü 3 Yıldızlı yükseltmesini elde etmenin özel yolları da vardır...",
     "info10": "İyi şanslar, Oakling",
-    "info13": "KULLANILI TAVSİYE - Eşyaların bir sonraki yıldız seviyesini görmek için Shift tuşuna basılı tutun. Daha fazla seviye görmek için kaydırma tekerleğini kullanın."
+    "info13": "KULLANIŞLI TAVSİYE - Eşyaların bir sonraki yıldız seviyesini görmek için kaydırma tekerleğini kullanın."
   },
   "combat_log": {
     "damage": "Hasar: ",
@@ -140,6 +141,15 @@
     "roll100": "Dükkân sahibi seni dolandırmaya çalışıyor."
   },
   "ui": {
+    "10_percent": "+%10 PUAN",
+    "rating_rework": "Puan Sistemi Yenilemesi",
+    "random_packs": "Rastgele paketler: +%10",
+    "random_perks": "Rastgele yetenekler: +%10",
+    "avg_enemy_bonus": "Ort. rakip puanı senin 500 üstünde/altında: +/- %20",
+    "season_begins": "Sezon {stat} başladı!",
+    "rating_reset": "Rütbeler sıfırlandı.",
+    "rewards": "Ödüller:",
+    "claim": "Topla",
     "left_lobby": "Takım arkadaşı lobiden ayrıldı...",
     "solo": "Tekli",
     "searching": "Aranıyor",
@@ -149,7 +159,7 @@
     "emote": "İşaret",
     "unavailable_in_duos": "Partner Modu'nda  Kullanılamaz",
     "synced": "EV SAHİBİ SONUCUYLA EŞLEŞTİRİLDİ...",
-    "pass": "Aktar",
+    "pass": "Pas",
     "waiting": "Bekleniyor...",
     "ready": "Hazır",
     "not_ready": "Hazır değil",
@@ -180,7 +190,7 @@
     "packs_tip3": "Daha çılgın bir oyun için 8'den fazla paket de seçebilirsiniz.",
     "perks_tip1": "4 yetenekten oluşan bir yük seç.",
     "perks_tip2": "Her oyunda bunlardan rastgele biri size atanır.",
-    "perks_tip3": "Tüm yeteneklerin kilidini açtıktan sonra tamamen rastgele bir yetenek seçebilirsiniz, bu +%5 bonus puan sağlar.",
+    "perks_tip3": "Tüm yeteneklerin kilidini açtıktan sonra tamamen rastgele bir yetenek seçebilirsiniz, bu +%10 bonus puan sağlar.",
     "hdr": "HDR",
     "demo": "-DEMO-",
     "titles": "Unvanlar",
@@ -410,7 +420,7 @@
     "perk999Name": "TBA",
     "perk999Text": "TBA.",
     "priest1Name": "İyileştirici Dokunuş",
-    "priest1Text": "Maks. HP'ni %100 artır ({hp}) ve +10 Altın kazan.",
+    "priest1Text": "Maks. HP'ni %85 artır ({hp}) ve +10 Altın kazan.",
     "priest2Name": "Kutsama",
     "priest2Text": "+300 Maks. HP ve +10 Gelir kazan.",
     "katya1Name": "Mızrağımı Al",
@@ -546,7 +556,7 @@
     "shadydealer1Name": "Hayır Teşekkürler",
     "shadydealer1Text": "Teklifi reddet ve satıcıdan 5 altın çal.",
     "shadydealer2Name": "Dinle Çocuk..",
-    "shadydealer2Text": "15 puan kaybet. 23. Gün: +30 puan kazan.",
+    "shadydealer2Text": "{stat1} puan kaybet. 23. Gün: +{stat2} puan kazan.",
     "priest": "Rahip",
     "blacksmith": "Demirci",
     "homebrewer": "Ev İçecekçisi",
@@ -622,7 +632,7 @@
     "celestia2Tip": "2 Yıldızlı Eşyayı Yükselt",
     "vlado1Tip": "Lanetli Eşya",
     "vlado2Tip": "Gece Tüyü Kazan",
-    "alderos1Tip": "Epik veya Altını Yükselt",
+    "alderos1Tip": "Epik veya Altı Eşyayı Yükselt",
     "alderos2Tip": "Yuva Buffları",
     "kingmidas1Tip": "Hazine Kazan",
     "kingmidas2Tip": "Rastgele Kutsama",
@@ -745,7 +755,7 @@
     "blue_shard": {
       "name": "Mavi Parça",
       "texts": [
-        "Aktarndığında: Takım arkadaşına +{stat} ucuz yeniden salla ver ve bunu yok et.",
+        "Paslandığında: Takım arkadaşına +{stat} ucuz yeniden salla ver ve bunu yok et.",
         "",
         "",
         ""
@@ -754,7 +764,7 @@
     "purple_shard": {
       "name": "Mor Parça",
       "texts": [
-        "Aktarndığında: Takım arkadaşına +{stat} XP ver ve bunu yok et.",
+        "Paslandığında: Takım arkadaşına +{stat} XP ver ve bunu yok et.",
         "",
         "",
         ""
@@ -763,7 +773,7 @@
     "green_shard": {
       "name": "Yeşil Parça",
       "texts": [
-        "Aktarndığında: Takım arkadaşına +{stat} Maks. HP ver ve bunu yok et.",
+        "Paslandığında: Takım arkadaşına +{stat} Maks. HP ver ve bunu yok et.",
         "",
         "",
         ""
@@ -772,7 +782,7 @@
     "orange_shard": {
       "name": "Turuncu Parça",
       "texts": [
-        "Aktarndığında: Takım arkadaşına +{stat} Altın ver ve bunu yok et.",
+        "Paslandığında: Takım arkadaşına +{stat} Altın ver ve bunu yok et.",
         "",
         "",
         ""
@@ -781,7 +791,7 @@
     "dark_shard": {
       "name": "Karanlık Parça",
       "texts": [
-        "Aktarndığında: Takım arkadaşının eşyalarına +{stat} hasar ver ve bunu yok et.",
+        "Paslandığında: Takım arkadaşının eşyalarına +{stat} hasar ver ve bunu yok et.",
         "",
         "",
         ""
@@ -790,37 +800,37 @@
     "king_s_shield": {
       "name": "Kralın Kalkanı",
       "texts": [
-        "Aktardığında: Kalıcı olarak +4 Kalkan kazan.",
-        "Aktardığında: Kalıcı olarak +8 Kalkan kazan.",
-        "Aktardığında: Kalıcı olarak +16 Kalkan kazan.",
-        "Aktardığında: Kalıcı olarak +16 Kalkan ve +16 İyileştirme kazan."
+        "Pasladığında: Kalıcı olarak +4 Kalkan kazan.",
+        "Pasladığında: Kalıcı olarak +8 Kalkan kazan.",
+        "Pasladığında: Kalıcı olarak +16 Kalkan kazan.",
+        "Pasladığında: Kalıcı olarak +16 Kalkan ve +16 İyileştirme kazan."
       ]
     },
     "king_s_blade": {
       "name": "Kralın Kılıcı",
       "texts": [
-        "Aktardığında: Kalıcı olarak +2 hasar ve +%2 krit şansı kazan.",
-        "Aktardığında: Kalıcı olarak +4 hasar ve +%4 krit şansı kazan.",
-        "Aktardığında: Kalıcı olarak +8 hasar ve +%8 krit şansı kazan.",
-        "Aktardığında: Bu eşyanın krit şansının yarısı kadar hasarı kalıcı olarak kazan."
+        "Pasladığında: Kalıcı olarak +2 hasar ve +%2 krit şansı kazan.",
+        "Pasladığında: Kalıcı olarak +4 hasar ve +%4 krit şansı kazan.",
+        "Pasladığında: Kalıcı olarak +8 hasar ve +%8 krit şansı kazan.",
+        "Pasladığında: Bu eşyanın krit şansının yarısı kadar hasarı kalıcı olarak kazan."
       ]
     },
     "glass_knife": {
       "name": "Cam Bıçak",
       "texts": [
-        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar.",
-        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar ve Aktarma etkilerini iki kez tetikle.",
-        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar ve Aktarma etkilerini 4 kez tetikle.",
-        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar. Tetiklendiğinde: Aktarma etkilerini tetikle."
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını pasla.",
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını pasla ve 'Pasladığında' etkilerini iki kez tetikle.",
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını pasla ve 'Pasladığında' etkilerini 4 kez tetikle.",
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını pasla. Tetiklendiğinde: 'Pasladığında' etkilerini tetikle."
       ]
     },
     "silver_ring": {
       "name": "Gümüş Yüzük",
       "texts": [
-        "Tetiklendiğinde: +1 ucuz aktarma ve +1 ucuz yeniden salla kazan.",
-        "Tetiklendiğinde: +2 ucuz aktarma ve +2 ucuz yeniden salla kazan.",
-        "Tetiklendiğinde: +1 ücretsiz aktarma ve +1 ücretsiz yeniden salla kazan.",
-        "Tetiklendiğinde: +2 ücretsiz aktarma ve +2 ücretsiz yeniden salla kazan."
+        "Tetiklendiğinde: +1 ucuz pas ve +1 ucuz yeniden salla kazan.",
+        "Tetiklendiğinde: +2 ucuz pas ve +2 ucuz yeniden salla kazan.",
+        "Tetiklendiğinde: +1 ücretsiz pas ve +1 ücretsiz yeniden salla kazan.",
+        "Tetiklendiğinde: +2 ücretsiz pas ve +2 ücretsiz yeniden salla kazan."
       ]
     },
     "silver_akcel_ring": {
@@ -829,10 +839,10 @@
     "king_s_bow": {
       "name": "Kralın Yayı",
       "texts": [
-        "Aktardığında: Bu eşyanın bekleme süresini kalıcı olarak 0.1s azalt.",
-        "Aktardığında: Bu eşyanın bekleme süresini kalıcı olarak 0.2s azalt.",
-        "Aktardığında: Bu eşyanın bekleme süresini kalıcı olarak 0.5s azalt ve +1 hasar kazan.",
-        "Aktardığında: Tüm yaylarına kalıcı olarak +1 hasar ver."
+        "Pasladığında: Bu eşyanın bekleme süresini kalıcı olarak 0.1s azalt.",
+        "Pasladığında: Bu eşyanın bekleme süresini kalıcı olarak 0.2s azalt.",
+        "Pasladığında: Bu eşyanın bekleme süresini kalıcı olarak 0.5s azalt ve +1 hasar kazan.",
+        "Pasladığında: Tüm yaylarına kalıcı olarak +1 hasar ver."
       ]
     },
     "shard_pouch": {
@@ -840,26 +850,26 @@
       "texts": [
         "Tetiklendiğinde: Rastgele bir parça kazan.",
         "Tetiklendiğinde: 2 rastgele parça kazan.",
-        "Tetiklendiğinde: 3 rastgele parça ve +1 ucuz aktarma kazan.",
-        "Tetiklendiğinde: 4 rastgele parça ve +1 ücretsiz aktarma kazan."
+        "Tetiklendiğinde: 3 rastgele parça ve +1 ucuz pas kazan.",
+        "Tetiklendiğinde: 4 rastgele parça ve +1 ücretsiz pas kazan."
       ]
     },
     "whetstone": {
       "name": "Bileme Taşı",
       "texts": [
-        "Tetiklendiğinde: Bir taş yığını kazan. Aktardığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
-        "Tetiklendiğinde: 2 taş yığını kazan. Aktardığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
-        "Tetiklendiğinde: 3 taş yığını kazan. Aktardığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
-        "Aktardığında: Eşyalarına kalıcı olarak +10 hasar ver."
+        "Tetiklendiğinde: Bir taş yığını kazan. Pasladığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
+        "Tetiklendiğinde: 2 taş yığını kazan. Pasladığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
+        "Tetiklendiğinde: 3 taş yığını kazan. Pasladığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
+        "Pasladığında: Eşyalarına kalıcı olarak +10 hasar ver."
       ]
     },
     "prismatic_shard": {
       "name": "Prizmatik Parça",
       "texts": [
-        "Tetiklendiğinde: Gelecekte aktaryacağın parçaları kalıcı olarak yükselt.",
-        "Tetiklendiğinde: Gelecekte aktaryacağın parçaları kalıcı olarak iki kez yükselt.",
-        "Tetiklendiğinde: Gelecekte aktaryacağın parçaları kalıcı olarak üç kez yükselt.",
-        "Tetiklendiğinde: Gelecekte aktaryacağın parçaları kalıcı olarak 4 kez yükselt."
+        "Tetiklendiğinde: Gelecekte paslayacağın parçaları kalıcı olarak yükselt.",
+        "Tetiklendiğinde: Gelecekte paslayacağın parçaları kalıcı olarak iki kez yükselt.",
+        "Tetiklendiğinde: Gelecekte paslayacağın parçaları kalıcı olarak üç kez yükselt.",
+        "Tetiklendiğinde: Gelecekte paslayacağın parçaları kalıcı olarak 4 kez yükselt."
       ]
     },
     "flask_of_shards": {
@@ -1126,10 +1136,10 @@
     "turnbound_ring": {
       "name": "Döngü Yüzüğü",
       "texts": [
-        "Gün Başlangıcı: Kalıcı olarak +5 hasar kazan.",
         "Gün Başlangıcı: Kalıcı olarak +10 hasar kazan.",
-        "Gün Başlangıcı: Kalıcı olarak +10 hasar ve %10 kritik şansı kazan.",
-        "Gün Başlangıcı: Kalıcı olarak +20 hasar, %20 kritik şansı ve +2 Çoklu Tetikleme kazan."
+        "Gün Başlangıcı: Kalıcı olarak +20 hasar kazan.",
+        "Gün Başlangıcı: Kalıcı olarak +20 hasar ve %10 kritik şansı kazan.",
+        "Gün Başlangıcı: Kalıcı olarak +40 hasar, %20 kritik şansı ve +2 Çoklu Tetikleme kazan."
       ]
     },
     "pandoras_box": {
@@ -1146,8 +1156,8 @@
       "texts": [
         "Bu kritik vurduğunda, rastgele bir Küçük İksir kazan.",
         "Bu kritik vurduğunda, 2 rastgele Küçük İksir kazan.",
-        "Bu kritik vurduğunda, 2 rastgele Şişe kazan.",
-        "Bu kritik vurduğunda, 3 rastgele İksir kazan."
+        "Bu kritik vurduğunda, 1 rastgele Şişe ve 2 rastgele Küçük İksir kazan.",
+        "Bu kritik vurduğunda, 2 rastgele İksir kazan."
       ]
     },
     "nightbloom": {
@@ -1169,7 +1179,7 @@
       ]
     },
     "wicked_staff": {
-      "name": "Kötü niyetli Asa",
+      "name": "Kötü Niyetli Asa",
       "texts": [
         "Buna bir iksir kullandığında kalıcı olarak +5 hasar kazan.",
         "Buna bir iksir kullandığında kalıcı olarak +10 hasar kazan.",
@@ -1182,8 +1192,8 @@
       "texts": [
         "Tetiklendiğinde: Bundaki benzersiz her debuff için 1 rastgele küçük iksir kazan.",
         "Tetiklendiğinde: Bundaki benzersiz her debuff için 2 rastgele küçük iksir kazan.",
-        "Tetiklendiğinde: Bundaki benzersiz her debuff için 2 rastgele şişe kazan.",
-        "Tetiklendiğinde: Bundaki benzersiz her debuff için 2 rastgele iksir kazan."
+        "Tetiklendiğinde: Bundaki benzersiz her debuff için 1 rastgele şişe ve 2 rastgele küçük iksir kazan.",
+        "Tetiklendiğinde: Bundaki benzersiz her debuff için 1 rastgele iksir kazan."
       ]
     },
     "candle": {
@@ -1207,9 +1217,9 @@
     "cauldron": {
       "name": "Kazan",
       "texts": [
-        "Buna iksir kullanarak +1 malzeme yığını kazan. Tetiklendiğinde: Rastgele bir İksir kazanmak için bir malzeme yığını harca.",
-        "Buna iksir kullanarak +2 malzeme yığını kazan. Tetiklendiğinde: Rastgele bir İksir kazanmak için bir malzeme yığını harca",
-        "Buna iksir kullanarak +3 malzeme yığını kazan. Tetiklendiğinde: Rastgele bir İksir kazanmak için bir malzeme yığını harca",
+        "Buna iksir kullanarak bir malzeme yığını kazan. Tetiklendiğinde: 1 rastgele İksir kazanmak için bir malzeme yığını harca.",
+        "Buna iksir kullanarak bir malzeme yığını kazan. Tetiklendiğinde: 2 rastgele İksir kazanmak için bir malzeme yığını harca.",
+        "Buna iksir kullanarak bir malzeme yığını kazan. Tetiklendiğinde: 3 rastgele İksir kazanmak için bir malzeme yığını harca.",
         "Tetiklendiğinde: Her Cadı eşyası başına rastgele bir İksir kazan."
       ]
     },
@@ -1232,11 +1242,11 @@
       ]
     },
     "outdoor_knife": {
-      "name": "Fırtına Bıçağı",
+      "name": "Dış Mekan Bıçağı",
       "texts": [
         "Savaş Başlangıcında: Her Fırtına eşyası için +3 bonus hasar kazan.",
         "Savaş Başlangıcında: Her Fırtına eşyası için +6 bonus hasar kazan.",
-        "Savaş Başlangıcında: Her Fırtına eşyası untuk +9 bonus hasar ve +6 bonus kritik şansı kazan.",
+        "Savaş Başlangıcında: Her Fırtına eşyası için +9 bonus hasar ve +6 bonus kritik şansı kazan.",
         "Savaş Başlangıcında: Her Fırtına eşyası için kalıcı olarak +15 hasar ve kritik şansı kazan."
       ]
     },
@@ -1370,7 +1380,7 @@
       "name": "Ruh Bölücü",
       "texts": [
         "Savaş Başlangıcında: Bundaki benzersiz her debuff için +2 bonus çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: Bundaki benzersiz her debuff untuk +4 bonus çoklu tetikleme kazan.",
+        "Savaş Başlangıcında: Bundaki benzersiz her debuff için +4 bonus çoklu tetikleme kazan.",
         "Savaş Başlangıcında: Bundaki benzersiz her debuff için +8 bonus çoklu tetikleme ve +5 bonus hasar kazan.",
         "Savaş Başlangıcında: Bundaki benzersiz her debuff için kalıcı olarak +8 çoklu tetikleme ve +15 Hasar kazan."
       ]
