@@ -9,56 +9,89 @@
     "endless": "SONSUZ",
     "mode": "MOD",
     "20": "20+",
-    "perks": "YETENEKLER",
+    "perks": "AVANTAJLAR",
     "new_content": "1. SEZON İÇİN YENİ İÇERİKLER",
-    "enjoy": "Umarım beğenirsiniz!  -Tek Geliştirici, Bocary",
-    "20": "20+"
+    "enjoy": "Umarım beğenirsiniz!  -Tek Geliştirici, Bocary"
   },
   "duos_info": {
     "welcome_to_duos": "Partner Modu'na Hoş Geldiniz!",
     "duos_supporter_message2": "Destekçi paketini satın alan bir oyuncu olarak, Partner Modu'na erken erişim hakkı kazandınız!",
     "beta": "Beta",
-    "tip1": "Pas Verme: Portal aracılığıyla eşyaları ve iksirleri takım arkadaşına paslayabilirsin. 3 pastan sonra fiyat artar.",
+    "tip1": "Aktarma: Portal aracılığıyla eşyaları ve iksirleri takım arkadaşına aktarabilirsin. 3 aktarmadan sonra fiyat artar.",
     "tip2": "Gözetleme: Portal'a tıklayarak takım arkadaşının kulesini ve dükkânını görebilirsin.",
     "tip3": "Kahin: 3, 8 ve 11. günlerde özel bir partner modu karşılaşması belirecek.",
     "tip4": "Savaş: Rastgele bir kule başlar, ardından diğer kule savaşa devam etmek için gelir.",
     "tip5": "Savaş senkronizasyonu bozulursa, oyun her zaman ev sahibinin sonucuyla eşleşir. Lütfen hataları resmi Discord'da bildirin."
   },
+  "pack_info": {
+    "difficulty": "Zorluk",
+    "playstyle": "Oynanış Tarzı",
+    "moon": "Bol miktarda Çoklu Tetikleme ve sürekli hasar sunar.",
+    "flame": "Yanma debuff'u üzerine oynar. Alev eşyaları, uyguladığın Yanma arttıkça güçlenir.",
+    "arcane": "Gizemli eşyalar, çok sayıda farklı debuff uygulandığında güçlenir.",
+    "elven": "Zehir debuff'u üzerine oynar. Ayrıca yüksek ani hasara sahip tempo çeşitleri vardır.",
+    "dark": "Yüksek ani hasar sunar. Çok sayıda \"Savaş Başlangıcı\" etkisine sahiptir ve bunları birden fazla kez tetikleyebilir.",
+    "frosty": "Sürekli hasar ve kritik vuruşlar üzerine oynar. Eşyalar daha fazla kritik vuruşla güçlenir ve kritiklere göre ölçeklenir.",
+    "dragon": "Eşyaların kritik vurabilen yetenekleri vardır. Ayrıca Maks. HP ile ölçeklenen ve yay odaklı çeşitleri bulunur.",
+    "crystal": "Kanama debuff'u üzerine oynar. Savaş ilerledikçe saniye başına hasarı artar.",
+    "holy": "Bol miktarda iyileştirme sunar. İyileştirmeyle ölçeklenir ve debuff'ları temizleyebilir.",
+    "storm": "Şok debuff'u üzerine oynar. Şok hasarını artırabilir ve Şok yüklerini zorla tetikleyebilir.",
+    "witch": "İksirler üzerine oynar. İksir üretebilir ve iksir kullanıldıkça eşyalar güçlenir.",
+    "goblin": "Savaş sırasında giderek artan hasara sahiptir. Ayrıca bomba odaklı bir çeşidi vardır ve daha fazla bomba üretebilir.",
+    "fairy": "Peri eşyalarına birden fazla \"Tür\" ekleyerek istatistiklerini güçlendir. Ayrıca Büyü Kitabı odaklı bir çeşidi vardır.",
+    "vampire": "Can Çalma üzerine oynar. Rakiplerinden daha uzun süre dayanıp hasarını artırır. Ayrıca \"Dehşet\" odaklı bir çeşidi vardır."
+  },
+  "player_stats": {
+    "stats": "İstatistikler",
+    "general": "Genel",
+    "favourite_packs": "Favori Paketler",
+    "items_earned_10_with": "10 {icon} kupaya ulaşılan eşyalar",
+    "longest_run": "En Uzun Oyun: ",
+    "10_trophy_speedrun": "10 {icon} Speedrun Rekoru:",
+    "damage_record": "Sonsuz Mod Dışı Meşe Rekoru:",
+    "ranked": "Dereceli Tekli",
+    "winrate": "10 {icon} Galibiyet Oranı:",
+    "average_trophies": "Ortalama Kupa:",
+    "10_trophy_runs": "10 {icon} Kupaya Ulaşılan Oyunlar:",
+    "perfect_runs": "Kusursuz 10/10/10 Oyunlar:",
+    "total_runs": "Toplam Oyun: ",
+    "highest_rank": "En Yüksek Derece:"
+  },
   "duos_seer": {
     "seer": "Kahin",
-    "visions": "Vizyonlar",
+    "visions": "Kehanetler",
     "you_recieved": "Aldın:",
     "visions_1": "Takım arkadaşının eşyalarına +{stat} Hasar ver.",
     "visions_2": "Takım arkadaşının eşyalarına -{stat}s Bekleme Süresi ver.",
-    "visions_3": "Takım arkadaşının eşyalarına +%{stat} Krit Şansı ver.",
+    "visions_3": "Takım arkadaşının eşyalarına +%{stat} Kritik Şansı ver.",
     "visions_4": "Takım arkadaşına {stat} rastgele Normal İksir ver.",
-    "visions_5": "Takım arkadaşına +{stat} Maks. Sağlık ver.",
+    "visions_5": "Takım arkadaşına +{stat} Maks. HP ver.",
     "visions_6": "Takım arkadaşına +{stat} Gelir ver.",
-    "visions_7": "Takım arkadaşına {stat} rastgele Parça ver.",
+    "visions_7": "Takım arkadaşına bir {item} ver.",
     "visions_8": "Takım arkadaşına {stat} rastgele {rarity} Eşya ver.",
     "visions_9": "Takım arkadaşına {stat} üçlü sandık ödülü ver.",
     "visions_10": "Takım arkadaşına {stat} Kadeh ver.",
-    "visions_11": "Takım arkadaşına +{stat} ücretsiz Yeniden Salla ver.",
+    "visions_11": "Takım arkadaşına +{stat} ücretsiz Yenileme ver.",
     "visions_12": "Takım arkadaşına +{stat} Şans ver.",
-    "visions_13": "Takım arkadaşına +{stat} garantili Şanslı Yeniden Salla ver.",
+    "visions_13": "Takım arkadaşına +{stat} garantili Şanslı Yenileme ver.",
     "visions_14": "Takım arkadaşına +{stat} XP ver.",
     "visions_15": "Takım arkadaşına +{stat} Altın ver.",
     "visions_16": "Takım arkadaşına +{stat} Dönüşüm İksiri ver.",
     "visions_17": "Takım arkadaşına rastgele {stat} Yıldızlı bir Yaygın Eşya ver.",
     "visions_18": "Takım arkadaşına {stat} rastgele Hediye ver.",
-    "visions_19": "Takım arkadaşına sahip olduğu rastgele bir eşyanın {stat} düz kopyasını ver.",
+    "visions_19": "Takım arkadaşına sahip olduğu rastgele bir eşyanın {stat} özelliksiz kopyasını ver.",
     "visions_20": "Takım arkadaşına bir {item} ver.",
     "visions_21": "Takım arkadaşına {stat} rastgele Şişe ver.",
     "visions_22": "Takım arkadaşına {stat} rastgele Şeker ver.",
-    "visions_23": "Takım arkadaşına {stat} rastgele Parça ver."
+    "visions_23": "Takım arkadaşına bir {stat} ver."
   },
   "tutorial": {
     "acknowledge": "Anladım",
-    "info1": "Oaken Tower'a Hoş Geldiniz! Dükkana gir.",
-    "info2": "Bunlar satın alıp kulelerine koyabileceğin eşyalardır.",
-    "info3": "Eşyaları yeniden sallayabilir veya bir sonraki tur için dondurabilirsin.",
-    "info4": "Eğitim seviye atlamak için XP verir. Tam bir seviye satın almak için sağ tıklayabilirsin.",
-    "info5": "Seviyeler dükkanda daha nadir eşyalar sağlar. Dükkân nadirliklerini görmek için buranın üzerine gel!",
+    "info1": "Oaken Tower'a Hoş Geldiniz! Dükkâna gir.",
+    "info2": "Bunlar satın alıp kulene koyabileceğin eşyalardır.",
+    "info3": "Eşyaları yenileyebilir veya bir sonraki tur için dondurabilirsin.",
+    "info4": "Antrenman XP kazandırır ve seviye atlamanı sağlar. Tam bir seviye satın almak için sağ tıklayabilirsin.",
+    "info5": "Seviyeler dükkânda daha nadir eşyalar sağlar. Dükkân nadirliklerini görmek için buranın üzerine gel!",
     "info6": "Kulen otomatik olarak savaşır! Bir galibiyet 1 Kupa kazandırır.",
     "info7": "Oyunun başlarında daha az kalp kaybedersin.",
     "info7_1": "Gün 1-2: -1",
@@ -66,14 +99,14 @@
     "info7_3": "Gün 5+: -3",
     "info8": "Aynı eşyadan üç tanesi 1 Yıldızlı bir eşyaya yükselir. İki adet 1 Yıldızlı eşya elde etmek onları 2 Yıldızlı bir eşyaya yükseltir.",
     "info9": "Ayrıca eşyaların güçlü 3 Yıldızlı yükseltmesini elde etmenin özel yolları da vardır...",
-    "info10": "İyi şanslar, Oakling",
-    "info13": "KULLANIŞLI TAVSİYE - Eşyaların bir sonraki yıldız seviyesini görmek için kaydırma tekerleğini kullanın."
+    "info10": "İyi şanslar, Meşecik",
+    "info13": "KULLANIŞLI TAVSİYE - Eşyaların bir sonraki yıldız seviyelerini görmek için kaydırma tekerleğini kullan."
   },
   "combat_log": {
     "damage": "Hasar: ",
     "bleedDamage": "Kanama Hasarı: ",
     "triggers": "Tetiklemeler: ",
-    "crits": "Krit: ",
+    "crits": "Kritik Vuruşlar: ",
     "poison": "Zehir: ",
     "burn": "Yanma: ",
     "shield": "Kalkan: ",
@@ -89,11 +122,11 @@
     "total_debuff": "Toplam Debuff Hasarı"
   },
   "player_titles": {
-    "oakling": "Küçük Meşe Ağacı",
-    "veteran": "Gazi",
+    "oakling": "Meşecik",
+    "veteran": "Kıdemli",
     "developer": "Geliştirici",
     "alibi_games": "ALIBI",
-    "playtester": "Test Oyuncusu",
+    "playtester": "Oyun Testçisi",
     "supporter": "Destekçi",
     "season_1_bronze": "1. Sezon Bronz",
     "season_1_silver": "1. Sezon Gümüş",
@@ -111,46 +144,66 @@
   },
   "lucky_rolls": {
     "roll1": "Tüm eşyalar indirimli.",
-    "roll2": "Dükkanda sadece sahip olduğun eşyalar var.",
-    "roll3": "Dükkanda sadece efsanevi eşyalar var.",
-    "roll4": "Dükkanda sadece küreler var.",
-    "roll5": "Dükkanda sadece rastgele bir eşya var.",
+    "roll2": "Dükkânda sadece sahip olduğun eşyalar var.",
+    "roll3": "Dükkânda sadece efsanevi eşyalar var.",
+    "roll4": "Dükkânda sadece küreler var.",
+    "roll5": "Dükkânda sadece rastgele bir eşya var.",
     "roll6": "3 rastgele eşya ücretsiz.",
-    "roll7": "Dükkanda sadece iksirler var.",
-    "roll8": "Dükkanda bir Dövülmüş Kılıç var.",
-    "roll9": "Dükkanda sadece büyü kitapları var.",
-    "roll10": "Dükkanda rastgele özel bir yapı var.",
-    "roll11": "Dükkanda sadece Kolyeler var.",
+    "roll7": "Dükkânda sadece iksirler var.",
+    "roll8": "Dükkânda bir Dövülmüş Kılıç var.",
+    "roll9": "Dükkânda sadece büyü kitapları var.",
+    "roll10": "Dükkânda rastgele özel bir yapı var.",
+    "roll11": "Dükkânda sadece Tılsımlar var.",
     "roll12": "Bir hazine mahzenine rastladın.",
-    "roll13": "Dükkanda bir Ayna İksiri var.",
-    "roll14": "Dükkanda bir Hayalet İçeceği var.",
-    "roll15": "Dükkanda lanetli bir eşya var.",
-    "roll16": "Dükkanda sadece özler var.",
+    "roll13": "Dükkânda bir Ayna İksiri var.",
+    "roll14": "Dükkânda bir Hayalet İçeceği var.",
+    "roll15": "Dükkânda lanetli bir eşya var.",
+    "roll16": "Dükkânda sadece esanslar var.",
     "roll17": "Krono Büyücüsünün dükkânı.",
-    "roll18": "Dükkanda bir Taçforge İçeceği var.",
-    "roll19": "Şeker veya Tatlı.",
+    "roll18": "Dükkânda bir Taçforge İçeceği var.",
+    "roll19": "Şaka mı, şeker mi?",
     "roll20": "Bu yıl iyi bir çocuk oldun.",
-    "roll21": "Dükkanda bir Taklitçi Asası var.",
-    "roll22": "Dükkanda bir Görünüm İksiri var.",
-    "roll23": "Şarjlı Dükkân.",
+    "roll21": "Dükkânda bir Taklitçi Asası var.",
+    "roll22": "Dükkânda bir Görünüm İksiri var.",
+    "roll23": "Kullanım Dolu Dükkân.",
     "roll24": "Elektrikli Dükkân.",
     "roll25": "Carmen'in Dükkânı.",
-    "roll26": "Dükkanda 1 Yıldızlı eşyalar var.",
-    "roll27": "Dükkanda bir Yıldız Işığı İksiri var.",
+    "roll26": "Dükkânda 1 Yıldızlı eşyalar var.",
+    "roll27": "Dükkânda bir Yıldız Işığı İksiri var.",
     "roll28": "Ejderhanın Hazinesi.",
+    "roll29": "Eşyalar +1 Çoklu Tetikleme kazanır.",
+    "roll30": "Eşyalar +5 Yanma kazanır.",
+    "roll31": "Eşyalar +5 Zehir kazanır.",
+    "roll32": "Eşyalar +25 İyileştirme kazanır.",
+    "roll33": "Eşyalar +2 Kanama kazanır.",
+    "roll34": "Dükkânda Pandora'nın Kutusu var.",
+    "roll35": "Kart Dükkânı",
     "roll100": "Dükkân sahibi seni dolandırmaya çalışıyor."
   },
   "ui": {
-    "10_percent": "+%10 PUAN",
+    "add_friend": "Ekle",
+    "fan_made": "Fan Yapımı",
+    "three_star_names": "Alternatif 3 Yıldızlı İsimler",
+    "three_star_names_tip": "Oyundaki birkaç 3 Yıldızlı eşya için, içerik üreticilerine ve topluluğun uzun süreli üyelerine saygı olarak alternatif isimleri gösterir.",
+    "bugphobia": "Böcek Fobisi",
+    "type_specific_buffs": "Türe Özel Buff'lar",
+    "temp": "geçici",
+    "show_prices": "fiyatları göster",
+    "max_reached": "maksimuma ulaşıldı",
+    "favourite": "Favoriler",
+    "recent": "Son Kullanılanlar",
+    "10_percent": "+%20 PUAN",
     "rating_rework": "Puan Sistemi Yenilemesi",
-    "random_packs": "Rastgele paketler: +%10",
-    "random_perks": "Rastgele yetenekler: +%10",
-    "avg_enemy_bonus": "Ort. rakip puanı senin 500 üstünde/altında: +/- %20",
-    "season_begins": "Sezon {stat} başladı!",
-    "rating_reset": "Rütbeler sıfırlandı.",
+    "random_packs": "Rastgele paketler: +%20",
+    "random_perks": "Rastgele yetenekler: +%20",
+    "avg_enemy_bonus": "Rakibin ortalama puanı senden 500 yüksek/düşükse: +/- %20",
+    "season_begins": "{stat}. Sezon başlıyor!",
+    "rating_reset": "Dereceler sıfırlandı.",
     "rewards": "Ödüller:",
-    "claim": "Topla",
+    "claim": "Al",
     "left_lobby": "Takım arkadaşı lobiden ayrıldı...",
+    "disconnected": "Takım arkadaşının bağlantısı kesildi. Yeniden deneniyor",
+    "reconnected": "Takım arkadaşın yeniden bağlandı",
     "solo": "Tekli",
     "searching": "Aranıyor",
     "find_partner": "Partner Bul",
@@ -159,7 +212,7 @@
     "emote": "İşaret",
     "unavailable_in_duos": "Partner Modu'nda  Kullanılamaz",
     "synced": "EV SAHİBİ SONUCUYLA EŞLEŞTİRİLDİ...",
-    "pass": "Pas",
+    "pass": "Aktar",
     "waiting": "Bekleniyor...",
     "ready": "Hazır",
     "not_ready": "Hazır değil",
@@ -173,9 +226,9 @@
     "log": "Detay",
     "deep_freeze": "Derin Dondurma",
     "deep_freeze2": "Havuza +1 kopya ekler.",
-    "lucky_roll": "Şanslı Salla!",
+    "lucky_roll": "Şanslı Yenileme!",
     "executed": "İDAM EDİLDİ!",
-    "keep_rerolling": "Şanslı olana kadar salla?",
+    "keep_rerolling": "Şanslı gelene kadar yenile?",
     "season": "Sezon",
     "credits": "Jenerik",
     "pixel_artist": "Piksel Sanatçısı",
@@ -188,16 +241,16 @@
     "packs_tip1": "En az 8 seçilmiş paket gereklidir.",
     "packs_tip2": "8'den az seçerseniz, oyun sizin için en az 8 olacak şekilde rastgele paketlerle doldurur.",
     "packs_tip3": "Daha çılgın bir oyun için 8'den fazla paket de seçebilirsiniz.",
-    "perks_tip1": "4 yetenekten oluşan bir yük seç.",
-    "perks_tip2": "Her oyunda bunlardan rastgele biri size atanır.",
-    "perks_tip3": "Tüm yeteneklerin kilidini açtıktan sonra tamamen rastgele bir yetenek seçebilirsiniz, bu +%10 bonus puan sağlar.",
+    "perks_tip1": "4 avantajdan oluşan bir yük seç.",
+    "perks_tip2": "Her oyunda bunlardan rastgele biri sana atanır.",
+    "perks_tip3": "Tüm avantajların kilidini açtıktan sonra tamamen rastgele bir avantaj seçebilirsin; bu, +%10 bonus puan sağlar.",
     "hdr": "HDR",
     "demo": "-DEMO-",
     "titles": "Unvanlar",
     "max": "maks",
     "endless": "Sonsuz Mod",
     "drag_item_here": "EŞYAYI BURAYA SÜRÜKLE",
-    "top_filter": "İlk 10",
+    "top_filter": "En İyi",
     "you_filter": "Sen",
     "friends_filter": "Arkadaşlar",
     "copy_code": "Yapı Kodunu Kopyala",
@@ -209,16 +262,16 @@
     "promoted": "Terfi Ettin!",
     "demoted": "Düşürüldün.",
     "avg_enemy_rating": "Ort. Rakip Puanı: ",
-    "none_casual": "Yok (Eğlence Amaçlı)",
+    "none_casual": "Yok (Normal)",
     "none_endless": "Yok (Sonsuz)",
-    "enter_shop": "Dükkana Gir",
-    "exit_shop": "Dükkandan Çık",
+    "enter_shop": "Dükkâna Gir",
+    "exit_shop": "Dükkândan Çık",
     "cursor_size": "İmleç Boyutu",
     "sort": "sırala",
     "ctrl": "(ctrl)",
     "types_this_game": "Dahil Olanlar: ",
     "missing_types": "Eksik Olanlar: ",
-    "luck_info": "Şanslı Yeniden Sallama Şansı.",
+    "luck_info": "Şanslı Yenileme Şansı.",
     "triple_reward": "Üçlü sandık ödülü:",
     "lvl1-2": "Seviye 1-2",
     "lvl3-4": "Seviye 3-4",
@@ -226,19 +279,19 @@
     "victory": "ZAFER",
     "defeat": "YENİLGİ",
     "packs_ui": "Paketler",
-    "perks_ui": "Yetenekler",
+    "perks_ui": "Avantajlar",
     "hide": "Gizle",
     "show": "Göster",
     "use": "Kullan",
     "sell": "Sat",
-    "for": "İçin:",
+    "for": "Bedel:",
     "sells_for": "Satış Değeri: ",
     "gold_coins": "Altın",
     "inventory": "Envanter",
     "pouch": "Çanta",
     "player": "Oyuncu",
     "rating": "Puan",
-    "rank": "Rütbe",
+    "rank": "Derece",
     "page": "SAYFA:",
     "music": "MÜZİK",
     "sfx": "SES EFEKTLERİ",
@@ -252,9 +305,9 @@
     "diamond": "Elmas",
     "master": "Usta",
     "grandmaster": "Büyük Usta",
-    "game_by_bocary": "BOCARY STUDIOS TARAFINDAN GELİŞTİRİLEN BİR OYUN",
-    "published_by_alibi": "ALIBI GAMES TARAFINDAN YAYINLANMAKTADIR Türkçe Dil: github/nyaa666",
-    "casual": "Eğlence Amaçlı",
+    "game_by_bocary": "BOCARY STUDIOS TARAFINDAN GELİŞTİRİLEN BİR OYUN ALIBI GAMES TARAFINDAN YAYINLANMAKTADIR",
+    "published_by_alibi": " Çeviri: github/nyaa666 w github.com/Zakuracimm",
+    "casual": "Normal",
     "ranked": "Dereceli",
     "custom": "Özel",
     "start": "BAŞLA",
@@ -264,7 +317,7 @@
     "hong_kong": "HONG KONG",
     "fullscreen": "Tam Ekran",
     "fps": "FPS",
-    "showRarityTip": "Bu, dükkandaki fiyatları nadirlik rengiyle tonlar.",
+    "showRarityTip": "Bu, dükkândaki fiyatları nadirlik rengiyle tonlar.",
     "showRarity": "Nadirliği Göster",
     "glow_strength": "Nadirlik Parlama Gücü",
     "showTypes": "Türleri Göster",
@@ -276,17 +329,17 @@
     "hotkeys_tip5": "[S+LMB] envanterden iksiri sil",
     "quick_use_potions": "Hızlı İksir Kullanımı",
     "quick_use_potions_tip": "İksirleri en son iksirlenen eşyada kullanmak için sağ tıklayın.",
-    "force_carmen": "Carmen'i Eğlence Amaçlı Modda Zorla",
+    "force_carmen": "Carmen'i Normal Modda Zorla",
     "epilepsy_mode": "Epilepsi Modu",
     "epilepsy_mode_tip": "Oyunu epilepsili kişiler için uygun hale getirmek için tüm mermileri ve VFX'leri görünmez yapar",
     "level": "Seviye:",
-    "perk": "Yetenek",
+    "perk": "Avantaj",
     "day": "Gün",
     "continue": "DEVAM ET",
-    "level_up": "Seviye Atlama",
+    "level_up": "Seviye Atla",
     "free": "Ücretsiz",
     "cheap": "Ucuz",
-    "increases_in": "Artış",
+    "increases_in": "Artışa kalan süre",
     "lucky": "Şanslı",
     "trophies": "Kupalar",
     "lives": "Can",
@@ -297,7 +350,7 @@
     "resume": "Devam Et",
     "settings": "Ayarlar",
     "to_menu": "Menüye Dön",
-    "end_run": "Koşuyu Bitir?",
+    "end_run": "Oyunu Bitir?",
     "collection": "Koleksiyon",
     "history": "Geçmiş",
     "match_history": "Maç Geçmişi",
@@ -310,18 +363,18 @@
     "colorblind1": "Deutanopi",
     "colorblind2": "Tritanopi",
     "screenshake": "Ekran Sarsıntısı",
-    "lucky_roll_effect": "Şanslı Salla Ekran Efekti",
+    "lucky_roll_effect": "Şanslı Yenileme Ekran Efekti",
     "vsync": "VSYNC",
     "custom_mode": "Özel Mod",
-    "custom_mode_tip": "Bu, Eğlence Amaçlı modda özel maçları etkinleştirir. Yapını CTRL+C ile kopyala ve arkadaşlarının yapısını Eğlence Amaçlı modda onlarla savaşmak için CTRL+V ile yapıştır!",
+    "custom_mode_tip": "Bu, Normal modda özel maçları etkinleştirir. Yapını CTRL+C ile kopyala ve arkadaşlarının yapısını Normal modda onlarla savaşmak için CTRL+V ile yapıştır!",
     "game_cursor": "Oyun İmleci",
     "items": "Eşyalar",
-    "perks": "Yetenekler",
+    "perks": "Avantajlar",
     "towers": "Kuleler",
     "leaders": "Liderler",
     "sigils": "Mühürler",
     "per_level": "Seviye Başına:",
-    "better_drop_chanes": "Daha iyi düşme şansları.",
+    "better_drop_chanes": "Daha yüksek düşme şansı.",
     "increased_max_hp": "Artırılmış maks. HP.",
     "income_plus_5": "+5 Gelir.",
     "income": "Gelir: ",
@@ -331,8 +384,8 @@
     "retry": "Tekrar Dene",
     "status_code_403": "Durum Kodu: 403",
     "freeze": "Dondur",
-    "train": "Eğit",
-    "reroll": "Yeniden Salla",
+    "train": "Antrenman",
+    "reroll": "Yenile",
     "all": "hepsi",
     "clear": "temizle"
   },
@@ -348,75 +401,99 @@
     "unlockable_in_full_version": "Tam sürümde açılabilir.",
     "unlock": "Kilidini Açmak İçin: ",
     "perk0Name": "RASTGELE",
-    "perk0Text": "Her oyunda rastgele bir yetenek kazan. Bu, dereceli modda biraz ekstra puan sağlar.",
+    "perk0Text": "Her oyunda rastgele bir avantaj kazan.",
     "perk0Unlock": "Diğer tüm yeteneklerin kilidini aç.",
     "perk1Name": "TEMPO",
-    "perk1Text": "+10 Altın ve rastgele 15g bir eşya ile başla.",
+    "perk1Text": "+15 Altın ile başla.",
     "perk2Name": "YANMA",
     "perk2Text": "Bir Yaban Yangını ile başla. 3. Gün: Bir Yanma Yuvası kazan.",
     "perk3Name": "ZEHİRLİ",
-    "perk3Text": "Bir Refined Mızrak ile başla. 4. Gün: Bir Zehir Yuvası kazan.",
+    "perk3Text": "Bir Rafine Mızrak ile başla. 4. Gün: Bir Zehir Yuvası kazan.",
     "perk4Name": "SEÇİLEN",
-    "perk4Text": "Bir İyileştirme Yuvası ile başla. Pasif: İyileştirmen 2x iyileştirme için kritik vurabilir.",
+    "perk4Text": "Bir İyileştirme Yuvası ile başla. İyileştirmen 2x iyileştirme için kritik vurabilir.",
     "perk5Name": "ŞANSLI",
     "perk5Text": "Rastgele 15g bir eşya ile başla. 3. ve 8. Gün: +%2 şans kazan.",
-    "perk5Unlock": "3. günde şanslı bir salla elde et.",
+    "perk5Unlock": "10 Şanslı Yenileme kazan.",
     "perk6Name": "KAPLUMBAĞA",
-    "perk6Text": "Bir Kalkan Yuvası ile başla. Pasif: Kalkanların 2x kalkan için kritik vurabilir.",
+    "perk6Text": "Bir Kalkan Yuvası ile başla. Kalkanların 2x kalkan için kritik vurabilir.",
     "perk6Unlock": "30 Kalkan satın al.",
     "perk7Name": "VURUŞ",
     "perk7Text": "Bir Gümüş Mızrak ile başla. 8. Gün: Bir Çoklu Tetikleme Yuvası kazan.",
     "perk7Unlock": "99+ çoklu tetiklemeye sahip bir eşyan olsun.",
     "perk8Name": "KARANLIK",
     "perk8Text": "Bir Alacakaranlık Kılıcı ile başla. 7. Gün: Bir Gece Yuvası kazan.",
-    "perk8Unlock": "Tam bir Karanlık yapıyla 10. Kupayı 2 kez kazanın.",
-    "perk9Name": "ŞEKER HAŞLASI",
+    "perk8Unlock": "Tam bir Karanlık yapıyla 10. Kupayı kazan.",
+    "perk9Name": "ŞEKER PATLAMASI",
     "perk9Text": "+5 Altın ile başla. 4. günden itibaren bir şeker parçası kazan.",
     "perk9Unlock": "Toplamda 30 şeker topla.",
     "perk10Name": "HAZİNE",
     "perk10Text": "5. seviyeye ulaştığında: Bir Epik Sandık kazan. Sandıklar 3 yerine 4 eşya içerir.",
     "perk10Unlock": "Epik sandıklardan 50 eşya keşfet.",
     "perk11Name": "GÜÇ",
-    "perk11Text": "Bir Hasar Yuvası ve bir Krit Yuvası ile başla.",
+    "perk11Text": "Bir Hasar Yuvası ve bir Kritik Yuvası ile başla.",
     "perk11Unlock": "10.000 Hasar veren kritik bir vuruş yap.",
     "perk12Name": "ELEKTRİK",
-    "perk12Text": "Bir Şok Yuvası ve +5 Altın ile başla. 4. Gün: +5 Şok Hasarı kazan.",
+    "perk12Text": "+5 Altın ile başla. 3. Gün: Bir Şok Yuvası ve +5 Şok Hasarı kazan.",
     "perk12Unlock": "Bir oyunda şok hasarını toplam 300'e yükselt.",
     "perk13Name": "BÜYÜK BÜYÜCÜ",
-    "perk13Text": "Rastgele bir Yaygın Büyü Kitabı ile başla. 5. Gün: Bir Büyü Yuvası kazan.",
-    "perk13Unlock": "Kulende sadece Büyü veya Büyü eşyalarıyla 10. Kupayı 2 kez kazanın.",
+    "perk13Text": "Rastgele bir Yaygın Büyü Kitabı ile başla. 3. Gün: Bir Büyü Yuvası kazan.",
+    "perk13Unlock": "Kulende yalnızca Büyüler veya Büyü türündeki eşyalar varken 10. Kupayı kazan.",
     "perk14Name": "TOPLAMA",
-    "perk14Text": "3 ücretsiz yeniden salla ile başla. 2 yerine 3 karşılaşma seçeneğin olur.",
+    "perk14Text": "3 ücretsiz Yenileme ile başla. 2 yerine 3 karşılaşma seçeneğin olur.",
     "perk14Unlock": "Her karşılaşmayla konuş.",
     "perk15Name": "HEKS",
-    "perk15Text": "Bir Voidspike ile başla. 7. Gün: Bir Heks Yuvası kazan.",
-    "perk15Unlock": "Tam bir Esrarengiz yapıyla 10. Kupayı 2 kez kazanın.",
+    "perk15Text": "Bir Voidspike ile başla. 7. Gün: Bir Lanet Yuvası kazan.",
+    "perk15Unlock": "Tam bir Gizemli yapıyla 10. Kupayı kazan.",
     "perk16Name": "STOK",
-    "perk16Text": "+5 Altın ile başla. Dükkanda 7 yerine 8 eşya bulunur.",
+    "perk16Text": "+5 Altın ile başla. Dükkânda 7 yerine 8 eşya bulunur.",
     "perk16Unlock": "500 eşya satın al.",
     "perk17Name": "ESANSİYEL YAĞLAR",
     "perk17Text": "5. Gün: İki Esanstan birini keşfet.",
     "perk17Unlock": "Bir eşyaya yeni bir etiket vermek için bir Esansı 3 kez kullan.",
     "perk18Name": "YAKIN DÖVÜŞ",
     "perk18Text": "Bir Kemik Sopa ile başla. 3. Gün: Bir Yakın Dövüş Yuvası kazan.",
-    "perk18Unlock": "6 Yakın Dövüş eşyasıyla 10. Kupayı 5 kez kazanın.",
-    "perk19Name": "TOPLU SALDIRI",
-    "perk19Text": "Bir Normal Yay ile başla. 4. Gün: Bir Toplu Saldırı Yuvası kazan.",
-    "perk19Unlock": "Sadece yaylarla 10. Kupayı kazanın.",
+    "perk18Unlock": "6 Yakın Dövüş eşyasıyla 10. Kupayı 5 kez kazan.",
+    "perk19Name": "TOPÇU",
+    "perk19Text": "Bir Normal Yay ile başla. 4. Gün: Bir Topçu Yuvası kazan.",
+    "perk19Unlock": "Sadece yaylarla 10. Kupayı kazan.",
     "perk20Name": "FLASH İNDİRİM",
     "perk20Text": "+5 Altın ile başla. 3., 8. ve 11. günün ilk dükkânı indirimli olacak.",
     "perk20Unlock": "İndirimli 50 eşya satın al.",
     "perk21Name": "BİRLEŞTİRME",
     "perk21Text": "İki adet 2 Yıldızlı eşya elde etmek, onları 3 Yıldızlı bir eşyada birleştirir. Sadece bir kez çalışır ve 7. günden itibaren ({used_unused}).",
-    "perk21Unlock": "3 yıldızlı bir eşya ile 10. Kupayı 2 kez kazanın.",
+    "perk21Unlock": "3 Yıldızlı bir eşyayla 10. Kupayı 2 kez kazan.",
     "used": "kullanıldı",
     "unused": "kullanılmadı",
     "perk22Name": "BÜYÜME",
     "perk22Text": "Bir Zaman Yuvası ile başla.",
-    "perk22Unlock": "Rüya Yakalayıcı ile bekleme sürelerini 300 kez azalt.",
+    "perk22Unlock": "Zaman Toniğini 6 kez kullan.",
     "perk23Name": "KUMAR",
-    "perk23Text": "2. Gün: Rastgele bir Epik eşya kazan. -%25 HP ve -15 Altın ile başlarsın.",
+    "perk23Text": "2. Gün: Rastgele bir Epik eşya kazan. -%20 HP ve -15 Altın ile başlarsın.",
     "perk23Unlock": "Sadece Epik eşyalar satın alarak 10 kupa kazanın.",
+    "perk24Name": "NADİR BULUNTU",
+    "perk24Text": "3. Gün: +1 Çoklu Tetiklemeye sahip Nadir bir eşya keşfet.",
+    "perk24Unlock": "100 Nadir eşya satın al.",
+    "perk25Name": "SERİ ÜRETİM",
+    "perk25Text": "3. günde ilk 3 dükkânda yalnızca aynı eşyadan 7 adet bulunur.",
+    "perk25Unlock": "Kulende aynı eşyadan 3 tane varken 10. Kupayı kazan.",
+    "perk26Name": "ÖNCEDEN HABER",
+    "perk26Text": "1. Gün: 6. günde kazanacağın Efsanevi bir eşya keşfet.",
+    "perk26Unlock": "Yalnızca Efsanevi eşyalarla 10. Kupayı kazan.",
+    "perk27Name": "MIDAS'IN SELAMI",
+    "perk27Text": "+8 Altın ile başla. 4. Gün: Bir Midas Yuvası kazan.",
+    "perk27Unlock": "9. günde Kral Midas'tan \"Rastgele Kutsama\" seç.",
+    "perk28Name": "RİSKLİ İŞ",
+    "perk28Text": "2. Gün: Rastgele 1 Yıldızlı Nadir bir eşya kazan. -%20 HP ve -15 Altın ile başlarsın.",
+    "perk28Unlock": "Yalnızca Nadir eşyalar satın alarak 10. Kupayı kazan.",
+    "perk29Name": "TEK NUMARA",
+    "perk29Text": "6. ve 9. Gün: En çok sahip olduğun türden rastgele bir eşya keşfet.",
+    "perk29Unlock": "Yalnızca tek bir paketten eşya satın alarak 10. Kupayı kazan.",
+    "perk30Name": "İKRAMLAR",
+    "perk30Text": "+10 Altın ile başla. 5. ve 8. Gün: Normal bir İksir keşfet.",
+    "perk30Unlock": "10 Normal İksir kullan.",
+    "perk31Name": "YANSIMA",
+    "perk31Text": "Satın aldığın ilk eşyanın düz bir kopyasını kazan. -20 Altın ile başlarsın.",
+    "perk31Unlock": "Ayna İksirini 3 kez kullan.",
     "perk999Name": "TBA",
     "perk999Text": "TBA.",
     "priest1Name": "İyileştirici Dokunuş",
@@ -424,40 +501,40 @@
     "priest2Name": "Kutsama",
     "priest2Text": "+300 Maks. HP ve +10 Gelir kazan.",
     "katya1Name": "Mızrağımı Al",
-    "katya1Text": "\"Hepsi\" etiketli bir Refined Mızrak kazan.",
+    "katya1Text": "Bir Rafine Mızrak kazan (+10 Hasar / +5 rastgele tür).",
     "katya2Name": "Limonlar ve Yeşil Limonlar",
     "katya2Text": "Altın kazanmak için Limon ve Yeşil Limon dilimle. Başlamak için bir Kılıç, Hançer veya Balta buraya sürükle.",
     "katya2Text2": "Dilimlemek için meyvelerin üzerine gel.",
     "blacksmith1Name": "Ağır Zırh",
     "blacksmith1Text": "Her savaşa Maks. HP'nin %10'u kadar Kalkan ile başla.",
     "blacksmith2Name": "Yükselt!",
-    "blacksmith2Text": "Bir eşyaya +8 hasar ve %30 kritik şansı ver.",
+    "blacksmith2Text": "Bir eşyaya +8 Hasar ve %30 Kritik Şansı ver.",
     "homebrewer1Name": "Rastgele Şişeler",
     "homebrewer1Text": "2 rastgele şişe kazan.",
     "homebrewer2Name": "Ev Yapımı",
     "homebrewer2Text": "Rastgele özelliklere sahip bir Ev Yapımı İçecek kazan.",
     "pirate1Name": "Kancaya takıldı",
-    "pirate1Text": "%30 ekstra kritik şansına sahip bir Kanca kazan.",
+    "pirate1Text": "%30 ekstra Kritik Şansına sahip bir Kanca kazan.",
     "pirate2Name": "Yağma",
     "pirate2Text": "Bir Kadeh ve +10 Altın kazan.",
     "potionseller1Name": "Normal Stok",
-    "potionseller1Text": "Rastgele bir silah-buff iksiri al.",
+    "potionseller1Text": "Rastgele bir silah buff iksiri al.",
     "potionseller2Name": "Özel Stok",
-    "potionseller2Text": "Bir değer iksiri kazan. (dükkandaki herhangi bir eşya ile takas edilebilir).",
+    "potionseller2Text": "Bir değer iksiri kazan. (dükkândaki herhangi bir eşya ile takas edilebilir).",
     "shieldbearer1Name": "Kalkanımı al",
     "shieldbearer1Text": "+1 çoklu tetiklemeye sahip bir Can Muhafızı kazan.",
     "shieldbearer2Name": "Kalkan Ustalığı",
-    "shieldbearer2Text": "Bir kalkana +1 çoklu tetikleme ve +10 kalkan ver.",
-    "traveller1Name": "Ücretsiz Sallamalar",
-    "traveller1Text": "2 ücretsiz yeniden salla kazan ve her gün +2 ücretsiz yeniden salla (birikebilir).",
+    "shieldbearer2Text": "Bir Kalkana +1 Çoklu Tetikleme ve +10 Kalkan ver.",
+    "traveller1Name": "Ücretsiz Yenilemeler",
+    "traveller1Text": "2 ücretsiz yenileme kazan ve her gün +2 ücretsiz yenileme (birikebilir).",
     "traveller2Name": "Gezginin Stoku",
-    "traveller2Text": "4x Şişede Bulut kazan (+3 ücretsiz yeniden salla verir).",
-    "warrior1Name": "Bıçakla",
-    "warrior1Text": "Silahlarına kalıcı olarak +6 hasar ver.",
+    "traveller2Text": "4x Şişede Bulut kazan (+3 ücretsiz yenileme verir).",
+    "warrior1Name": "Bileyle",
+    "warrior1Text": "Silahlarına kalıcı olarak +6 Hasar ver.",
     "warrior2Name": "Silah Ganimeti",
     "warrior2Text": "2 rastgele Yaygın silah kazan.",
-    "elvenarcher1Name": "Elf Lütuf",
-    "elvenarcher1Text": "Bir Toplu Saldırı Yuvası kazan (Uzak dövüş eşyası 10 hasar veren +2 mermi kazanır).",
+    "elvenarcher1Name": "Elf Lütfu",
+    "elvenarcher1Text": "Bir Topçu Yuvası kazan (Uzak Dövüş eşyası, 10 Hasar veren +2 mermi kazanır).",
     "elvenarcher2Name": "Yayımı al",
     "elvenarcher2Text": "Elf ve +4 çoklu tetiklemeye sahip bir Normal Yay kazan.",
     "elder1Name": "Anında Bilgi",
@@ -467,14 +544,14 @@
     "enchanter1Name": "Eşya Keşfet",
     "enchanter1Text": "Bir epik sandık kazan.",
     "enchanter2Name": "Büyüle",
-    "enchanter2Text": "Bir Yaygın veya Nadir eşyayı yükselt. (Maks 2 yıldız).",
+    "enchanter2Text": "Bir Yaygın veya Nadir eşyayı 15 Altın karşılığında yükselt (Maks. 2 Yıldız).",
     "mrspook1Name": "Şeker veya Tatlı",
-    "mrspook1Text": "Artık dükkanda şekerler görünecek.",
-    "mrspook2Name": "Creepy Fırsat",
+    "mrspook1Text": "Artık dükkânda şekerler görünecek.",
+    "mrspook2Name": "Ürpertici Fırsat",
     "mrspook2Text": "2 rastgele Cadı eşyası kazan.",
     "potionshop1Name": "Çal",
     "potionshop1Name2": "Çal",
-    "potionshop1Text": "Bir İksi Çal.",
+    "potionshop1Text": "Babaannenin iksirleri arasından 1 iksir çal.",
     "potionshop2Name": "Çeşitlerine bak",
     "potionshop2Text": "7 iksir içeren bir dükkân.",
     "sage1Name": "Kutsal Hediye",
@@ -482,13 +559,13 @@
     "sage2Name": "Kutsal Dokunuş",
     "sage2Text": "Bir Canlılık Yuvası kazan (İyileştirmeyi Maks. HP'ye dönüştürür).",
     "salesman1Name": "Ucuzluk Sözleşmesi",
-    "salesman1Text": "Kalıcı Buff: Dükkandaki eşyalar indirimli olabilir.",
+    "salesman1Text": "Kalıcı Buff: Dükkândaki eşyalar indirimli olabilir.",
     "salesman2Name": "İndirim Lisansı",
-    "salesman2Text": "15 altın kazan. Kalıcı Buff: Yeniden sallama maliyetini 1 altın azalt.",
+    "salesman2Text": "15 Altın kazan. Kalıcı Buff: Yenileme maliyetini 1 Altın azalt.",
     "chronomancer1Name": "Eser İste",
-    "chronomancer1Text": "Bir Zaman Kolyesi kazan.",
+    "chronomancer1Text": "Bir Zaman Kolyesi kazan (-0.2s Bekleme Süresi).",
     "chronomancer2Name": "İksir İste",
-    "chronomancer2Text": "Bir Zaman Tonu kazan (bir eşyanın bekleme süresini kalıcı olarak 0.5s azaltır).",
+    "chronomancer2Text": "Bir Zaman Toniği kazan (bir eşyanın bekleme süresini 0.5s azaltır).",
     "cleric1Name": "Yaşam Dalgalanması",
     "cleric1Text": "+2000 Maks. HP kazan ve 2 canını geri getir.",
     "cleric2Name": "Canlılık",
@@ -497,22 +574,22 @@
     "sirdrakk1Text": "Yarın: Ejderhanın Hazinesini bul.",
     "sirdrakk2Name": "Keskin Pençeler",
     "sirdrakk2Text": "Bir eşyaya +%80 Kritik Şansı ver.",
-    "carmen1Name": "Şanslı Yeniden Sallamalar",
-    "carmen1Text": "+%15 Şans kazan (şanslı yeniden sallama şansı).",
+    "carmen1Name": "Şanslı Yenilemeler",
+    "carmen1Text": "+%15 Şans kazan (Şanslı Yenileme şansı).",
     "carmen2Name": "Suda Yürümek",
     "carmen2Text": "Tüm eşyalarının bekleme süresini 0.3s azalt.",
     "celestia1Name": "Özel Hediye",
-    "celestia1Text": "15 altın ve bir Ayna İksiri kazan (bir eşyanın düz kopyasını verir).",
+    "celestia1Text": "15 altın ve bir Ayna İksiri kazan (bir eşyanın özelliksiz kopyasını verir).",
     "celestia2Name": "Dilek",
     "celestia2Text": "Bir 2 Yıldızlı eşyayı 2 gün içinde (11. gün) 3 Yıldızlı bir eşyaya yükselt.",
     "vlado1Name": "Lanetli Eşya",
     "vlado1Text": "Bir Lanetli Eşya keşfet.",
-    "vlado2Name": "Kolye Kazan",
+    "vlado2Name": "Tılsım Kazan",
     "vlado2Text": "1 Yıldızlı bir Gece Tüyü kazan (Savaş Başlangıcı efektlerin 2 ekstra kez tetiklenir).",
     "alderos1Name": "Yüceliş",
-    "alderos1Text": "Bir Epik veya altı eşyayı yükselt (maks 2 yıldız).",
+    "alderos1Text": "Epik veya daha düşük nadirlikte bir eşyayı 25 Altın karşılığında yükselt (Maks. 2 Yıldız).",
     "alderos2Name": "Bilgelik",
-    "alderos2Text": "Kuleni rastgele yuva bufflarıyla doldur.",
+    "alderos2Text": "Kuleni rastgele yuva buff'larıyla doldur.",
     "kingmidas1Name": "Kralın Armağanı",
     "kingmidas1Text": "Bir Hazine Sandığı kazan. (28 altına satılır ve +2 Kadeh verir)",
     "kingmidas2Name": "Krala Selam Olsun",
@@ -520,46 +597,50 @@
     "midasBlessing1Name": "Kralın Kutsaması",
     "midasBlessing1Text": "Her gün bir değer iksiri kazan.",
     "midasBlessing2Name": "Brodas'ın Kutsaması",
-    "midasBlessing2Text": "Bir Kraliyet Damlaları kazan (dükkandaki bir eşyanın 3 kopyasını verir).",
+    "midasBlessing2Text": "Bir Kraliyet Damlaları kazan (dükkândaki bir eşyanın 3 kopyasını verir).",
     "midasBlessing3Name": "Şanslı Kutsama",
-    "midasBlessing3Text": "+%10 şans ve 3 garanti şanslı yeniden salla kazan.",
+    "midasBlessing3Text": "+%10 şans ve 3 garanti şanslı yenileme kazan.",
     "midasBlessing4Name": "Bonk Kutsaması",
-    "midasBlessing4Text": "Bir Kadeh kazan. Bunların görünme olasılığı çok daha yüksek olur ve her gün satış değerlerine eşit hasar kazanırlar.",
+    "midasBlessing4Text": "Bir Kadeh kazan. Bunların görünme olasılığı çok daha yüksek olur ve her gün satış değerlerine eşit Hasar kazanırlar.",
     "midasBlessing5Name": "Bozuk Kutsama",
     "midasBlessing5Text": "500 yanma hasarına sahip bir Felakete Rehber kazan.",
     "midasBlessing6Name": "Fortuna Kutsaması",
-    "midasBlessing6Text": "Bir Hazine Sandığı kazan. Artık dükkanda görünebilirler.",
+    "midasBlessing6Text": "Bir Hazine Sandığı kazan. Artık dükkânda görünebilirler.",
     "midasBlessing7Name": "Yankı Kutsaması",
-    "midasBlessing7Text": "Bir Hayalet İçeceği kazan (+1 çoklu tetikleme verir).",
+    "midasBlessing7Text": "Bir Hayalet İçeceği kazan (+1 Çoklu Tetikleme verir).",
     "midasBlessing8Name": "Canlılık Kutsaması",
     "midasBlessing8Text": "Şimdi ve her günün başında +750 Maks. HP kazan.",
     "midasBlessing9Name": "Keskinlik Kutsaması",
-    "midasBlessing9Text": "Tüm eşyalarına +%20 kritik şansı ver.",
+    "midasBlessing9Text": "Tüm eşyalarına +%20 Kritik Şansı ver.",
     "midasBlessing10Name": "Tüccar Kutsaması",
     "midasBlessing10Text": "2 Midas Yuvası kazan (eşyaların satış değerini artırır).",
     "lyra1Name": "Derin Dondurma",
-    "lyra1Text": "Yetenek kazan: Derin Dondurma. Tek tek eşyaları dondurmak için sürükle. Yeniden sallamalarda kalırlar ve görünme olasılıkları artar.",
+    "lyra1Text": "Yetenek kazan: Derin Dondurma. Tek tek eşyaları dondurmak için sürükle. Yenilemelerde kalırlar ve görünme olasılıkları artar.",
     "lyra2Name": "Kuzey Kutsaması",
     "lyra2Text": "Bir eşyayı Ayaz yap ve bir Donmuş Küre kazan.",
     "nicholas1Name": "Hediyeler!",
-    "nicholas1Text": "Dükkanda hediyeler görünecek.",
+    "nicholas1Text": "Dükkânda hediyeler görünecek.",
     "nicholas2Name": "Çarkı Çevir",
-    "nicholas2Text": "Fiyat: 8 altın. Her çevirişte +3 altın artar.",
+    "nicholas2Text": "Fiyat: 8 altın. Her çevirişte +3 Altın artar.",
     "miriel1Name": "Meleğine bir bozuk para at",
     "miriel1Text": "2 canla diril ve 45 Altın kazan.",
     "miriel2Name": "Çağrıya Uy",
     "miriel2Text": "2 canla diril, 16 XP kazan ve bir Epik sandık kazan.",
     "bishop1Name": "Yüceltme",
-    "bishop1Text": "+7000 Maks. HP kazan ve tüm eşyalarına +15 hasar ver.",
-    "bishop2Name": "Müjde",
-    "bishop2Text": "+6500 Maks. HP ve 3 garanti şanslı yeniden salla kazan.",
+    "bishop1Text": "+7000 Maks. HP kazan ve tüm eşyalarına +15 Hasar ver.",
+    "bishop2Name": "Hayır Duası",
+    "bishop2Text": "+6500 Maks. HP ve 3 garanti şanslı yenileme kazan.",
     "shadydealer1Name": "Hayır Teşekkürler",
     "shadydealer1Text": "Teklifi reddet ve satıcıdan 5 altın çal.",
     "shadydealer2Name": "Dinle Çocuk..",
-    "shadydealer2Text": "{stat1} puan kaybet. 23. Gün: +{stat2} puan kazan.",
+    "shadydealer2Text": "-{stat1} puan kaybet. 23. Gün: +{stat2} puan kazan.",
+    "backpack_girl1Name": "Sırt Çantası Sürprizi",
+    "backpack_girl1Text": "Backpack Battles'tan bir eşya keşfet (ve eşya havuzuna ekle).",
+    "backpack_girl2Name": "Paketleme Dersi",
+    "backpack_girl2Text": "Yönlü yeteneklere sahip eşyaları döndürmeni sağlar. (Eşyayı tutarken sağ tıkla.)",
     "priest": "Rahip",
     "blacksmith": "Demirci",
-    "homebrewer": "Ev İçecekçisi",
+    "homebrewer": "İksir Ustası",
     "pirate": "Korsan",
     "potionseller": "İksir Satıcısı",
     "shieldbearer": "Kalkan Taşıyıcı",
@@ -573,7 +654,7 @@
     "sage": "Bilge",
     "salesman": "Satıcı",
     "chronomancer": "Krono Büyücüsü",
-    "cleric": "Kilise Üyesi",
+    "cleric": "Rahip",
     "carmen": "Carmen",
     "celestia": "Celestia",
     "vlado": "Kont Vlado",
@@ -583,32 +664,33 @@
     "nicholas": "Nicholas",
     "miriel": "Miriel",
     "bishop": "Piskopos",
-    "shady_dealer": "Şüpheli Satıcı",
+    "shady_dealer": "Tekinsiz Satıcı",
     "sirdrakk": "Drakk'Zar",
-    "katya": "Katya"
+    "katya": "Katya",
+    "backpack_girl": "Sırt Çantalı Kız"
   },
   "encounter_tips": {
     "shadydealer1Tip": "Reddet",
     "shadydealer2Tip": "Şüpheli Anlaşma",
-    "priest1Tip": "+%100 Maks. HP",
+    "priest1Tip": "+%85 Maks. HP",
     "priest2Tip": "HP + Gelir",
     "katya1Tip": "Mızrak Kazan",
     "katya2Tip": "Limonlar ve Yeşil Limonlar",
     "blacksmith1Tip": "Kalkan Kazan",
-    "blacksmith2Tip": "Hasar Buffı",
+    "blacksmith2Tip": "Hasar Buff'ı",
     "homebrewer1Tip": "Rastgele Şişeler",
     "homebrewer2Tip": "Ev Yapımı Kazan",
     "pirate1Tip": "Kanca Kazan",
     "pirate2Tip": "Kadeh Kazan",
-    "potionseller1Tip": "Silah-Buff İksiri",
+    "potionseller1Tip": "Silah Buff İksiri",
     "potionseller2Tip": "Değer İksiri",
     "shieldbearer1Tip": "Can Muhafızı Kazan",
     "shieldbearer2Tip": "Kalkana Çoklu Tetikleme",
-    "traveller1Tip": "Ücretsiz Sallamalar",
+    "traveller1Tip": "Ücretsiz Yenilemeler",
     "traveller2Tip": "Bulut Şişeleri",
     "warrior1Tip": "Silahlara Hasar",
     "warrior2Tip": "Silah Ganimeti",
-    "elvenarcher1Tip": "Toplu Saldırı Yuvası",
+    "elvenarcher1Tip": "Topçu Yuvası",
     "elvenarcher2Tip": "Yay Kazan",
     "elder1Tip": "Anında XP",
     "elder2Tip": "Yükselen XP",
@@ -619,13 +701,13 @@
     "sage1Tip": "İyileştirme Kazan",
     "sage2Tip": "Canlılık Yuvası",
     "salesman1Tip": "İndirimli Eşyalar",
-    "salesman2Tip": "Daha Ucuz Yeniden Sallama",
+    "salesman2Tip": "Daha Ucuz Yenileme",
     "chronomancer1Tip": "Zaman Kolyesi",
-    "chronomancer2Tip": "Zaman Tonu",
+    "chronomancer2Tip": "Zaman Toniği",
     "cleric1Tip": "Canları Geri Getir",
     "cleric2Tip": "Maks. HP",
     "sirdrakk1Tip": "Ejderhanın Hazinesi",
-    "sirdrakk2Tip": "Eşyaya Krit",
+    "sirdrakk2Tip": "Eşyaya Kritik Şansı",
     "carmen1Tip": "Şansı Artır",
     "carmen2Tip": "Bekleme Sürelerini Azalt",
     "celestia1Tip": "Eşyayı Kopyala",
@@ -633,7 +715,7 @@
     "vlado1Tip": "Lanetli Eşya",
     "vlado2Tip": "Gece Tüyü Kazan",
     "alderos1Tip": "Epik veya Altı Eşyayı Yükselt",
-    "alderos2Tip": "Yuva Buffları",
+    "alderos2Tip": "Yuva Buff'ları",
     "kingmidas1Tip": "Hazine Kazan",
     "kingmidas2Tip": "Rastgele Kutsama",
     "lyra1Tip": "Derin Dondurma",
@@ -641,22 +723,28 @@
     "miriel1Tip": "Altın",
     "miriel2Tip": "Epik Eşya",
     "bishop1Tip": "Eşyalara Buff",
-    "bishop2Tip": "Şanslı Yeniden Sallamalar"
+    "bishop2Tip": "Şanslı Yenilemeler",
+    "backpack_girl1Tip": "Eşya Keşfet",
+    "backpack_girl2Tip": "Yönleri Döndür"
   },
   "slot_buffs": {
     "pandoraName": "Pandora'nın Yuvası",
     "pandoraText1": "Gün Başlangıcı: Bu eşyanın düz bir kopyasını kazan (Pandora'nın Kutusu hariç).",
-    "pandoraText2": "Gün Başlangıcı: Bu eşyanın {stat} düz kopyasını kazan (Pandora'nın Kutusu hariç).",
+    "pandoraText2": "Gün Başlangıcı: Bu eşyanın {stat} özelliksiz kopyasını kazan (Pandora'nın Kutusu hariç).",
+    "lifestealName": "Can Çalma Yuvası",
+    "lifestealText": "Bu yuva Can Çalma sağlar.",
+    "frogName": "Kurbağa Yuvası",
+    "frogText": "Savaş Başlangıcında: Bu eşyaya türe özel buff'lar ver.",
     "bleedName": "Kanama Yuvası",
     "bleedText": "Bu yuva +{stat} Kanama sağlar.",
     "nightName": "Gece Yuvası",
     "nightText": "Savaş Başlangıcı efektleri burada iki kez tetiklenir.",
     "burnName": "Yanma Yuvası",
     "burnText": "Bu yuva +{stat} Yanma sağlar. (Her 4 günde +2)",
-    "critName": "Krit Yuvası",
-    "critText": "Bu yuva +%{stat} krit şansı sağlar.",
+    "critName": "Kritik Yuvası",
+    "critText": "Bu yuva +%{stat} Kritik Şansı sağlar.",
     "dmgName": "Hasar Yuvası",
-    "dmgText": "Bu yuva +{stat} hasar sağlar. (Her 3 günde +3)",
+    "dmgText": "Bu yuva +{stat} Hasar sağlar. (Her 3 günde +3)",
     "healName": "İyileştirme Yuvası",
     "healText": "Bu yuva +{stat} İyileştirme sağlar. (Her 3 günde +5)",
     "multicastName": "Çoklu Tetikleme Yuvası",
@@ -668,15 +756,15 @@
     "shockName": "Şok Yuvası",
     "shockText": "Bu yuva +{stat} Şok sağlar.",
     "magicName": "Büyü Yuvası",
-    "magicText": "Büyüler ve Büyü eşyalarının bekleme süresi %25 azalır.",
-    "hexName": "Heks Yuvası",
+    "magicText": "Buradaki Büyülerin ve Büyü türündeki eşyaların bekleme süresi %25 azalır.",
+    "hexName": "Lanet Yuvası",
     "hexText": "Her gün, bu yuva kalıcı olarak rastgele bir debuff sağlar.",
     "meleeName": "Yakın Dövüş Yuvası",
-    "meleeText": "Buradaki Yakın Dövüş eşyası +%25 hasar elde eder.",
+    "meleeText": "Buradaki Yakın Dövüş eşyası +%25 Hasar kazanır.",
     "vitalityName": "Canlılık Yuvası",
-    "vitalityText": "İlk 3 tetikleme: Buradaki iyileştirme aynı zamanda Maks. HP da sağlar.",
-    "artilleryName": "Toplu Saldırı Yuvası",
-    "artilleryText": "Buradaki uzak dövüş eşyası 2 ekstra mermi ateşler (10 hasar).",
+    "vitalityText": "İlk 3 tetikleme: Buradaki İyileştirme aynı zamanda Maks. HP de sağlar.",
+    "artilleryName": "Topçu Yuvası",
+    "artilleryText": "Buradaki Uzak Dövüş eşyası 2 ekstra mermi ateşler (10 Hasar).",
     "midasSlotName": "Midas Yuvası",
     "midasSlotText": "Her gün, bu eşyanın satış değerini 25 artır.",
     "wildSlotName": "Vahşi Yuva",
@@ -698,7 +786,7 @@
     "types": "Türler",
     "mixed": "Karma",
     "all": "Hepsi",
-    "arcane": "Esrarengiz",
+    "arcane": "Gizemli",
     "crystal": "Kristal",
     "dark": "Karanlık",
     "elven": "Elf",
@@ -712,7 +800,7 @@
     "storm": "Fırtına",
     "witch": "Cadı",
     "artifact": "Eser",
-    "amulet": "Kolye",
+    "amulet": "Tılsım",
     "warfare": "Savaş",
     "axe": "Balta",
     "orb": "Küre",
@@ -737,25 +825,301 @@
     "sword": "Kılıç",
     "dragon": "Ejderha",
     "goblin": "Goblin",
-    "ring": "Yüzük"
+    "ring": "Yüzük",
+    "fairy": "Peri",
+    "card": "Kart",
+    "vampire": "Vampir",
+    "wind": "Rüzgâr"
   },
   "effects": {
     "poison": "Zehir: Saniyede X Hasar ver.",
-    "crit": "Krit: 2x hasar için % şans.",
+    "crit": "Kritik: % şansla 2x Hasar verir.",
     "burn": "Yanma: Her 0.5 saniyede X Hasar ver (azalır).",
     "shield": "Kalkan: X Hasarı engeller (zehir hariç).",
-    "bleed": "Kanama: Düşmanlar eşyalar tarafından vurulduğunda *kanama* ekstra hasar alır.",
+    "bleed": "Kanama: Düşmanlar eşyalar tarafından vurulduğunda *kanama* kadar ekstra Hasar alır.",
     "heal": "İyileştirme: X HP geri yükle.",
     "multicast": "Çoklu Tetikleme: Eşya X ek kez tetiklenir.",
     "shock": "Şok: Saniyede *{dmg}* Hasar ver (azalır).",
-    "charges": "Hizalar: Eşya sadece X kez tetiklenebilir.",
-    "startofday": "Gün Başlangıcı efektleri envanterden çalışır."
+    "charges": "Kullanım: Eşya yalnızca X kez tetiklenebilir.",
+    "startofday": "Gün Başlangıcı efektleri envanterden çalışır.",
+    "lifesteal": "Can Çalma: Fiziksel Hasarın %50'si kadar iyileştir.",
+    "type": "Tür: Kutsal, Elf vb. paket etiketleri"
   },
   "item": {
+    "air_blast": {
+      "name": "Hava Patlaması",
+      "texts": [
+        "Tetiklendiğinde: +2 bonus Hasar kazan.",
+        "Tetiklendiğinde: +4 bonus Hasar kazan.",
+        "Tetiklendiğinde: +8 bonus Hasar kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +15 Hasar kazan."
+      ]
+    },
+    "stake": {
+      "name": "Kazık",
+      "texts": [
+        "",
+        "",
+        "Bu, 2 kez Can Çalma yapar.",
+        "Bu, 5 kez Can Çalma yapar."
+      ]
+    },
+    "dread": {
+      "name": "Dehşet",
+      "texts": [
+        "Her 2 Tetiklemede: Kalıcı olarak +1 Hasar kazan.",
+        "Her 2 Tetiklemede: Kalıcı olarak +2 Hasar kazan.",
+        "Her 2 Tetiklemede: Tüm Dehşetlerine kalıcı olarak +2 Hasar ver.",
+        "Tetiklendiğinde: Tüm Dehşetlerine kalıcı olarak +2 Hasar ver."
+      ]
+    },
+    "sanguine_blade": {
+      "name": "Kanlı Kılıç",
+      "texts": [
+        "Krit Vuruşta: 1 kez daha Can Çalma yap.",
+        "Krit Vuruşta: 2 kez daha Can Çalma yap.",
+        "Krit Vuruşta: 3 kez daha Can Çalma yap.",
+        "Krit Vuruşta: 5 kez daha Can Çalma yap."
+      ]
+    },
+    "blood_pact": {
+      "name": "Kan Anlaşması",
+      "texts": [
+        "Tetiklendiğinde: Vampir eşyalarına kalıcı olarak +1 Hasar ver.",
+        "Tetiklendiğinde: Vampir eşyalarına kalıcı olarak +2 Hasar ver.",
+        "Tetiklendiğinde: Vampir eşyalarına kalıcı olarak +4 Hasar ver.",
+        "Tetiklendiğinde: Vampir eşyalarına kalıcı olarak +10 Hasar ver."
+      ]
+    },
+    "red_rose": {
+      "name": "Kırmızı Gül",
+      "texts": [
+        "Pasif: Can Çalma ile iyileştirdiğin miktarın %20'sini kalıcı Maks. HP olarak kazan.",
+        "Pasif: Can Çalma ile iyileştirdiğin miktarın %30'unu kalıcı Maks. HP olarak kazan.",
+        "Pasif: Can Çalma ile iyileştirdiğin miktarın %40'ını kalıcı Maks. HP olarak kazan.",
+        "Pasif: Can Çalma ile iyileştirdiğin miktarın %80'ini kalıcı Maks. HP olarak kazan."
+      ]
+    },
+    "coffin": {
+      "name": "Tabut",
+      "texts": [
+        "Tetiklendiğinde: Bir Dehşet kazan.",
+        "Tetiklendiğinde: 2 Dehşet kazan.",
+        "Tetiklendiğinde: 3 Dehşet kazan ve Dehşetlerine kalıcı olarak +2 Hasar ver.",
+        "Tetiklendiğinde: 4 Dehşet kazan, Dehşetlerini tetikle ve onlara kalıcı olarak +5 Hasar ver."
+      ]
+    },
+    "vlado_s_mirror": {
+      "name": "Vlado'nun Aynası",
+      "texts": [
+        "Tetiklendiğinde: Dehşetlerini tetikle.",
+        "Tetiklendiğinde: Dehşetlerini iki kez tetikle.",
+        "Tetiklendiğinde: Dehşetlerini 3 kez tetikle ve onlara kalıcı olarak +2 Hasar ver.",
+        "Tetiklendiğinde: Dehşetlerini 4 kez tetikle ve onlara kalıcı olarak +10 Hasar ver."
+      ]
+    },
+    "hand_of_blood": {
+      "name": "Kan Eli",
+      "texts": [
+        "Can Çalma yaptığında kalıcı olarak +2 Hasar kazan.",
+        "Can Çalma yaptığında kalıcı olarak +4 Hasar kazan.",
+        "Can Çalma yaptığında kalıcı olarak +8 Hasar kazan.",
+        "Can Çalma yaptığında kalıcı olarak +12 Hasar ve +50 Maks. HP kazan."
+      ]
+    },
+    "crimson_amulet": {
+      "name": "Kızıl Tılsım",
+      "texts": [
+        "Başka bir eşya Can Çalma yaptığında bunu tetikle.",
+        "Başka bir eşya Can Çalma yaptığında bunu iki kez tetikle.",
+        "Başka bir eşya Can Çalma yaptığında bunu 3 kez tetikle.",
+        "Başka bir eşya Can Çalma yaptığında bunu 4 kez tetikle ve kalıcı olarak +100 Maks. HP kazan."
+      ]
+    },
+    "piggy_bank": {
+      "name": "Kumbara",
+      "texts": [
+        "Tetiklendiğinde: Bu eşyanın satış değerini kalıcı olarak 3 artır.",
+        "Tetiklendiğinde: Bu eşyanın satış değerini kalıcı olarak 6 artır.",
+        "Tetiklendiğinde: Bu eşyanın satış değerini kalıcı olarak 12 artır.",
+        "Tetiklendiğinde: Bu eşyanın satış değerini kalıcı olarak 24 artır."
+      ]
+    },
+    "lucky_clover": {
+      "name": "Şanslı Yonca",
+      "texts": [
+        "Tetiklendiğinde: 1 garantili Şanslı Yenileme kazan.",
+        "Tetiklendiğinde: 2 garantili Şanslı Yenileme kazan.",
+        "Tetiklendiğinde: 4 garantili Şanslı Yenileme kazan.",
+        "Tetiklendiğinde: 8 garantili Şanslı Yenileme kazan."
+      ]
+    },
+    "pan": {
+      "name": "Tava",
+      "texts": [
+        "Tetiklendiğinde: Bitişiğindeki her Yaygın eşya başına kalıcı olarak +4 Hasar kazan.",
+        "Tetiklendiğinde: Bitişiğindeki her Yaygın eşya başına kalıcı olarak +8 Hasar kazan.",
+        "Tetiklendiğinde: Bitişiğindeki her Yaygın eşya başına kalıcı olarak +16 Hasar kazan.",
+        "Tetiklendiğinde: Bitişiğindeki her Yaygın eşya başına kalıcı olarak +32 Hasar kazan."
+      ]
+    },
+    "goobert": {
+      "name": "Goobert",
+      "texts": [
+        "Soldaki başka bir eşya tetiklendiğinde, bunu tetikle.",
+        "Soldaki başka bir eşya tetiklendiğinde, bunu iki kez tetikle.",
+        "Soldaki başka bir eşya tetiklendiğinde, bunu üç kez tetikle.",
+        "Soldaki başka bir eşya tetiklendiğinde, bunu 4 kez tetikle ve kalıcı olarak +2 Kalkan kazan."
+      ]
+    },
+    "banana": {
+      "name": "Muz",
+      "texts": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    "fairytale": {
+      "name": "Peri Masalı",
+      "texts": [
+        "Başka bir Büyü tetiklendiğinde, bunu tetikle.",
+        "Başka bir Büyü tetiklendiğinde, bunu tetikle. Her iki tetiklemede bir +1 Bonus İyileştirme kazan.",
+        "Başka bir Büyü tetiklendiğinde, bunu tetikle. Her iki tetiklemede bir +2 Bonus İyileştirme kazan.",
+        "Başka bir Büyü tetiklendiğinde, bunu tetikle ve kalıcı olarak +2 İyileştirme kazan."
+      ]
+    },
+    "butterflies": {
+      "name": "Kelebekler",
+      "texts": [
+        "",
+        "",
+        "Savaş Başlangıcında: +2 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +3 Çoklu Tetikleme kazan."
+      ]
+    },
+    "opal_knife": {
+      "name": "Opal Bıçak",
+      "texts": [
+        "",
+        "",
+        "İlk Tetiklemede: Bunu 1 kez daha tetikle.",
+        "İlk Tetiklemede: Bunu 4 kez daha tetikle."
+      ]
+    },
+    "harp": {
+      "name": "Arp",
+      "texts": [
+        "Tetiklendiğinde: 2 veya daha fazla türe sahip eşyalarına +1 bonus Hasar ver.",
+        "Tetiklendiğinde: 2 veya daha fazla türe sahip eşyalarına +2 bonus Hasar ver.",
+        "Tetiklendiğinde: 2 veya daha fazla türe sahip eşyalarına +3 bonus Hasar ver.",
+        "Tetiklendiğinde: 2 veya daha fazla türe sahip eşyalarına kalıcı olarak +2 Hasar ver."
+      ]
+    },
+    "fairy_orb": {
+      "name": "Peri Küresi",
+      "texts": [
+        "Tetiklendiğinde: Yukarıdaki Peri eşyasına henüz sahip olmadığı rastgele bir türü kalıcı olarak ver ve bekleme süresini %5 azalt.",
+        "Tetiklendiğinde: Yukarıdaki Peri eşyasına henüz sahip olmadığı rastgele bir türü kalıcı olarak ver ve bekleme süresini %10 azalt.",
+        "Tetiklendiğinde: Yukarıdaki Peri eşyasına henüz sahip olmadığı rastgele bir türü kalıcı olarak ver ve bekleme süresini %20 azalt.",
+        "Tetiklendiğinde: Yukarıdaki Peri eşyasına Hepsi etiketini kalıcı olarak ver ve bekleme süresini %25 azalt."
+      ]
+    },
+    "lily_pad_charm": {
+      "name": "Nilüfer Tılsımı",
+      "texts": [
+        "Tetiklendiğinde: Sağdaki Peri eşyasını tetikle.",
+        "Tetiklendiğinde: Sağdaki Peri eşyasını iki kez tetikle.",
+        "Tetiklendiğinde: Sağdaki Peri eşyasını üç kez tetikle ve ona kalıcı olarak +10 İyileştirme ver.",
+        "Tetiklendiğinde: Sağdaki Peri eşyasını 4 kez tetikle ve ona kalıcı olarak +30 İyileştirme ver."
+      ]
+    },
+    "wasps": {
+      "name": "Yaban Arıları",
+      "texts": [
+        "Başka bir Büyü tetiklendiğinde kalıcı olarak +2 Hasar kazan.",
+        "Başka bir Büyü tetiklendiğinde kalıcı olarak +4 Hasar kazan.",
+        "Başka bir Büyü tetiklendiğinde kalıcı olarak +8 Hasar kazan.",
+        "Başka bir Büyü tetiklendiğinde kalıcı olarak +8 Hasar kazan ve bunu tetikle."
+      ]
+    },
+    "rainbow_rod": {
+      "name": "Gökkuşağı Asası",
+      "texts": [
+        "Savaş Başlangıcında: Kalıcı olarak 2 yeni rastgele tür kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak 2 yeni rastgele tür kazan ve türe özel buff elde et.",
+        "Savaş Başlangıcında: Kalıcı olarak 2 yeni rastgele tür kazan ve türe özel buff'ları iki kez elde et.",
+        "Tetiklendiğinde: Kalıcı olarak 2 yeni rastgele tür kazan ve türe özel buff elde et."
+      ]
+    },
+    "frog_idol": {
+      "name": "Kurbağa İdolü",
+      "texts": [
+        "Tetiklendiğinde: Peri eşyalarına kalıcı olarak* türe özel buff'lar ver.",
+        "Tetiklendiğinde: Peri eşyalarına kalıcı olarak* türe özel buff'ları iki kez ver.",
+        "Tetiklendiğinde: Peri eşyalarına kalıcı olarak* türe özel buff'ları üç kez ver.",
+        "Tetiklendiğinde: Eşyalarına kalıcı olarak* türe özel buff'ları 5 kez ver."
+      ]
+    },
+    "enchanted_deck": {
+      "name": "Büyülü Deste",
+      "texts": [
+        "Tetiklendiğinde: Rastgele bir Kart kazan ve Kartlarına kalıcı olarak +3 Hasar ver.",
+        "Tetiklendiğinde: 2 rastgele Kart kazan ve Kartlarına kalıcı olarak +6 Hasar ver.",
+        "Tetiklendiğinde: 3 rastgele Kart kazan ve Kartlarına kalıcı olarak +12 Hasar ver.",
+        "Tetiklendiğinde: 4 rastgele Kart kazan ve Kartlarına kalıcı olarak +25 Hasar ver."
+      ]
+    },
+    "ace_of_spades": {
+      "name": "Maça Ası",
+      "texts": [
+        "Başka bir Kart tetiklendiğinde bunu tetikle.",
+        "Başka bir Kart tetiklendiğinde bunu iki kez tetikle.",
+        "Başka bir Kart tetiklendiğinde bunu üç kez tetikle.",
+        "Başka bir Kart tetiklendiğinde bunu üç kez tetikle ve kalıcı olarak +1 Hasar kazan."
+      ]
+    },
+    "two_of_diamonds": {
+      "name": "Karo İkilisi",
+      "texts": [
+        "Tetiklendiğinde: Her benzersiz Kart başına +1 bonus Kalkan kazan.",
+        "Tetiklendiğinde: Her benzersiz Kart başına +2 bonus Kalkan kazan.",
+        "Tetiklendiğinde: Her benzersiz Kart başına +4 bonus Kalkan kazan.",
+        "Tetiklendiğinde: Her benzersiz Kart başına kalıcı olarak +2 Kalkan kazan."
+      ]
+    },
+    "six_of_clubs": {
+      "name": "Sinek Altılısı",
+      "texts": [
+        "Tetiklendiğinde: Bitişiğindeki diğer Kartları tetikle.",
+        "Tetiklendiğinde: Bitişiğindeki diğer Kartları iki kez tetikle.",
+        "Tetiklendiğinde: Bitişiğindeki diğer Kartları üç kez tetikle.",
+        "Tetiklendiğinde: Diğer Kartlarını üç kez tetikle ve onlara kalıcı olarak +2 Hasar ver."
+      ]
+    },
+    "jack_of_clubs": {
+      "name": "Sinek Valesi",
+      "texts": [
+        "Tetiklendiğinde: Kupa Kızı'na temas ediyorsa kalıcı olarak +1 Hasar kazan.",
+        "Tetiklendiğinde: Kupa Kızı'na temas ediyorsa kalıcı olarak +2 Hasar kazan.",
+        "Tetiklendiğinde: Kupa Kızı'na temas ediyorsa kalıcı olarak +4 Hasar kazan.",
+        "Tetiklendiğinde: Kupa Kızı'na temas ediyorsa kalıcı olarak +5 Hasar ve +5 Kritik Şansı kazan."
+      ]
+    },
+    "queen_of_hearts": {
+      "name": "Kupa Kızı",
+      "texts": [
+        "Tetiklendiğinde: Sinek Valesi'ne temas ediyorsa kalıcı olarak +2 İyileştirme kazan.",
+        "Tetiklendiğinde: Sinek Valesi'ne temas ediyorsa kalıcı olarak +4 İyileştirme kazan.",
+        "Tetiklendiğinde: Sinek Valesi'ne temas ediyorsa kalıcı olarak +8 İyileştirme kazan.",
+        "Tetiklendiğinde: Sinek Valesi'ne temas ediyorsa kalıcı olarak +8 İyileştirme ve +100 Maks. HP kazan."
+      ]
+    },
     "blue_shard": {
       "name": "Mavi Parça",
       "texts": [
-        "Paslandığında: Takım arkadaşına +{stat} ucuz yeniden salla ver ve bunu yok et.",
+        "Aktardığında: Takım arkadaşına +{stat} ucuz yenileme ver ve bunu yok et.",
         "",
         "",
         ""
@@ -764,7 +1128,7 @@
     "purple_shard": {
       "name": "Mor Parça",
       "texts": [
-        "Paslandığında: Takım arkadaşına +{stat} XP ver ve bunu yok et.",
+        "Aktardığında: Takım arkadaşına +{stat} XP ver ve bunu yok et.",
         "",
         "",
         ""
@@ -773,7 +1137,7 @@
     "green_shard": {
       "name": "Yeşil Parça",
       "texts": [
-        "Paslandığında: Takım arkadaşına +{stat} Maks. HP ver ve bunu yok et.",
+        "Aktardığında: Takım arkadaşına +{stat} Maks. HP ver ve bunu yok et.",
         "",
         "",
         ""
@@ -782,7 +1146,7 @@
     "orange_shard": {
       "name": "Turuncu Parça",
       "texts": [
-        "Paslandığında: Takım arkadaşına +{stat} Altın ver ve bunu yok et.",
+        "Aktardığında: Takım arkadaşına +{stat} Altın ver ve bunu yok et.",
         "",
         "",
         ""
@@ -791,7 +1155,7 @@
     "dark_shard": {
       "name": "Karanlık Parça",
       "texts": [
-        "Paslandığında: Takım arkadaşının eşyalarına +{stat} hasar ver ve bunu yok et.",
+        "Aktardığında: Takım arkadaşının eşyalarına +{stat} Hasar ver ve bunu yok et.",
         "",
         "",
         ""
@@ -800,37 +1164,37 @@
     "king_s_shield": {
       "name": "Kralın Kalkanı",
       "texts": [
-        "Pasladığında: Kalıcı olarak +4 Kalkan kazan.",
-        "Pasladığında: Kalıcı olarak +8 Kalkan kazan.",
-        "Pasladığında: Kalıcı olarak +16 Kalkan kazan.",
-        "Pasladığında: Kalıcı olarak +16 Kalkan ve +16 İyileştirme kazan."
+        "Aktardığında: Kalıcı olarak +4 Kalkan kazan.",
+        "Aktardığında: Kalıcı olarak +8 Kalkan kazan.",
+        "Aktardığında: Kalıcı olarak +16 Kalkan kazan.",
+        "Aktardığında: Kalıcı olarak +16 Kalkan ve +16 İyileştirme kazan."
       ]
     },
     "king_s_blade": {
       "name": "Kralın Kılıcı",
       "texts": [
-        "Pasladığında: Kalıcı olarak +2 hasar ve +%2 krit şansı kazan.",
-        "Pasladığında: Kalıcı olarak +4 hasar ve +%4 krit şansı kazan.",
-        "Pasladığında: Kalıcı olarak +8 hasar ve +%8 krit şansı kazan.",
-        "Pasladığında: Bu eşyanın krit şansının yarısı kadar hasarı kalıcı olarak kazan."
+        "Aktardığında: Kalıcı olarak +2 Hasar ve +%2 Kritik Şansı kazan.",
+        "Aktardığında: Kalıcı olarak +4 Hasar ve +%4 Kritik Şansı kazan.",
+        "Aktardığında: Kalıcı olarak +8 Hasar ve +%8 Kritik Şansı kazan.",
+        "Aktardığında: Bu eşyanın Kritik Şansının yarısı kadar kalıcı Hasar kazan."
       ]
     },
     "glass_knife": {
       "name": "Cam Bıçak",
       "texts": [
-        "Elde Edildiğinde: Takım arkadaşına bir kopyasını pasla.",
-        "Elde Edildiğinde: Takım arkadaşına bir kopyasını pasla ve 'Pasladığında' etkilerini iki kez tetikle.",
-        "Elde Edildiğinde: Takım arkadaşına bir kopyasını pasla ve 'Pasladığında' etkilerini 4 kez tetikle.",
-        "Elde Edildiğinde: Takım arkadaşına bir kopyasını pasla. Tetiklendiğinde: 'Pasladığında' etkilerini tetikle."
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar.",
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar ve Aktarma etkilerini iki kez tetikle.",
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar ve Aktarma etkilerini 4 kez tetikle.",
+        "Elde Edildiğinde: Takım arkadaşına bir kopyasını aktar. Tetiklendiğinde: Aktarma etkilerini tetikle."
       ]
     },
     "silver_ring": {
       "name": "Gümüş Yüzük",
       "texts": [
-        "Tetiklendiğinde: +1 ucuz pas ve +1 ucuz yeniden salla kazan.",
-        "Tetiklendiğinde: +2 ucuz pas ve +2 ucuz yeniden salla kazan.",
-        "Tetiklendiğinde: +1 ücretsiz pas ve +1 ücretsiz yeniden salla kazan.",
-        "Tetiklendiğinde: +2 ücretsiz pas ve +2 ücretsiz yeniden salla kazan."
+        "Tetiklendiğinde: +1 ucuz aktarma ve +1 ucuz yenileme kazan.",
+        "Tetiklendiğinde: +2 ucuz aktarma ve +2 ucuz yenileme kazan.",
+        "Tetiklendiğinde: +1 ücretsiz aktarma ve +1 ücretsiz yenileme kazan.",
+        "Tetiklendiğinde: +2 ücretsiz aktarma ve +2 ücretsiz yenileme kazan."
       ]
     },
     "silver_akcel_ring": {
@@ -839,10 +1203,10 @@
     "king_s_bow": {
       "name": "Kralın Yayı",
       "texts": [
-        "Pasladığında: Bu eşyanın bekleme süresini kalıcı olarak 0.1s azalt.",
-        "Pasladığında: Bu eşyanın bekleme süresini kalıcı olarak 0.2s azalt.",
-        "Pasladığında: Bu eşyanın bekleme süresini kalıcı olarak 0.5s azalt ve +1 hasar kazan.",
-        "Pasladığında: Tüm yaylarına kalıcı olarak +1 hasar ver."
+        "Aktardığında: Bu eşyanın bekleme süresini kalıcı olarak 0.1s azalt.",
+        "Aktardığında: Bu eşyanın bekleme süresini kalıcı olarak 0.2s azalt.",
+        "Aktardığında: Bu eşyanın bekleme süresini kalıcı olarak 0.5s azalt ve +1 Hasar kazan.",
+        "Aktardığında: Tüm yaylarına kalıcı olarak +1 Hasar ver."
       ]
     },
     "shard_pouch": {
@@ -850,26 +1214,26 @@
       "texts": [
         "Tetiklendiğinde: Rastgele bir parça kazan.",
         "Tetiklendiğinde: 2 rastgele parça kazan.",
-        "Tetiklendiğinde: 3 rastgele parça ve +1 ucuz pas kazan.",
-        "Tetiklendiğinde: 4 rastgele parça ve +1 ücretsiz pas kazan."
+        "Tetiklendiğinde: 3 rastgele parça ve +1 ucuz aktarma kazan.",
+        "Tetiklendiğinde: 4 rastgele parça ve +1 ücretsiz aktarma kazan."
       ]
     },
     "whetstone": {
       "name": "Bileme Taşı",
       "texts": [
-        "Tetiklendiğinde: Bir taş yığını kazan. Pasladığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
-        "Tetiklendiğinde: 2 taş yığını kazan. Pasladığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
-        "Tetiklendiğinde: 3 taş yığını kazan. Pasladığında: Eşyalarına kalıcı olarak +5 hasar vermek için bir yığın tüket.",
-        "Pasladığında: Eşyalarına kalıcı olarak +10 hasar ver."
+        "Tetiklendiğinde: Bir taş yığını kazan. Aktardığında: Eşyalarına kalıcı olarak +5 Hasar vermek için bir yığın tüket.",
+        "Tetiklendiğinde: 2 taş yığını kazan. Aktardığında: Eşyalarına kalıcı olarak +5 Hasar vermek için bir yığın tüket.",
+        "Tetiklendiğinde: 3 taş yığını kazan. Aktardığında: Eşyalarına kalıcı olarak +5 Hasar vermek için bir yığın tüket.",
+        "Aktardığında: Eşyalarına kalıcı olarak +10 Hasar ver."
       ]
     },
     "prismatic_shard": {
       "name": "Prizmatik Parça",
       "texts": [
-        "Tetiklendiğinde: Gelecekte paslayacağın parçaları kalıcı olarak yükselt.",
-        "Tetiklendiğinde: Gelecekte paslayacağın parçaları kalıcı olarak iki kez yükselt.",
-        "Tetiklendiğinde: Gelecekte paslayacağın parçaları kalıcı olarak üç kez yükselt.",
-        "Tetiklendiğinde: Gelecekte paslayacağın parçaları kalıcı olarak 4 kez yükselt."
+        "Tetiklendiğinde: Gelecekte aktaracağın parçaları kalıcı olarak yükselt.",
+        "Tetiklendiğinde: Gelecekte aktaracağın parçaları kalıcı olarak iki kez yükselt.",
+        "Tetiklendiğinde: Gelecekte aktaracağın parçaları kalıcı olarak üç kez yükselt.",
+        "Tetiklendiğinde: Gelecekte aktaracağın parçaları kalıcı olarak 4 kez yükselt."
       ]
     },
     "flask_of_shards": {
@@ -882,12 +1246,12 @@
       ]
     },
     "recharge_rod": {
-      "name": "Şarj Çubuğu",
+      "name": "Yenileme Asası",
       "texts": [
-        "Tetiklendiğinde: Sağdaki eşyanın 1 şarjını doldur.",
-        "Tetiklendiğinde: Sağdaki eşyanın şarjını tamamen doldur.",
-        "Tetiklendiğinde: Sağdaki eşyaya kalıcı olarak +1 Maks. Şarj ver.",
-        "Sağdaki eşyanın sınırsız şarjı vardır."
+        "Tetiklendiğinde: Sağdaki eşyaya +1 Bonus Kullanım ver.",
+        "Tetiklendiğinde: Sağdaki eşyaya +2 Bonus Kullanım ver.",
+        "Tetiklendiğinde: Sağdaki eşyaya kalıcı olarak +1 Maks. Kullanım ver.",
+        "Sağdaki eşyanın sınırsız kullanım hakkı vardır."
       ]
     },
     "warbow": {
@@ -895,8 +1259,8 @@
       "texts": [
         "Savaş Başlangıcında: Benzersiz her yay için kalıcı olarak +2 Hasar kazan.",
         "Savaş Başlangıcında: Benzersiz her yay için kalıcı olarak +4 Hasar kazan.",
-        "Savaş Başlangıcında: Benzersiz her yay için kalıcı olarak +4 Hasar ve Krit Şansı kazan.",
-        "Savaş Başlangıcında: Benzersiz her yay için kalıcı olarak +8 Hasar, Krit ve Çoklu Tetikleme kazan."
+        "Savaş Başlangıcında: Benzersiz her yay için kalıcı olarak +4 Hasar ve Kritik Şansı kazan.",
+        "Savaş Başlangıcında: Benzersiz her yay için kalıcı olarak +8 Hasar, Kritik Şansı ve Çoklu Tetikleme kazan."
       ]
     },
     "launcher": {
@@ -914,7 +1278,7 @@
         "",
         "",
         "",
-        "Tetiklendiğinde: Kalıcı olarak +150 hasar kazan."
+        "Tetiklendiğinde: Kalıcı olarak +150 Hasar kazan."
       ]
     },
     "bio_bomb": {
@@ -936,30 +1300,30 @@
       ]
     },
     "rusty_cleaver": {
-      "name": "Paslı Kırdak",
+      "name": "Paslı Satır",
       "texts": [
-        "Tetiklendiğinde: +3 bonus hasar kazan.",
-        "Tetiklendiğinde: +6 bonus hasar kazan.",
-        "Tetiklendiğinde: +12 bonus hasar kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +6 hasar kazan."
+        "Tetiklendiğinde: +3 bonus Hasar kazan.",
+        "Tetiklendiğinde: +6 bonus Hasar kazan.",
+        "Tetiklendiğinde: +12 bonus Hasar kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +6 Hasar kazan."
       ]
     },
     "honing_steel": {
-      "name": "Bileyici Çeliği",
+      "name": "Çelik Bileyici",
       "texts": [
-        "Tetiklendiğinde: Eşyalarına +1 bonus hasar ver.",
-        "Tetiklendiğinde: Eşyalarına +2 bonus hasar ver.",
-        "Tetiklendiğinde: Eşyalarına +4 bonus hasar ver.",
-        "Tetiklendiğinde: Eşyalarına kalıcı olarak +2 hasar ver."
+        "Tetiklendiğinde: Eşyalarına +1 bonus Hasar ver.",
+        "Tetiklendiğinde: Eşyalarına +2 bonus Hasar ver.",
+        "Tetiklendiğinde: Eşyalarına +4 bonus Hasar ver.",
+        "Tetiklendiğinde: Eşyalarına kalıcı olarak +2 Hasar ver."
       ]
     },
     "bomb_wagon": {
       "name": "Bomba Arabası",
       "texts": [
-        "Tetiklendiğinde: Rastgele bir bomba kazan ve bombalarındaki 1 şarjı yenile.",
-        "Tetiklendiğinde: 2 rastgele bomba kazan ve bombalarına kalıcı olarak +1 şarj ver.",
-        "Tetiklendiğinde: 3 rastgele bomba kazan ve bombalarına kalıcı olarak +2 şarj ver.",
-        "Tetiklendiğinde: 5 rastgele bomba kazan, bombalarını tetikle ve onlara kalıcı olarak +3 şarj ver."
+        "Tetiklendiğinde: Rastgele bir bomba kazan ve bombalarındaki 1 Kullanımı yenile.",
+        "Tetiklendiğinde: 2 rastgele bomba kazan ve bombalarına kalıcı olarak +1 Kullanım ver.",
+        "Tetiklendiğinde: 3 rastgele bomba kazan ve bombalarına kalıcı olarak +2 Kullanım ver.",
+        "Tetiklendiğinde: 5 rastgele bomba kazan, bombalarını tetikle ve onlara kalıcı olarak +3 Kullanım ver."
       ]
     },
     "wrench": {
@@ -974,10 +1338,10 @@
     "cannon": {
       "name": "Top",
       "texts": [
-        "Bombaları buraya sürükleyerek kalıcı olarak +1 Şarj ve bomba istatistiklerinin %25'ini kazan.",
-        "Bombaları buraya sürükleyerek kalıcı olarak +2 Şarj ve bomba istatistiklerinin %33'ünü kazan.",
-        "Bombaları buraya sürükleyerek kalıcı olarak +3 Şarj ve bomba istatistiklerinin %50'sini kazan.",
-        "Bombaları buraya sürükleyerek kalıcı olarak +4 Şarj ve bomba istatistiklerinin %100'ünü kazan."
+        "Bombaları buraya sürükleyerek kalıcı olarak +1 Kullanım ve bomba istatistiklerinin %30'unu kazan.",
+        "Bombaları buraya sürükleyerek kalıcı olarak +2 Kullanım ve bomba istatistiklerinin %50'sini kazan.",
+        "Bombaları buraya sürükleyerek kalıcı olarak +3 Kullanım ve bomba istatistiklerinin %70'ini kazan.",
+        "Bombaları buraya sürükleyerek kalıcı olarak +4 Kullanım ve bomba istatistiklerinin %100'ünü kazan."
       ]
     },
     "multitool": {
@@ -995,25 +1359,25 @@
         "Tetiklendiğinde: Sadece benzersiz yayların varsa, diğer yaylarını 1 kez tetikle. (Bu efekt kritik vurabilir!)",
         "Tetiklendiğinde: Sadece benzersiz yayların varsa, diğer yaylarını 2 kez tetikle. (Bu efekt kritik vurabilir!)",
         "Tetiklendiğinde: Diğer yaylarını 3 kez tetikle. (Bu efekt kritik vurabilir!)",
-        "Tetiklendiğinde: Diğer yaylarını 4 kez tetikle ve onlara kalıcı olarak +4 hasar ver. (Bu efekt kritik vurabilir!)"
+        "Tetiklendiğinde: Diğer yaylarını 4 kez tetikle ve onlara kalıcı olarak +4 Hasar ver. (Bu efekt kritik vurabilir!)"
       ]
     },
     "dragon_slayer": {
       "name": "Kralkatili",
       "texts": [
-        "Tetiklendiğinde: Her Ejderha eşyası için kalıcı olarak +1 hasar kazan. (Bu efekt kritik vurabilir!)",
-        "Tetiklendiğinde: Her Ejderha eşyası için kalıcı olarak +2 hasar kazan. (Bu efekt kritik vurabilir!)",
-        "Tetiklendiğinde: Her Ejderha eşyası için kalıcı olarak +3 hasar kazan. (Bu efekt kritik vurabilir!)",
-        "Savaş Başlangıcında ve Tetiklendiğinde: Her Ejderha eşyası için kalıcı olarak +4 hasar kazan. (Bu efekt kritik vurabilir!)"
+        "Tetiklendiğinde: Her Ejderha eşyası için kalıcı olarak +1 Hasar kazan. (Bu efekt kritik vurabilir!)",
+        "Tetiklendiğinde: Her Ejderha eşyası için kalıcı olarak +2 Hasar kazan. (Bu efekt kritik vurabilir!)",
+        "Tetiklendiğinde: Her Ejderha eşyası için kalıcı olarak +3 Hasar kazan. (Bu efekt kritik vurabilir!)",
+        "Savaş Başlangıcında ve Tetiklendiğinde: Her Ejderha eşyası için kalıcı olarak +4 Hasar kazan. (Bu efekt kritik vurabilir!)"
       ]
     },
     "talon": {
       "name": "Pençe",
       "texts": [
-        "Savaş Başlangıcında: Eşyalarına kalıcı olarak +%10 kritik şansı ver.",
-        "Savaş Başlangıcında: Eşyalarına kalıcı olarak +%20 kritik şansı ver.",
-        "Savaş Başlangıcında: Eşyalarına kalıcı olarak +%40 kritik şansı ver.",
-        "Savaş Başlangıcında: Eşyalarına kalıcı olarak +%100 kritik şansı ve +5 hasar ver."
+        "Savaş Başlangıcında: Eşyalarına kalıcı olarak +%10 Kritik Şansı ver.",
+        "Savaş Başlangıcında: Eşyalarına kalıcı olarak +%20 Kritik Şansı ver.",
+        "Savaş Başlangıcında: Eşyalarına kalıcı olarak +%40 Kritik Şansı ver.",
+        "Savaş Başlangıcında: Eşyalarına kalıcı olarak +%100 Kritik Şansı ve +5 Hasar ver."
       ]
     },
     "hoard": {
@@ -1026,39 +1390,39 @@
       ]
     },
     "cinder_bow": {
-      "name": "Wyrmshot",
+      "name": "Ejder Vuruşu",
       "texts": [
-        "Bir eşya kritik vurduğunda, +1 bonus hasar kazan.",
-        "Bir eşya kritik vurduğunda, +2 bonus hasar kazan.",
-        "Bir eşya kritik vurduğunda, +4 bonus hasar kazan.",
-        "Bir eşya kritik vurduğunda, kalıcı olarak +6 hasar kazan."
+        "Bir eşya krit vurduğunda, +1 bonus Hasar kazan.",
+        "Bir eşya krit vurduğunda, +2 bonus Hasar kazan.",
+        "Bir eşya krit vurduğunda, +4 bonus Hasar kazan.",
+        "Bir eşya krit vurduğunda, kalıcı olarak +6 Hasar kazan."
       ]
     },
     "dragonbone": {
-      "name": "Ejderha Kemik",
+      "name": "Ejderha Kemiği",
       "texts": [
-        "Tetiklendiğinde: Kritik şansına eşit bonus hasar ver.",
-        "Tetiklendiğinde: 2x kritik şansına eşit bonus hasar ver.",
-        "Tetiklendiğinde: 3x kritik şansına eşit bonus hasar ver.",
-        "Tetiklendiğinde: 5x kritik şansına eşit bonus hasar ver."
+        "Tetiklendiğinde: Kritik Şansına eşit bonus Hasar ver.",
+        "Tetiklendiğinde: 2x Kritik Şansına eşit bonus Hasar ver.",
+        "Tetiklendiğinde: 3x Kritik Şansına eşit bonus Hasar ver.",
+        "Tetiklendiğinde: 5x Kritik Şansına eşit bonus Hasar ver."
       ]
     },
     "draconic_spear": {
       "name": "Ejderha Mızrağı",
       "texts": [
-        "Kritik Vuruşta: Bu eşyanın kritik şansını kalıcı olarak sağındaki başka bir eşyaya transfer et.",
-        "Kritik Vuruşta: Bu eşyanın 2x kritik şansını kalıcı olarak sağındaki başka bir eşyaya transfer et.",
-        "Kritik Vuruşta: Bu eşyanın 3x kritik şansını kalıcı olarak sağındaki başka bir eşyaya transfer et.",
-        "Kritik Vuruşta: Bu eşyanın 3x kritik şansını kalıcı olarak sağındaki başka bir eşya ver."
+        "Krit Vuruşta: Bu eşyanın Kritik Şansını kalıcı olarak sağındaki başka bir eşyaya aktar.",
+        "Krit Vuruşta: Bu eşyanın Kritik Şansının 2 katını kalıcı olarak sağındaki başka bir eşyaya aktar.",
+        "Krit Vuruşta: Bu eşyanın Kritik Şansının 3 katını kalıcı olarak sağındaki başka bir eşyaya aktar.",
+        "Krit Vuruşta: Bu eşyanın Kritik Şansının 3 katını kalıcı olarak sağındaki başka bir eşyaya ver."
       ]
     },
     "marrow": {
-      "name": "M'Arrow",
+      "name": "M'Oku",
       "texts": [
-        "Savaş Başlangıcında: Her %50 kritik şansı için +1 bonus Çoklu Tetikleme kazan.",
-        "Savaş Başlangıcında: Her %50 kritik şansı için +2 bonus Çoklu Tetikleme kazan.",
-        "Savaş Başlangıcında: Her %50 kritik şansı için +3 bonus Çoklu Tetikleme ve +2 bonus hasar kazan.",
-        "Savaş Başlangıcında: Her %50 kritik şansı için kalıcı olarak +3 Çoklu Tetikleme ve +2 hasar kazan."
+        "Savaş Başlangıcında: Her %50 Kritik Şansı başına +1 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Her %50 Kritik Şansı başına +2 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Her %50 Kritik Şansı başına +2 bonus Çoklu Tetikleme ve +2 bonus Hasar kazan.",
+        "Savaş Başlangıcında: Her %50 Kritik Şansı başına kalıcı olarak +3 Çoklu Tetikleme ve +2 Hasar kazan."
       ]
     },
     "blue_present": {
@@ -1071,7 +1435,7 @@
       ]
     },
     "leftover_package": {
-      "name": "Artakalın Paket",
+      "name": "Artık Paket",
       "texts": [
         "Rastgele eşyalar içerir.",
         "Hediyeleri üçleyemezsin lol. Ama kontrol ettiğin için saygı duyarım.",
@@ -1136,10 +1500,10 @@
     "turnbound_ring": {
       "name": "Döngü Yüzüğü",
       "texts": [
-        "Gün Başlangıcı: Kalıcı olarak +10 hasar kazan.",
-        "Gün Başlangıcı: Kalıcı olarak +20 hasar kazan.",
-        "Gün Başlangıcı: Kalıcı olarak +20 hasar ve %10 kritik şansı kazan.",
-        "Gün Başlangıcı: Kalıcı olarak +40 hasar, %20 kritik şansı ve +2 Çoklu Tetikleme kazan."
+        "Bu eşya her zaman kulendeki eşyalarla aynı türlere sahiptir.",
+        "Bu eşya her zaman kulendeki eşyalarla aynı türlere sahiptir. Gün Başlangıcında: Kalıcı olarak +5 Hasar kazan.",
+        "Bu eşya her zaman kulendeki eşyalarla aynı türlere sahiptir. Gün Başlangıcında: Kalıcı olarak +10 Hasar kazan.",
+        "Bu eşya her zaman kulendeki eşyalarla aynı türlere sahiptir. Gün Başlangıcında: Kalıcı olarak +20 Hasar ve +2 Çoklu Tetikleme kazan."
       ]
     },
     "pandoras_box": {
@@ -1154,11 +1518,14 @@
     "crook": {
       "name": "Asa",
       "texts": [
-        "Bu kritik vurduğunda, rastgele bir Küçük İksir kazan.",
-        "Bu kritik vurduğunda, 2 rastgele Küçük İksir kazan.",
-        "Bu kritik vurduğunda, 1 rastgele Şişe ve 2 rastgele Küçük İksir kazan.",
-        "Bu kritik vurduğunda, 2 rastgele İksir kazan."
+        "Bu krit vurduğunda, rastgele bir Küçük İksir kazan.",
+        "Bu krit vurduğunda, 2 rastgele Küçük İksir kazan.",
+        "Bu krit vurduğunda, 1 rastgele Şişe ve 2 rastgele Küçük İksir kazan.",
+        "Bu krit vurduğunda, 2 rastgele İksir kazan."
       ]
+    },
+    "fluffehs_crook": {
+      "name": "Fluffeh'in Asası"
     },
     "nightbloom": {
       "name": "Gece Çiçeği",
@@ -1179,21 +1546,21 @@
       ]
     },
     "wicked_staff": {
-      "name": "Kötü Niyetli Asa",
+      "name": "Kötü niyetli Asa",
       "texts": [
-        "Buna bir iksir kullandığında kalıcı olarak +5 hasar kazan.",
-        "Buna bir iksir kullandığında kalıcı olarak +10 hasar kazan.",
-        "Buna bir iksir kullandığında kalıcı olarak +20 hasar kazan.",
-        "Buna bir iksir kullandığında kalıcı olarak +50 hasar kazan."
+        "Buna bir iksir kullandığında kalıcı olarak +5 Hasar kazan.",
+        "Buna bir iksir kullandığında kalıcı olarak +10 Hasar kazan.",
+        "Buna bir iksir kullandığında kalıcı olarak +20 Hasar kazan.",
+        "Buna bir iksir kullandığında kalıcı olarak +50 Hasar kazan."
       ]
     },
     "simple_curses": {
       "name": "Basit Lanetler",
       "texts": [
-        "Tetiklendiğinde: Bundaki benzersiz her debuff için 1 rastgele küçük iksir kazan.",
-        "Tetiklendiğinde: Bundaki benzersiz her debuff için 2 rastgele küçük iksir kazan.",
-        "Tetiklendiğinde: Bundaki benzersiz her debuff için 1 rastgele şişe ve 2 rastgele küçük iksir kazan.",
-        "Tetiklendiğinde: Bundaki benzersiz her debuff için 1 rastgele iksir kazan."
+        "Tetiklendiğinde: Sahip olduğu her benzersiz debuff başına 1 rastgele Küçük İksir kazan.",
+        "Tetiklendiğinde: Sahip olduğu her benzersiz debuff başına 2 rastgele Küçük İksir kazan.",
+        "Tetiklendiğinde: Sahip olduğu her benzersiz debuff başına 1 rastgele Şişe ve 2 rastgele Küçük İksir kazan.",
+        "Tetiklendiğinde: Sahip olduğu her benzersiz debuff başına 1 rastgele İksir kazan."
       ]
     },
     "candle": {
@@ -1217,19 +1584,19 @@
     "cauldron": {
       "name": "Kazan",
       "texts": [
-        "Buna iksir kullanarak bir malzeme yığını kazan. Tetiklendiğinde: 1 rastgele İksir kazanmak için bir malzeme yığını harca.",
-        "Buna iksir kullanarak bir malzeme yığını kazan. Tetiklendiğinde: 2 rastgele İksir kazanmak için bir malzeme yığını harca.",
-        "Buna iksir kullanarak bir malzeme yığını kazan. Tetiklendiğinde: 3 rastgele İksir kazanmak için bir malzeme yığını harca.",
+        "Bunun üzerinde iksir kullanarak bir malzeme yükü kazan. Tetiklendiğinde: 1 rastgele İksir kazanmak için bir malzeme yükü harca.",
+        "Bunun üzerinde iksir kullanarak bir malzeme yükü kazan. Tetiklendiğinde: 2 rastgele İksir kazanmak için bir malzeme yükü harca.",
+        "Bunun üzerinde iksir kullanarak bir malzeme yükü kazan. Tetiklendiğinde: 3 rastgele İksir kazanmak için bir malzeme yükü harca.",
         "Tetiklendiğinde: Her Cadı eşyası başına rastgele bir İksir kazan."
       ]
     },
     "wand": {
       "name": "Büyü Çubuğu",
       "texts": [
-        "Buna bir iksir kullandığında kalıcı olarak +1 çoklu tetikleme kazan.",
-        "Buna bir iksir kullandığında kalıcı olarak +2 çoklu tetikleme kazan.",
-        "Buna bir iksir kullandığında kalıcı olarak +4 çoklu tetikleme kazan.",
-        "Buna bir iksir kullandığında kalıcı olarak +4 çoklu tetikleme ve +15 hasar kazan."
+        "Buna bir iksir kullandığında kalıcı olarak +1 Çoklu Tetikleme kazan.",
+        "Buna bir iksir kullandığında kalıcı olarak +2 Çoklu Tetikleme kazan.",
+        "Buna bir iksir kullandığında kalıcı olarak +4 Çoklu Tetikleme kazan.",
+        "Buna bir iksir kullandığında kalıcı olarak +4 Çoklu Tetikleme ve +15 Hasar kazan."
       ]
     },
     "lightning_to_go": {
@@ -1244,10 +1611,10 @@
     "outdoor_knife": {
       "name": "Dış Mekan Bıçağı",
       "texts": [
-        "Savaş Başlangıcında: Her Fırtına eşyası için +3 bonus hasar kazan.",
-        "Savaş Başlangıcında: Her Fırtına eşyası için +6 bonus hasar kazan.",
-        "Savaş Başlangıcında: Her Fırtına eşyası için +9 bonus hasar ve +6 bonus kritik şansı kazan.",
-        "Savaş Başlangıcında: Her Fırtına eşyası için kalıcı olarak +15 hasar ve kritik şansı kazan."
+        "Savaş Başlangıcında: Her Fırtına eşyası için +3 bonus Hasar kazan.",
+        "Savaş Başlangıcında: Her Fırtına eşyası için +6 bonus Hasar kazan.",
+        "Savaş Başlangıcında: Her Fırtına eşyası için +9 bonus Hasar ve +6 bonus Kritik Şansı kazan.",
+        "Savaş Başlangıcında: Her Fırtına eşyası için kalıcı olarak +15 Hasar ve Kritik Şansı kazan."
       ]
     },
     "morning_star": {
@@ -1298,10 +1665,10 @@
     "diamond_axe": {
       "name": "Elmas Balta",
       "texts": [
-        "Aşağıdaki eşyanın her 10 tetiklemesinde: +2 bonus kanama ve +2 bonus Şok kazan.",
-        "Aşağıdaki eşyanın her 10 tetiklemesinde: +4 bonus kanama ve +4 bonus Şok kazan.",
-        "Aşağıdaki eşyanın her 10 tetiklemesinde: +6 bonus kanama +6 bonus Şok kazan.",
-        "Aşağıdaki eşyanın her tetiklemesinde: Kalıcı olarak +1 kanama ve Şok kazan."
+        "Aşağıdaki eşyanın her 7 tetiklemesinde: +2 bonus Kanama ve +2 bonus Şok kazan.",
+        "Aşağıdaki eşyanın her 7 tetiklemesinde: +4 bonus Kanama ve +4 bonus Şok kazan.",
+        "Aşağıdaki eşyanın her 7 tetiklemesinde: +6 bonus Kanama ve +6 bonus Şok kazan.",
+        "Aşağıdaki eşyanın her tetiklemesinde: Kalıcı olarak +1 Kanama ve +1 Şok kazan."
       ]
     },
     "skybolt": {
@@ -1314,7 +1681,7 @@
       ]
     },
     "arcane_mace": {
-      "name": "Esrarengiz Topuzu",
+      "name": "Gizemli Topuz",
       "texts": [
         "",
         "",
@@ -1325,14 +1692,14 @@
     "voidspike": {
       "name": "Voidspike",
       "texts": [
-        "Bir debuff uyguladığında, +2 bonus hasar kazan.",
-        "Bir debuff uyguladığında, +4 bonus hasar kazan.",
-        "Bir debuff uyguladığında, +8 bonus hasar kazan.",
-        "Bir debuff uyguladığında, kalıcı olarak +8 hasar kazan."
+        "Bir debuff uyguladığında, +2 bonus Hasar kazan.",
+        "Bir debuff uyguladığında, +4 bonus Hasar kazan.",
+        "Bir debuff uyguladığında, +8 bonus Hasar kazan.",
+        "Bir debuff uyguladığında, kalıcı olarak +8 Hasar kazan."
       ]
     },
     "arcane_cleaver": {
-      "name": "Esrarengiz Kırdak",
+      "name": "Gizemli Satır",
       "texts": [
         "",
         "",
@@ -1355,34 +1722,34 @@
         "",
         "",
         "Tetiklendiğinde: Kalıcı olarak +1 rastgele debuff kazan.",
-        "Tetiklendiğinde: Her Esrarengiz eşyası için kalıcı olarak +1 rastgele debuff kazan."
+        "Tetiklendiğinde: Her Gizemli eşyası için kalıcı olarak +1 rastgele debuff kazan."
       ]
     },
     "arcane_orb": {
-      "name": "Esrarengiz Küresi",
+      "name": "Gizemli Küre",
       "texts": [
-        "Tetiklendiğinde: Aşağıdaki Esrarengiz eşyasına kalıcı olarak +1 rastgele debuff ver.",
-        "Tetiklendiğinde: Aşağıdaki Esrarengiz eşyasına iki kez kalıcı olarak +1 rastgele debuff ver.",
-        "Tetiklendiğinde: Aşağıdaki Esrarengiz eşyasına 4 kez kalıcı olarak +1 rastgele debuff ver.",
-        "Tetiklendiğinde: Aşağıdaki Esrarengiz eşyasına 6 kez kalıcı olarak +1 rastgele debuff ver ve tetikle."
+        "Tetiklendiğinde: Aşağıdaki Gizemli eşyasına kalıcı olarak +1 rastgele debuff ver.",
+        "Tetiklendiğinde: Aşağıdaki Gizemli eşyasına iki kez kalıcı olarak +1 rastgele debuff ver.",
+        "Tetiklendiğinde: Aşağıdaki Gizemli eşyasına 4 kez kalıcı olarak +1 rastgele debuff ver.",
+        "Tetiklendiğinde: Aşağıdaki Gizemli eşyasına 6 kez kalıcı olarak +1 rastgele debuff ver ve ardından onu tetikle."
       ]
     },
     "void_stinger": {
       "name": "Void İğnesi",
       "texts": [
-        "Bir debuff uyguladığında, kalıcı olarak +1 hasar kazan.",
-        "Bir debuff uyguladığında, kalıcı olarak +2 hasar kazan.",
-        "Bir debuff uyguladığında, kalıcı olarak +4 hasar kazan.",
-        "Bir debuff uyguladığında, kalıcı olarak +5 hasar ve rastgele bir debuff kazan."
+        "Bir debuff uyguladığında, kalıcı olarak +1 Hasar kazan.",
+        "Bir debuff uyguladığında, kalıcı olarak +2 Hasar kazan.",
+        "Bir debuff uyguladığında, kalıcı olarak +4 Hasar kazan.",
+        "Bir debuff uyguladığında, kalıcı olarak +5 Hasar ve rastgele bir debuff kazan."
       ]
     },
     "soulsplitter": {
       "name": "Ruh Bölücü",
       "texts": [
-        "Savaş Başlangıcında: Bundaki benzersiz her debuff için +2 bonus çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: Bundaki benzersiz her debuff için +4 bonus çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: Bundaki benzersiz her debuff için +8 bonus çoklu tetikleme ve +5 bonus hasar kazan.",
-        "Savaş Başlangıcında: Bundaki benzersiz her debuff için kalıcı olarak +8 çoklu tetikleme ve +15 Hasar kazan."
+        "Savaş Başlangıcında: Sahip olduğu her benzersiz debuff başına +1 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Sahip olduğu her benzersiz debuff başına +2 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Sahip olduğu her benzersiz debuff başına +4 bonus Çoklu Tetikleme ve +5 bonus Hasar kazan.",
+        "Savaş Başlangıcında: Sahip olduğu her benzersiz debuff başına kalıcı olarak +4 Çoklu Tetikleme ve +15 Hasar kazan."
       ]
     },
     "snowflakes": {
@@ -1399,8 +1766,8 @@
       "texts": [
         "",
         "",
-        "İlk Tetiklemede: Kalıcı olarak +3 kanama kazan.",
-        "İlk Tetiklemede: Kalıcı olarak +6 kanama kazan."
+        "İlk Tetiklemede: Kalıcı olarak +3 Kanama kazan.",
+        "İlk Tetiklemede: Kalıcı olarak +6 Kanama kazan."
       ]
     },
     "poison_dagger": {
@@ -1417,8 +1784,8 @@
       "texts": [
         "",
         "",
-        "Tetiklendiğinde: +12 kanama uygulama şansı %10.",
-        "Tetiklendiğinde: +1 bonus kanama kazan ve +12 kanama uygulama şansı %10."
+        "Tetiklendiğinde: +12 Kanama uygulama şansı %10.",
+        "Tetiklendiğinde: +1 bonus Kanama kazan ve +12 Kanama uygulama şansı %10."
       ]
     },
     "topaz_spear": {
@@ -1436,16 +1803,16 @@
         "Tetiklendiğinde: Bunun solundaki kristal eşyayı tetikle.",
         "Tetiklendiğinde: Bunun solundaki kristal eşyayı iki kez tetikle.",
         "Tetiklendiğinde: Bunun solundaki kristal eşyayı üç kez tetikle.",
-        "Tetiklendiğinde: Soldaki kristal eşyayı üç kez tetikle ve kalıcı olarak +1 kanama ver."
+        "Tetiklendiğinde: Soldaki kristal eşyayı üç kez tetikle ve kalıcı olarak +1 Kanama ver."
       ]
     },
     "emerald_sword": {
       "name": "Zümrüt Kılıç",
       "texts": [
-        "Savaş Başlangıcında: Kristal eşyalarına +1 bonus kanama ver.",
-        "Savaş Başlangıcında: Kristal eşyalarına +2 bonus kanama ver.",
-        "Savaş Başlangıcında: Kristal eşyalarına +4 bonus kanama ver.",
-        "Savaş Başlangıcında: Kristal eşyalarına kalıcı olarak +4 kanama ver."
+        "Savaş Başlangıcında: Kristal eşyalarına +1 bonus Kanama ver.",
+        "Savaş Başlangıcında: Kristal eşyalarına +2 bonus Kanama ver.",
+        "Savaş Başlangıcında: Kristal eşyalarına +4 bonus Kanama ver.",
+        "Savaş Başlangıcında: Kristal eşyalarına kalıcı olarak +4 Kanama ver."
       ]
     },
     "shardfang": {
@@ -1460,10 +1827,10 @@
     "twilight_s_edge": {
       "name": "Alacakaranlık Kılıcı",
       "texts": [
-        "Savaş Başlangıcında: Kalıcı olarak +7 hasar kazan.",
-        "Savaş Başlangıcında: Kalıcı olarak +14 hasar kazan.",
-        "Savaş Başlangıcında: Kalıcı olarak +28 hasar kazan.",
-        "Savaş Başlangıcında: Kalıcı olarak +100 hasar kazan."
+        "Savaş Başlangıcında: Kalıcı olarak +7 Hasar kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +14 Hasar kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +28 Hasar kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +100 Hasar kazan."
       ]
     },
     "dusk_shield": {
@@ -1471,12 +1838,12 @@
       "texts": [
         "Savaş Başlangıcında: 100 Kalkan.",
         "Savaş Başlangıcında: 200 Kalkan.",
-        "Savaş Başlangıcında: Maks. HP'nin %20'si kadar Kalkan.",
-        "Savaş Başlangıcında ve Tetiklendiğinde: Maks. HP'nin %20'si kadar Kalkan."
+        "Savaş Başlangıcında: Maks. HP'nin %20'si kadar Kalkan kazan.",
+        "Savaş Başlangıcında ve Tetiklendiğinde: Maks. HP'nin %20'si kadar Kalkan kazan."
       ]
     },
     "trident": {
-      "name": "Trident",
+      "name": "Üç Dişli Mızrak",
       "texts": [
         "Savaş Başlangıcında: 5 kanama uygula.",
         "Savaş Başlangıcında: 10 kanama uygula.",
@@ -1487,19 +1854,19 @@
     "eclipse": {
       "name": "Tutulma",
       "texts": [
-        "Savaş Başlangıcında: Her Karanlık eşya için kalıcı olarak +4 hasar kazan.",
-        "Savaş Başlangıcında: Her Karanlık eşya için kalıcı olarak +8 hasar kazan.",
-        "Savaş Başlangıcında: Her Karanlık eşya için kalıcı olarak +16 hasar kazan.",
-        "Savaş Başlangıcında: Karanlık eşyalarına kalıcı olarak +30 hasar ver."
+        "Savaş Başlangıcında: Her Karanlık eşya için kalıcı olarak +4 Hasar kazan.",
+        "Savaş Başlangıcında: Her Karanlık eşya için kalıcı olarak +8 Hasar kazan.",
+        "Savaş Başlangıcında: Her Karanlık eşya için kalıcı olarak +16 Hasar kazan.",
+        "Savaş Başlangıcında: Karanlık eşyalarına kalıcı olarak +30 Hasar ver."
       ]
     },
     "executioner": {
       "name": "Cellat",
       "texts": [
-        "Düşman      %15 veya daha az HP'ye ulaştığında,              anında idam et.",
-        "Düşman      %20 veya daha az HP'ye ulaştığında,              anında idam et.",
-        "Düşman      %25 veya daha az HP'ye ulaştığında,              anında idam et.",
-        "Düşman      %40 veya daha az HP'ye ulaştığında,              anında idam et."
+        "Düşman      %15 HP veya altına düştüğünde,              onu anında infaz et.",
+        "Düşman      %20 HP veya altına düştüğünde,              onu anında infaz et.",
+        "Düşman      %25 HP veya altına düştüğünde,              onu anında infaz et.",
+        "Düşman      %40 HP veya altına düştüğünde,              onu anında infaz et."
       ]
     },
     "dexecutioner": {
@@ -1526,23 +1893,23 @@
     "bat_wing": {
       "name": "Yarasa Kanadı",
       "texts": [
-        "Savaş Başlangıcında: Kalıcı olarak +3 çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: Kalıcı olarak +6 çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: Kalıcı olarak +12 çoklu tetikleme ve +25 hasar kazan.",
-        "Savaş Başlangıcında: Bu eşyanın çoklu tetiklemesine eşit hasarı kalıcı olarak kazan."
+        "Savaş Başlangıcında: Kalıcı olarak +3 Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +6 Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +12 Çoklu Tetikleme ve +25 Hasar kazan.",
+        "Savaş Başlangıcında: Bu eşyanın Çoklu Tetiklemesine eşit miktarda kalıcı Hasar kazan."
       ]
     },
     "nightfall": {
       "name": "Gece Çöküşü",
       "texts": [
-        "Savaş Başlangıcında: Kalıcı olarak +25 Hasar ve +%15 krit şansı kazan.",
-        "Savaş Başlangıcında: Kalıcı olarak +50 Hasar ve +%30 krit şansı kazan.",
-        "Savaş Başlangıcında: Kalıcı olarak +75 Hasar ve +%45 krit şansı kazan.",
-        "Savaş Başlangıcında: Kalıcı olarak +150 Hasar ve +1 çoklu tetikleme kazan."
+        "Savaş Başlangıcında: Kalıcı olarak +25 Hasar ve +%15 Kritik Şansı kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +50 Hasar ve +%30 Kritik Şansı kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +75 Hasar ve +%45 Kritik Şansı kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +150 Hasar ve +1 Çoklu Tetikleme kazan."
       ]
     },
     "elven_shield": {
-      "name": "Elf Kalkan",
+      "name": "Elf Kalkanı",
       "texts": [
         "",
         "",
@@ -1551,21 +1918,21 @@
       ]
     },
     "refined_spear": {
-      "name": "Refined Mızrak",
+      "name": "Rafine Mızrak",
       "texts": [
         "",
         "",
-        "Savaş Başlangıcında: Kalıcı olarak +12 hasar kazan.",
-        "Savaş Başlangıcında ve Tetiklendiğinde: Kalıcı olarak +12 hasar kazan."
+        "Savaş Başlangıcında: Kalıcı olarak +12 Hasar kazan.",
+        "Savaş Başlangıcında ve Tetiklendiğinde: Kalıcı olarak +12 Hasar kazan."
       ]
     },
     "petal_staff": {
       "name": "Yaprak Asası",
       "texts": [
-        "İlk 2 Tetiklemede: Kalıcı olarak +1 zehir kazan.",
-        "İlk 2 Tetiklemede: Kalıcı olarak +2 zehir kazan.",
-        "İlk 2 Tetiklemede: Kalıcı olarak +4 zehir kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +5 zehir kazan ve düşmanda zehir hasarını tetikle."
+        "İlk 2 Tetiklemede: Kalıcı olarak +1 Zehir kazan.",
+        "İlk 2 Tetiklemede: Kalıcı olarak +2 Zehir kazan.",
+        "İlk 2 Tetiklemede: Kalıcı olarak +4 Zehir kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +5 Zehir kazan ve düşmanda zehir hasarını tetikle."
       ]
     },
     "venomstrike": {
@@ -1573,35 +1940,35 @@
       "texts": [
         "",
         "",
-        "Zehir düşmanda tetiklendiğinde, kalıcı olarak +1 zehir kazan.",
-        "Zehir düşmanda tetiklendiğinde, kalıcı olarak +3 zehir kazan."
+        "Zehir düşmanda tetiklendiğinde, kalıcı olarak +1 Zehir kazan.",
+        "Zehir düşmanda tetiklendiğinde, kalıcı olarak +3 Zehir kazan."
       ]
     },
     "refined_bow": {
-      "name": "Refined Yay",
+      "name": "Rafine Yay",
       "texts": [
-        "Savaş Başlangıcında: Her Elf eşyası için +1 bonus çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: Her Elf eşyası için +2 bonus çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: Her Elf eşyası için +4 bonus çoklu tetikleme kazan.",
+        "Savaş Başlangıcında: Diğer her Elf eşyası başına +1 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Diğer her Elf eşyası başına +2 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Diğer her Elf eşyası başına +4 bonus Çoklu Tetikleme kazan.",
         "Savaş Başlangıcında: Bunu sınırsız tetikle."
       ]
     },
     "elvish_orb": {
-      "name": "Elf Küre",
+      "name": "Elf Küresi",
       "texts": [
-        "Tetiklendiğinde: Üstündeki Elf eşyasına kalıcı olarak +1 çoklu tetikleme ver (Bunun çoklu tetiklemesi olamaz).",
-        "Tetiklendiğinde: Üstündeki Elf eşyasına kalıcı olarak +2 çoklu tetikleme ver (Bunun çoklu tetiklemesi olamaz).",
-        "Tetiklendiğinde: Üstündeki Elf eşyasına kalıcı olarak +4 çoklu tetikleme ver (Bunun çoklu tetiklemesi olamaz).",
-        "Tetiklendiğinde: Üstündeki Elf eşyasına kalıcı olarak +5 çoklu tetikleme ver ve tetikle."
+        "Tetiklendiğinde: Üstündeki Elf eşyasına kalıcı olarak +1 Çoklu Tetikleme ver (Bu eşya Çoklu Tetikleme kazanamaz).",
+        "Tetiklendiğinde: Üstündeki Elf eşyasına kalıcı olarak +2 Çoklu Tetikleme ver (Bu eşya Çoklu Tetikleme kazanamaz).",
+        "Tetiklendiğinde: Üstündeki Elf eşyasına kalıcı olarak +4 Çoklu Tetikleme ver (Bu eşya Çoklu Tetikleme kazanamaz).",
+        "Tetiklendiğinde: Üstündeki Elf eşyasına kalıcı olarak +5 Çoklu Tetikleme ver ve ardından onu tetikle."
       ]
     },
     "venom_ring": {
       "name": "Zehir Yüzüğü",
       "texts": [
-        "Tetiklendiğinde: Her zehir eşyası için kalıcı olarak +1 zehir kazan.",
-        "Tetiklendiğinde: Her zehir eşyası için kalıcı olarak +2 zehir kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +16 zehir kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +20 zehir kazan. Bu zehiri iki kez uygular."
+        "Tetiklendiğinde: Her zehir eşyası için kalıcı olarak +1 Zehir kazan.",
+        "Tetiklendiğinde: Her zehir eşyası için kalıcı olarak +2 Zehir kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +16 Zehir kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +20 Zehir kazan. Bu zehiri iki kez uygular."
       ]
     },
     "wildfire": {
@@ -1609,26 +1976,26 @@
       "texts": [
         "",
         "",
-        "Tetiklendiğinde: Kalıcı olarak +1 yanma kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +2 yanma kazan."
+        "Tetiklendiğinde: Kalıcı olarak +1 Yanma kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +2 Yanma kazan."
       ]
     },
     "flare": {
       "name": "Alev",
       "texts": [
-        "Tetiklendiğinde: Yanma eşyalarına +1 bonus yanma ver.",
-        "Tetiklendiğinde: Yanma eşyalarına +2 bonus yanma ver.",
-        "Tetiklendiğinde: Yanma eşyalarına +4 bonus yanma ver.",
-        "Tetiklendiğinde: Yanma eşyalarına kalıcı olarak +2 yanma ver."
+        "Tetiklendiğinde: Yanma eşyalarına +1 bonus Yanma ver.",
+        "Tetiklendiğinde: Yanma eşyalarına +2 bonus Yanma ver.",
+        "Tetiklendiğinde: Yanma eşyalarına +4 bonus Yanma ver.",
+        "Tetiklendiğinde: Yanma eşyalarına kalıcı olarak +2 Yanma ver."
       ]
     },
     "molten_bow": {
-      "name": "Eritilmiş Yay",
+      "name": "Erimiş Yay",
       "texts": [
         "",
         "",
-        "Savaş Başlangıcında: Kalıcı olarak +2 yanma kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +1 yanma kazan."
+        "Savaş Başlangıcında: Kalıcı olarak +2 Yanma kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +1 Yanma kazan."
       ]
     },
     "fire_mace": {
@@ -1636,35 +2003,35 @@
       "texts": [
         "",
         "",
-        "Tetiklendiğinde: Kalıcı olarak +3 yanma kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +6 yanma kazan."
+        "Tetiklendiğinde: Kalıcı olarak +3 Yanma kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +6 Yanma kazan."
       ]
     },
     "blazing_bull": {
       "name": "Alevli Boğa",
       "texts": [
-        "Yanma uyguladığında, o kadar bonus kalkan kazan.",
-        "Yanma uyguladığında, miktarın iki katı kadar bonus kalkan kazan.",
-        "Yanma uyguladığında, 5 ekstra uygula ve miktarın iki katı kadar bonus kalkan kazan.",
+        "Yanma uyguladığında, o kadar bonus Kalkan kazan.",
+        "Yanma uyguladığında, miktarın iki katı kadar bonus Kalkan kazan.",
+        "Yanma uyguladığında, 5 ekstra uygula ve miktarın iki katı kadar bonus Kalkan kazan.",
         "Yanma uyguladığında, miktarın iki katı kadar kalkanı kalıcı olarak kazan."
       ]
     },
     "fire_orb": {
       "name": "Ateş Küresi",
       "texts": [
-        "Tetiklendiğinde: Sağdaki Alev eşyasına kalıcı olarak +1 yanma ver.",
-        "Tetiklendiğinde: Sağdaki Alev eşyasına kalıcı olarak +2 yanma ver.",
-        "Tetiklendiğinde: Sağdaki Alev eşyasına kalıcı olarak +2 yanma ver ve tetikle.",
-        "Tetiklendiğinde: Sağdaki Alev eşyasına kalıcı olarak +4 yanma ver ve iki kez tetikle."
+        "Tetiklendiğinde: Sağdaki Alev eşyasına kalıcı olarak +1 Yanma ver.",
+        "Tetiklendiğinde: Sağdaki Alev eşyasına kalıcı olarak +2 Yanma ver.",
+        "Tetiklendiğinde: Sağdaki başka bir Alev eşyasına kalıcı olarak +2 Yanma ver ve ardından onu tetikle.",
+        "Tetiklendiğinde: Sağdaki Alev eşyasına kalıcı olarak +4 Yanma ver ve ardından onu iki kez tetikle."
       ]
     },
     "flamy_war_axe": {
       "name": "Alevli Savaş Baltası",
       "texts": [
-        "Yanma uyguladığında, o kadar bonus hasar kazan.",
-        "Yanma uyguladığında, o miktarın iki katı kadar bonus hasar kazan.",
-        "Yanma uyguladığında, o kadar hasarı kalıcı olarak kazan.",
-        "Yanma uyguladığında, o miktarın iki katı kadar hasarı kalıcı olarak kazan."
+        "Yanma uyguladığında, o kadar bonus Hasar kazan.",
+        "Yanma uyguladığında, o miktarın iki katı kadar bonus Hasar kazan.",
+        "Yanma uyguladığında, uyguladığın miktar kadar kalıcı Hasar kazan.",
+        "Yanma uyguladığında, uyguladığın miktarın iki katı kadar kalıcı Hasar kazan."
       ]
     },
     "doom_guide": {
@@ -1672,8 +2039,8 @@
       "texts": [
         "",
         "",
-        "Savaş Başlangıcında: +500 bonus yanma kazan.",
-        "Savaş Başlangıcında: Kalıcı olarak +500 yanma kazan."
+        "Savaş Başlangıcında: +500 bonus Yanma kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +500 Yanma kazan."
       ]
     },
     "icy_axe": {
@@ -1688,28 +2055,28 @@
     "ice_spear": {
       "name": "Buz Mızrağı",
       "texts": [
-        "Tetiklendiğinde: Kalıcı olarak +%2 krit şansı kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +%4 krit şansı kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +%8 krit şansı ve +4 hasar kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +%16 krit şansı ve +8 hasar kazan."
+        "Tetiklendiğinde: Kalıcı olarak +%2 Kritik Şansı kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +%4 Kritik Şansı kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +%8 Kritik Şansı ve +4 Hasar kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +%16 Kritik Şansı ve +8 Hasar kazan."
       ]
     },
     "coldshot": {
       "name": "Soğuk Atış",
       "texts": [
-        "Başka bir Ayaz eşya tetiklendiğinde, bunu tetikle.",
-        "Başka bir Ayaz eşya tetiklendiğinde, bunu iki kez tetikle.",
-        "Başka bir Ayaz eşya tetiklendiğinde, bunu 4 kez tetikle.",
-        "Başka bir Ayaz eşya tetiklendiğinde, bunu 5 kez tetikle ve +5 bonus Hasar kazan."
+        "Başka bir Ayaz eşyası tetiklendiğinde, bunu tetikle.",
+        "Başka bir Ayaz eşyası tetiklendiğinde, bunu iki kez tetikle.",
+        "Başka bir Ayaz eşyası tetiklendiğinde, bunu 4 kez tetikle.",
+        "Başka bir Ayaz eşyası tetiklendiğinde, bunu 5 kez tetikle ve +5 bonus Hasar kazan."
       ]
     },
     "glacier": {
       "name": "Buzul",
       "texts": [
-        "Bir Ayaz eşya tetiklendiğinde, kalıcı olarak +%2 krit şansı kazan.",
-        "Bir Ayaz eşya tetiklendiğinde, kalıcı olarak +%4 krit şansı kazan.",
-        "Bir Ayaz eşya tetiklendiğinde, kalıcı olarak +%8 krit ve +5 Hasar kazan.",
-        "Bir Ayaz eşya tetiklendiğinde, kalıcı olarak +%16 krit ve +10 Hasar kazan."
+        "Bir Ayaz eşyası tetiklendiğinde, kalıcı olarak +%2 Kritik Şansı kazan.",
+        "Bir Ayaz eşyası tetiklendiğinde, kalıcı olarak +%4 Kritik Şansı kazan.",
+        "Bir Ayaz eşyası tetiklendiğinde, kalıcı olarak +%8 Kritik Şansı ve +5 Hasar kazan.",
+        "Bir Ayaz eşyası tetiklendiğinde, kalıcı olarak +%16 Kritik Şansı ve +10 Hasar kazan."
       ]
     },
     "frozen_orb": {
@@ -1718,62 +2085,62 @@
         "Tetiklendiğinde: Diğer Ayaz eşyalarını tetikle.",
         "Tetiklendiğinde: Diğer Ayaz eşyalarını iki kez tetikle.",
         "Tetiklendiğinde: Diğer Ayaz eşyalarını üç kez tetikle.",
-        "Tetiklendiğinde: Diğer Ayaz eşyalarını 4 kez tetikle ve onlara +%50 bonus krit ver."
+        "Tetiklendiğinde: Diğer Ayaz eşyalarını 4 kez tetikle ve onlara +%50 bonus Kritik Şansı ver."
       ]
     },
     "frostbound": {
       "name": "Buz Bağı",
       "texts": [
-        "Bir eşya kritik vurduğunda, kalıcı olarak +2 hasar kazan.",
-        "Bir eşya kritik vurduğunda, kalıcı olarak +4 hasar kazan.",
-        "Bir eşya kritik vurduğunda, kalıcı olarak +8 hasar kazan.",
-        "Bir eşya kritik vurduğunda, tüm eşyalarına kalıcı olarak +8 hasar ver."
+        "Bir eşya krit vurduğunda, kalıcı olarak +2 Hasar kazan.",
+        "Bir eşya krit vurduğunda, kalıcı olarak +4 Hasar kazan.",
+        "Bir eşya krit vurduğunda, kalıcı olarak +8 Hasar kazan.",
+        "Bir eşya krit vurduğunda, tüm eşyalarına kalıcı olarak +8 Hasar ver."
       ]
     },
     "sapphire_amulet": {
       "name": "Donmuş Çene",
       "texts": [
-        "Kritik vuruş etkisini x2'den x3'e çıkarır.",
-        "Kritik vuruş etkisini x2'den x4'e çıkarır.",
-        "Kritik vuruş etkisini x2'den x5'e çıkarır.",
-        "Kritik vuruş etkisini x2'den x6'ya çıkarır."
+        "Krit vuruş etkisini x2'den x2.5'e çıkarır.",
+        "Krit vuruş etkisini x2'den x3'e çıkarır.",
+        "Krit vuruş etkisini x2'den x3.5'e çıkarır.",
+        "Krit vuruş etkisini x2'den x6'ya çıkarır."
       ]
     },
     "winter_s_embrace": {
       "name": "Kışın Kucaklaması",
-      "rarity": "legendary",
+      "rarity": "Efsanevi",
       "texts": [
-        "Kritik vurduğunda, +1 bonus çoklu tetikleme kazan.",
-        "Kritik vurduğunda, +2 bonus çoklu tetikleme kazan.",
-        "Kritik vurduğunda, kalıcı olarak +2 çoklu tetikleme kazan.",
-        "Kritik vurduğunda, +2 çoklu tetikleme ve +2 hasarı kalıcı olarak kazan."
+        "Krit vurduğunda, +1 bonus Çoklu Tetikleme kazan.",
+        "Krit vurduğunda, +2 bonus Çoklu Tetikleme kazan.",
+        "Krit vurduğunda, kalıcı olarak +2 Çoklu Tetikleme kazan.",
+        "Krit vurduğunda, kalıcı olarak +2 Çoklu Tetikleme ve +2 Hasar kazan."
       ]
     },
     "paladin_s_hammer": {
       "name": "Paladin'in Çekici",
       "texts": [
-        "Tetiklendiğinde: Bir debuff'tan 25 veya daha fazlasına sahipsen, 5ini temizle.",
-        "Tetiklendiğinde: Bir debuff'tan 25 veya daha fazlasına sahipsen, 10unu temizle.",
-        "Tetiklendiğinde: Tüm debuff'ların 15ini temizle.",
-        "Tetiklendiğinde: Tüm debuff'ların 20sini temizle ve kalıcı olarak +5 iyileştirme kazan."
+        "Tetiklendiğinde: Bir debuff'tan 25 veya daha fazlasına sahipsen, 5 tanesini temizle.",
+        "Tetiklendiğinde: Bir debuff'tan 25 veya daha fazlasına sahipsen, 10 tanesini temizle.",
+        "Tetiklendiğinde: Tüm debuff'lardan 15'er tane temizle.",
+        "Tetiklendiğinde: Tüm debuff'lardan 20'şer tane temizle ve kalıcı olarak +5 İyileştirme kazan."
       ]
     },
     "divine_axe": {
       "name": "İlahi Balta",
       "texts": [
-        "Her 3 Tetiklemede: Her debuff'tan 5ini temizle.",
-        "Her 3 Tetiklemede: Her debuff'tan 10unu temizle.",
-        "Her 3 Tetiklemede: Her debuff'tan 20sini temizle.",
-        "Tetiklendiğinde: Her debuff'tan 20sini temizle."
+        "Her 3 Tetiklemede: Her debuff'tan 5 tane temizle.",
+        "Her 3 Tetiklemede: Her debuff'tan 10 tane temizle.",
+        "Her 3 Tetiklemede: Her debuff'tan 20 tane temizle.",
+        "Tetiklendiğinde: Her debuff'tan 20 tane temizle."
       ]
     },
     "healing_word": {
       "name": "İyileştirici Söz",
       "texts": [
-        "Tetiklendiğinde: +3 bonus iyileştirme kazan.",
-        "Tetiklendiğinde: +6 bonus iyileştirme kazan.",
-        "Tetiklendiğinde: +12 bonus iyileştirme kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +12 iyileştirme kazan."
+        "Tetiklendiğinde: +3 bonus İyileştirme kazan.",
+        "Tetiklendiğinde: +6 bonus İyileştirme kazan.",
+        "Tetiklendiğinde: +12 bonus İyileştirme kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +12 İyileştirme kazan."
       ]
     },
     "lightblade": {
@@ -1781,8 +2148,8 @@
       "texts": [
         "",
         "",
-        "Tetiklendiğinde: +200 Maks. Sağlık kazan.",
-        "Tetiklendiğinde: +400 Maks. Sağlık kazan."
+        "Tetiklendiğinde: +200 Maks. HP kazan.",
+        "Tetiklendiğinde: +400 Maks. HP kazan."
       ]
     },
     "healer_s_oath": {
@@ -1790,8 +2157,8 @@
       "texts": [
         "Başka bir eşya iyileştirdiğinde, bunu tetikle.",
         "Başka bir eşya iyileştirdiğinde, bunu iki kez tetikle.",
-        "Başka bir eşya iyileştirdiğinde, +2 bonus iyileştirme kazan ve bunu üç kez tetikle.",
-        "Başka bir eşya iyileştirdiğinde, kalıcı olarak +3 iyileştirme kazan ve bunu 4 kez tetikle."
+        "Başka bir eşya iyileştirdiğinde, +2 bonus İyileştirme kazan ve bunu üç kez tetikle.",
+        "Başka bir eşya iyileştirdiğinde, kalıcı olarak +3 İyileştirme kazan ve bunu 4 kez tetikle."
       ]
     },
     "solaris": {
@@ -1799,8 +2166,8 @@
       "texts": [
         "",
         "",
-        "Savaş Başlangıcında: Kalıcı olarak +1 çoklu tetikleme ve +10 iyileştirme kazan.",
-        "Savaş Başlangıcında: Kalıcı olarak +2 çoklu tetikleme ve +20 iyileştirme kazan."
+        "Savaş Başlangıcında: Kalıcı olarak +1 Çoklu Tetikleme ve +10 İyileştirme kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +2 Çoklu Tetikleme ve +20 İyileştirme kazan."
       ]
     },
     "holy_sigil": {
@@ -1809,16 +2176,16 @@
         "Tetiklendiğinde: Soldaki Kutsal eşyayı tetikle.",
         "Tetiklendiğinde: Soldaki Kutsal eşyayı iki kez tetikle.",
         "Tetiklendiğinde: Soldaki Kutsal eşyayı üç kez tetikle.",
-        "Tetiklendiğinde: Soldaki Kutsal eşyayı 4 kez tetikle ve kalıcı olarak +50 iyileştirme ver."
+        "Tetiklendiğinde: Soldaki Kutsal eşyayı 4 kez tetikle ve ona kalıcı olarak +50 İyileştirme ver."
       ]
     },
     "redemption": {
       "name": "Kefaret",
       "texts": [
-        "İyileştirdiğinde, kalıcı olarak +1 hasar ve +2 iyileştirme kazan.",
-        "İyileştirdiğinde, kalıcı olarak +2 hasar ve +4 iyileştirme kazan.",
-        "İyileştirdiğinde, kalıcı olarak +4 hasar ve +8 iyileştirme kazan.",
-        "İyileştirdiğinde, kalıcı olarak +4 hasar ve +8 iyileştirme kazan. Sonra bunu tetikle."
+        "İyileştirdiğinde, kalıcı olarak +1 Hasar ve +2 İyileştirme kazan.",
+        "İyileştirdiğinde, kalıcı olarak +2 Hasar ve +4 İyileştirme kazan.",
+        "İyileştirdiğinde, kalıcı olarak +4 Hasar ve +8 İyileştirme kazan.",
+        "İyileştirdiğinde, kalıcı olarak +4 Hasar ve +8 İyileştirme kazan. Sonra bunu tetikle."
       ]
     },
     "protector": {
@@ -1836,7 +2203,7 @@
         "Elde edildiğinde: Ayrıca +16 XP kazan.",
         "Elde edildiğinde: Ayrıca +24 XP kazan.",
         "Elde edildiğinde: Ayrıca +32 XP kazan.",
-        "Elde edildiğinde: Ayrıca bir seviye kazan. Tetiklendiğinde: Seviyenin 2 katı kadar Hasarı kalıcı olarak kazan."
+        "Elde edildiğinde: Ayrıca bir seviye kazan. Tetiklendiğinde: Seviyenin 2 katı kadar kalıcı Hasar kazan."
       ]
     },
     "silver_lance": {
@@ -1844,8 +2211,8 @@
       "texts": [
         "",
         "",
-        "Tetiklendiğinde: 15 bonus hasar ver.",
-        "Tetiklendiğinde: 30 bonus hasar ver."
+        "Tetiklendiğinde: 10 bonus Hasar ver.",
+        "Tetiklendiğinde: 30 bonus Hasar ver."
       ]
     },
     "crescentshot": {
@@ -1853,35 +2220,35 @@
       "texts": [
         "",
         "",
-        "Tetiklendiğinde: +1 bonus hasar kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +2 hasar kazan."
+        "Tetiklendiğinde: +1 bonus Hasar kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +2 Hasar kazan."
       ]
     },
     "lunar_codex": {
       "name": "Ay Kodeksi",
       "texts": [
-        "Seviye atladığında, kalıcı olarak +1 çoklu tetikleme kazan.",
-        "Seviye atladığında, kalıcı olarak +2 çoklu tetikleme kazan.",
-        "Seviye atladığında, kalıcı olarak +4 çoklu tetikleme kazan.",
-        "Seviye atladığında, kalıcı olarak +4 çoklu tetikleme ve +25 hasar kazan."
+        "Seviye atladığında, kalıcı olarak +1 Çoklu Tetikleme kazan.",
+        "Seviye atladığında, kalıcı olarak +2 Çoklu Tetikleme kazan.",
+        "Seviye atladığında, kalıcı olarak +4 Çoklu Tetikleme kazan.",
+        "Seviye atladığında, kalıcı olarak +4 Çoklu Tetikleme ve +25 Hasar kazan."
       ]
     },
     "lapis_lazuli": {
       "name": "Lapis Lazuli",
       "texts": [
-        "Tetiklendiğinde: Diğer Ay eşyalarına kalıcı olarak +2 hasar ver.",
-        "Tetiklendiğinde: Diğer Ay eşyalarına kalıcı olarak +4 hasar ver.",
-        "Tetiklendiğinde: Diğer Ay eşyalarına kalıcı olarak +6 hasar ver.",
-        "Tetiklendiğinde: Diğer Ay eşyalarına kalıcı olarak +6 hasar ve +%3 krit ver."
+        "Tetiklendiğinde: Diğer Ay eşyalarına kalıcı olarak +2 Hasar ver.",
+        "Tetiklendiğinde: Diğer Ay eşyalarına kalıcı olarak +4 Hasar ver.",
+        "Tetiklendiğinde: Diğer Ay eşyalarına kalıcı olarak +6 Hasar ver.",
+        "Tetiklendiğinde: Diğer Ay eşyalarına kalıcı olarak +6 Hasar ve +%3 Kritik Şansı ver."
       ]
     },
     "high_blade": {
       "name": "Yüksek Kılıç",
       "texts": [
-        "Savaş başlangıcında: Her Ay eşyası için bekleme süresini kalıcı olarak 0.2s azalt.",
-        "Savaş başlangıcında: Her Ay eşyası için bekleme süresini kalıcı olarak 0.4s azalt.",
-        "Savaş başlangıcında: Her Ay eşyası için kalıcı olarak +5 hasar kazan.",
-        "Savaş başlangıcında: Her Ay eşyası için kalıcı olarak +10 hasar kazan."
+        "Savaş Başlangıcında: Her Ay eşyası için bekleme süresini kalıcı olarak 0.2s azalt.",
+        "Savaş Başlangıcında: Her Ay eşyası için bekleme süresini kalıcı olarak 0.4s azalt.",
+        "Savaş Başlangıcında: Her Ay eşyası için kalıcı olarak +5 Hasar kazan.",
+        "Savaş Başlangıcında: Her Ay eşyası için kalıcı olarak +10 Hasar kazan."
       ]
     },
     "moonstone": {
@@ -1889,17 +2256,17 @@
       "texts": [
         "",
         "",
-        "Savaş Başlangıcında: Her Ay eşyası için kalıcı olarak +2 hasar kazan.",
-        "Savaş Başlangıcında: Her Ay eşyası için kalıcı olarak +4 hasar kazan."
+        "Savaş Başlangıcında: Her Ay eşyası için kalıcı olarak +2 Hasar kazan.",
+        "Savaş Başlangıcında: Her Ay eşyası için kalıcı olarak +4 Hasar kazan."
       ]
     },
     "moonveil": {
       "name": "Ay Perdesi",
       "texts": [
-        "Savaş Başlangıcında: Ay eşyalarına +1 bonus çoklu tetikleme ver.",
-        "Savaş Başlangıcında: Ay eşyalarına +2 bonus çoklu tetikleme ver.",
-        "Savaş Başlangıcında: Ay eşyalarına +4 bonus çoklu tetikleme ver.",
-        "Savaş Başlangıcında: Ay eşyalarına kalıcı olarak +4 çoklu tetikleme ver."
+        "Savaş Başlangıcında: Ay eşyalarına +1 bonus Çoklu Tetikleme ver.",
+        "Savaş Başlangıcında: Ay eşyalarına +2 bonus Çoklu Tetikleme ver.",
+        "Savaş Başlangıcında: Ay eşyalarına +4 bonus Çoklu Tetikleme ver.",
+        "Savaş Başlangıcında: Ay eşyalarına kalıcı olarak +4 Çoklu Tetikleme ver."
       ]
     },
     "bone_club": {
@@ -1907,8 +2274,8 @@
       "texts": [
         "",
         "",
-        "Tetiklendiğinde: Kalıcı olarak +3 hasar kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +6 hasar kazan."
+        "Tetiklendiğinde: Kalıcı olarak +3 Hasar kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +6 Hasar kazan."
       ]
     },
     "regular_bow": {
@@ -1916,8 +2283,8 @@
       "texts": [
         "",
         "",
-        "Savaş Başlangıcında: Kalıcı olarak +3 hasar kazan.",
-        "Savaş Başlangıcında: Eğer bu tek eşyan ise, kalıcı olarak +12 Hasar ve +3 çoklu tetikleme kazan."
+        "Savaş Başlangıcında: Kalıcı olarak +3 Hasar kazan.",
+        "Savaş Başlangıcında: Eğer bu tek eşyan ise, kalıcı olarak +10 Hasar ve +3 Çoklu Tetikleme kazan."
       ]
     },
     "regular_goat": {
@@ -1928,17 +2295,17 @@
       "texts": [
         "",
         "",
-        "Savaş Başlangıcında: Kalıcı olarak +10 kalkan kazan.",
-        "Savaş Başlangıcında ve Tetiklendiğinde: Kalıcı olarak +10 kalkan kazan."
+        "Savaş Başlangıcında: Kalıcı olarak +10 Kalkan kazan.",
+        "Savaş Başlangıcında ve Tetiklendiğinde: Kalıcı olarak +10 Kalkan kazan."
       ]
     },
     "chopper": {
       "name": "Kesici",
       "texts": [
-        "Savaş başlangıcında: Baltalarına kalıcı olarak +4 hasar ver.",
-        "Savaş başlangıcında: Baltalarına kalıcı olarak +8 hasar ver.",
-        "Savaş başlangıcında: Baltalarına kalıcı olarak +16 hasar ve +%10 krit ver.",
-        "Tetiklendiğinde: Baltalarına kalıcı olarak +16 hasar ve +%10 krit ver."
+        "Savaş Başlangıcında: Baltalarına kalıcı olarak +4 Hasar ver.",
+        "Savaş Başlangıcında: Baltalarına kalıcı olarak +8 Hasar ver.",
+        "Savaş Başlangıcında: Baltalarına kalıcı olarak +16 Hasar ve +%10 Kritik Şansı ver.",
+        "Tetiklendiğinde: Baltalarına kalıcı olarak +16 Hasar ve +%10 Kritik Şansı ver."
       ]
     },
     "novice_blade": {
@@ -1953,73 +2320,73 @@
     "spyglass": {
       "name": "Dürbün",
       "texts": [
-        "Tetiklendiğinde: Bitişik eşyalara kalıcı olarak +%5 krit şansı ver.",
-        "Tetiklendiğinde: Bitişik eşyalara kalıcı olarak +%10 krit şansı ver.",
-        "Tetiklendiğinde: Bitişik eşyalara kalıcı olarak +%20 krit şansı ver.",
-        "Tetiklendiğinde: Bitişik eşyalara kalıcı olarak +%40 krit ve +10 hasar ver."
+        "Tetiklendiğinde: Bitişik eşyalara kalıcı olarak +%5 Kritik Şansı ver.",
+        "Tetiklendiğinde: Bitişik eşyalara kalıcı olarak +%10 Kritik Şansı ver.",
+        "Tetiklendiğinde: Bitişik eşyalara kalıcı olarak +%20 Kritik Şansı ver.",
+        "Tetiklendiğinde: Bitişik eşyalara kalıcı olarak +%40 Kritik Şansı ve +10 Hasar ver."
       ]
     },
     "sharpsteel": {
       "name": "Keskin Çelik",
       "texts": [
-        "Bu kritik vurduğunda, kalıcı olarak +1 hasar kazan.",
-        "Bu kritik vurduğunda, kalıcı olarak +2 hasar kazan.",
-        "Bu kritik vurduğunda, kalıcı olarak +4 hasar kazan.",
-        "Bu kritik vurduğunda, eşyalarına kalıcı olarak +5 hasar ver."
+        "Bu krit vurduğunda, kalıcı olarak +1 Hasar kazan.",
+        "Bu krit vurduğunda, kalıcı olarak +2 Hasar kazan.",
+        "Bu krit vurduğunda, kalıcı olarak +4 Hasar kazan.",
+        "Bu krit vurduğunda, eşyalarına kalıcı olarak +5 Hasar ver."
       ]
     },
     "spikey_mace": {
       "name": "Dikenli Topuz",
       "texts": [
-        "Savaş Başlangıcında: Her Topuz için kalıcı olarak +5 hasar kazan.",
-        "Savaş Başlangıcında: Her Topuz için kalıcı olarak +10 hasar kazan.",
-        "Savaş Başlangıcında: Her Topuz için kalıcı olarak +15 hasar ve +%3 krit kazan.",
-        "Savaş Başlangıcında: Her Topuz için kalıcı olarak +20 hasar ve +%6 krit kazan."
+        "Savaş Başlangıcında: Her Topuz başına kalıcı olarak +5 Hasar kazan.",
+        "Savaş Başlangıcında: Her Topuz başına kalıcı olarak +10 Hasar kazan.",
+        "Savaş Başlangıcında: Her Topuz başına kalıcı olarak +15 Hasar ve +%3 Kritik Şansı kazan.",
+        "Savaş Başlangıcında: Her Topuz başına kalıcı olarak +20 Hasar ve +%6 Kritik Şansı kazan."
       ]
     },
     "brass_knife": {
       "name": "Pirinç Bıçak",
       "texts": [
-        "Tetiklendiğinde: +5 altın kazan ve bu miktarı 1 azalt.",
-        "Tetiklendiğinde: +8 altın kazan ve bu miktarı 1 azalt.",
-        "Tetiklendiğinde: +12 altın ve +2 gelir kazan, sonra bu değerleri 1 azalt.",
-        "Tetiklendiğinde: +15 altın ve +4 gelir kazan, sonra bu değerleri 1 azalt."
+        "Tetiklendiğinde: +5 Altın kazan ve bu miktarı 1 azalt.",
+        "Tetiklendiğinde: +8 Altın kazan ve bu miktarı 1 azalt.",
+        "Tetiklendiğinde: +12 Altın ve +2 Gelir kazan, sonra bu değerleri 1 azalt.",
+        "Tetiklendiğinde: +15 Altın ve +4 Gelir kazan, sonra bu değerleri 1 azalt."
       ]
     },
     "hunter_s_tome": {
       "name": "Avcının Kitabı",
       "texts": [
-        "Tetiklendiğinde: Kalıcı olarak +1 hasar kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +2 hasar kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +3 hasar ve +%5 krit kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +6 hasar ve +%10 krit kazan."
+        "Tetiklendiğinde: Kalıcı olarak +1 Hasar kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +2 Hasar kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +3 Hasar ve +%5 Kritik Şansı kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +6 Hasar ve +%10 Kritik Şansı kazan."
       ]
     },
     "sword_techniques": {
       "name": "Kılıç Teknikleri",
       "texts": [
-        "Tetiklendiğinde: Altındaki Kılıca kalıcı olarak +3 hasar ve +%5 krit şansı ver.",
-        "Tetiklendiğinde: Altındaki Kılıca kalıcı olarak +6 hasar ve +%10 krit şansı ver.",
-        "Tetiklendiğinde: Altındaki Kılıca kalıcı olarak +10 hasar ve +%15 krit şansı ver.",
-        "Tetiklendiğinde: Tüm kılıçlarına kalıcı olarak +20 hasar ve +%20 krit şansı ver."
+        "Tetiklendiğinde: Altındaki Kılıca kalıcı olarak +3 Hasar ve +%5 Kritik Şansı ver.",
+        "Tetiklendiğinde: Altındaki Kılıca kalıcı olarak +6 Hasar ve +%10 Kritik Şansı ver.",
+        "Tetiklendiğinde: Altındaki Kılıca kalıcı olarak +10 Hasar ve +%15 Kritik Şansı ver.",
+        "Tetiklendiğinde: Tüm Kılıçlarına kalıcı olarak +20 Hasar ve +%20 Kritik Şansı ver."
       ]
     },
     "how_to_grow": {
       "name": "Elf Kitabı",
       "texts": [
-        "Tetiklendiğinde: Sağdaki Elf eşyasına kalıcı olarak +3 hasar ver.",
-        "Tetiklendiğinde: Sağdaki Elf eşyasına kalıcı olarak +6 hasar ver.",
-        "Tetiklendiğinde: Sağdaki Elf eşyasına kalıcı olarak +12 hasar ver.",
-        "Tetiklendiğinde: Tüm Elf eşyalarına kalıcı olarak +12 hasar ver."
+        "Tetiklendiğinde: Sağdaki Elf eşyasına kalıcı olarak +3 Hasar ver.",
+        "Tetiklendiğinde: Sağdaki Elf eşyasına kalıcı olarak +6 Hasar ver.",
+        "Tetiklendiğinde: Sağdaki Elf eşyasına kalıcı olarak +12 Hasar ver.",
+        "Tetiklendiğinde: Tüm Elf eşyalarına kalıcı olarak +12 Hasar ver."
       ]
     },
     "modern_archery": {
       "name": "Modern Okçuluk",
       "texts": [
-        "Tetiklendiğinde: Soldaki Yaya kalıcı olarak +1 çoklu tetikleme ver.",
-        "Tetiklendiğinde: Soldaki Yaya kalıcı olarak +2 çoklu tetikleme ver.",
-        "Tetiklendiğinde: Tüm Yaylarına kalıcı olarak +3 çoklu tetikleme ver.",
-        "Tetiklendiğinde: Tüm Yaylarına kalıcı olarak +6 çoklu tetikleme ve +10 hasar ver."
+        "Tetiklendiğinde: Soldaki Yaya kalıcı olarak +1 Çoklu Tetikleme ver.",
+        "Tetiklendiğinde: Soldaki Yaya kalıcı olarak +2 Çoklu Tetikleme ver.",
+        "Tetiklendiğinde: Tüm Yaylarına kalıcı olarak +3 Çoklu Tetikleme ver.",
+        "Tetiklendiğinde: Tüm Yaylarına kalıcı olarak +6 Çoklu Tetikleme ve +10 Hasar ver."
       ]
     },
     "goblet": {
@@ -2036,8 +2403,8 @@
       "texts": [
         "Her gün, satış değerini +15 artır. Savaş Başlangıcında: Satış değerine eşit hasar kazan.",
         "Her gün, satış değerini +30 artır. Savaş Başlangıcında: Satış değerine eşit hasar kazan.",
-        "Her gün, satış değerini +60 artır ve +15 Altın kazan. Savaş Başlangıcında: Satış değerine eşit hasar kazan.",
-        "Her gün, satış değerini +120 artır ve +30 Altın kazan. Savaş Başlangıcında: Satış değerine eşit hasar kazan."
+        "Her gün, satış değerini +60 artır ve +15 Altın kazan. Savaş Başlangıcında: Satış değerine eşit Hasar kazan.",
+        "Her gün, satış değerini +120 artır ve +30 Altın kazan. Savaş Başlangıcında: Satış değerine eşit Hasar kazan."
       ]
     },
     "log": {
@@ -2047,25 +2414,25 @@
         "Sadece bir kütük.",
         "Oldukça kalın bir kütük.",
         "Ciddi ciddi DEVASA BİR KÜTÜK.",
-        "Tetiklendiğinde: 1000 bonus hasar ver. Kütüklendin oğul."
+        "Tetiklendiğinde: 1000 bonus Hasar ver. Kütüklendin oğul."
       ]
     },
     "mace_study": {
       "name": "Topuz Çalışması",
       "texts": [
-        "Tetiklendiğinde: Altındaki Topuza +1 bonus çoklu tetikleme ver.",
-        "Tetiklendiğinde: Altındaki Topuza +2 bonus çoklu tetikleme ver.",
-        "Tetiklendiğinde: Altındaki Topuza +3 kalıcı hasar ve +4 bonus çoklu tetikleme ver.",
-        "Tetiklendiğinde: Tüm Topuzlarına +4 çoklu tetikleme ve +3 Hasar kalıcı olarak ver."
+        "Tetiklendiğinde: Altındaki Topuza +1 bonus Çoklu Tetikleme ver.",
+        "Tetiklendiğinde: Altındaki Topuza +2 bonus Çoklu Tetikleme ver.",
+        "Tetiklendiğinde: Altındaki Topuza kalıcı olarak +3 Hasar ve +4 bonus Çoklu Tetikleme ver.",
+        "Tetiklendiğinde: Tüm Topuzlarına kalıcı olarak +4 Çoklu Tetikleme ve +3 Hasar ver."
       ]
     },
     "lifeguard": {
       "name": "Can Muhafızı",
       "texts": [
-        "Tetiklendiğinde: Her debuff'tan 2sini temizle.",
-        "Tetiklendiğinde: Her debuff'tan 5ini temizle.",
-        "Tetiklendiğinde: Her debuff'tan 10unu temizle.",
-        "Tetiklendiğinde: Her debuff'tan 30unu temizle."
+        "Tetiklendiğinde: Her debuff'tan 2 tane temizle.",
+        "Tetiklendiğinde: Her debuff'tan 5 tane temizle.",
+        "Tetiklendiğinde: Her debuff'tan 10 tane temizle.",
+        "Tetiklendiğinde: Her debuff'tan 30 tane temizle."
       ]
     },
     "noble_spear": {
@@ -2073,80 +2440,80 @@
       "texts": [
         "",
         "",
-        "Savaş Başlangıcında: Kalıcı olarak +50 hasar kazan.",
-        "Savaş Başlangıcında ve Tetiklendiğinde: Kalıcı olarak +50 hasar kazan."
+        "Savaş Başlangıcında: Kalıcı olarak +50 Hasar kazan.",
+        "Savaş Başlangıcında ve Tetiklendiğinde: Kalıcı olarak +50 Hasar kazan."
       ]
     },
     "hook": {
       "name": "Kanca",
       "texts": [
-        "Bu kritik vurduğunda, +2 altın kazan.",
-        "Bu kritik vurduğunda, +4 altın kazan.",
-        "Bu kritik vurduğunda, +6 altın kazan.",
-        "Bu kritik vurduğunda, 2 Kadeh kazan."
+        "Bu krit vurduğunda, +2 Altın kazan.",
+        "Bu krit vurduğunda, +4 Altın kazan.",
+        "Bu krit vurduğunda, +6 Altın kazan.",
+        "Bu krit vurduğunda, 2 Kadeh kazan."
       ]
     },
     "tome_of_blades": {
       "name": "Kılıçlar Kitabı",
       "texts": [
-        "Savaş Başlangıcında: En az 3 hançerin varsa, +4 bonus çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: En az 3 hançerin varsa, +8 bonus çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: En az 3 hançerin varsa, +16 bonus çoklu tetikleme kazan.",
+        "Savaş Başlangıcında: En az 3 hançerin varsa, +4 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: En az 3 hançerin varsa, +8 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: En az 3 hançerin varsa, +16 bonus Çoklu Tetikleme kazan.",
         "Savaş Başlangıcında: En az 3 hançerin varsa, bunu sınırsız tetikle."
       ]
     },
     "bulwark": {
       "name": "Set",
       "texts": [
-        "Tetiklendiğinde: Kalıcı olarak +1 kalkan kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +2 kalkan kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +4 kalkan kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +8 kalkan kazan. Savaş Başlangıcında: Bunu 3 kez tetikle."
+        "Tetiklendiğinde: Kalıcı olarak +1 Kalkan kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +2 Kalkan kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +4 Kalkan kazan.",
+        "Tetiklendiğinde: Kalıcı olarak +8 Kalkan kazan. Savaş Başlangıcında: Bunu 3 kez tetikle."
       ]
     },
     "nugget": {
       "name": "Pirinç Kalkan",
       "texts": [
-        "Her 3 Tetiklemede: +2 altın kazan.",
-        "Her 3 Tetiklemede: +4 altın kazan.",
-        "Her 3 Tetiklemede: +4 altın ve +1 gelir kazan.",
-        "Tetiklendiğinde: +4 altın dan +1 gelir kazan."
+        "Her 3 Tetiklemede: +2 Altın kazan.",
+        "Her 3 Tetiklemede: +4 Altın kazan.",
+        "Her 3 Tetiklemede: +4 Altın ve +1 Gelir kazan.",
+        "Tetiklendiğinde: +4 Altın ve +1 Gelir kazan."
       ]
     },
     "woodchopping": {
       "name": "Odun Kesme",
       "texts": [
-        "Tetiklendiğinde: Baltalarına her benzersiz balta başına kalıcı olarak +3 hasar ver.",
-        "Tetiklendiğinde: Baltalarına her benzersiz balta başına kalıcı olarak +6 hasar ver.",
-        "Tetiklendiğinde: Baltalarına her benzersiz balta başına kalıcı olarak +12 hasar ver.",
-        "Tetiklendiğinde: Baltalarına her benzersiz balta başına kalıcı olarak +24 hasar ve +%5 krit ver."
+        "Tetiklendiğinde: Baltalarına her benzersiz balta başına kalıcı olarak +3 Hasar ver.",
+        "Tetiklendiğinde: Baltalarına her benzersiz balta başına kalıcı olarak +6 Hasar ver.",
+        "Tetiklendiğinde: Baltalarına her benzersiz balta başına kalıcı olarak +12 Hasar ver.",
+        "Tetiklendiğinde: Baltalarına her benzersiz Balta başına kalıcı olarak +24 Hasar ve +%5 Kritik Şansı ver."
       ]
     },
     "conjure_spear": {
-      "name": "İcat Mızrağı",
+      "name": "Mızrak Çağrısı",
       "texts": [
         "Tetiklendiğinde: Altındaki mızrağın düz bir kopyasını kazan.",
-        "Tetiklendiğinde: Altındaki mızrağın 2 düz kopyasını kazan.",
-        "Tetiklendiğinde: Altındaki mızrağın 3 düz kopyasını kazan.",
-        "Tetiklendiğinde: Altındaki mızrağın 6 düz kopyasını kazan."
+        "Tetiklendiğinde: Altındaki mızrağın 2 özelliksiz kopyasını kazan.",
+        "Tetiklendiğinde: Altındaki mızrağın 3 özelliksiz kopyasını kazan.",
+        "Tetiklendiğinde: Altındaki mızrağın 6 özelliksiz kopyasını kazan."
       ]
     },
     "midas_diary": {
       "name": "Midas Günlüğü",
       "texts": [
-        "Bu veya bir hançer tetiklendiğinde: +1 altın kazan.",
-        "Bu veya bir hançer tetiklendiğinde: +2 altın kazan.",
-        "Bu veya bir hançer tetiklendiğinde: +3 altın ve +1 gelir kazan.",
-        "Bu veya bir hançer tetiklendiğinde: +6 altın ve +2 gelir kazan."
+        "Bu veya bir Hançer tetiklendiğinde: +1 Altın kazan.",
+        "Bu veya bir Hançer tetiklendiğinde: +2 Altın kazan.",
+        "Bu veya bir Hançer tetiklendiğinde: +3 Altın ve +1 Gelir kazan.",
+        "Bu veya bir Hançer tetiklendiğinde: +6 Altın ve +2 Gelir kazan."
       ]
     },
     "razorleaf": {
       "name": "Jilet Yaprak",
       "texts": [
-        "Başka bir Elf eşya tetiklendiğinde, bu eşyanın mevcut bekleme süresinden 1 saniye çıkar.",
-        "Başka bir Elf eşya tetiklendiğinde, bu eşyanın mevcut bekleme süresinden 2 saniye çıkar.",
-        "Başka bir Elf eşya tetiklendiğinde, bunu tetikle ve +1 bonus hasar kazan.",
-        "Başka bir Elf eşya tetiklendiğinde, bunu tetikle ve +1 hasarı kalıcı olarak kazan."
+        "Başka bir Elf eşyası tetiklendiğinde, bu eşyanın mevcut bekleme süresinden 1 saniye çıkar.",
+        "Başka bir Elf eşyası tetiklendiğinde, bu eşyanın mevcut bekleme süresinden 2 saniye çıkar.",
+        "Başka bir Elf eşyası tetiklendiğinde, bunu tetikle ve +1 bonus Hasar kazan.",
+        "Başka bir Elf eşyası tetiklendiğinde, bunu tetikle ve kalıcı olarak +1 Hasar kazan."
       ]
     },
     "toxins": {
@@ -2164,7 +2531,7 @@
         "Tetiklendiğinde: Sadece benzersiz eşya türlerine sahipsen, kalıcı olarak +5 Hasar kazan.",
         "Tetiklendiğinde: Sadece benzersiz eşya türlerine sahipsen, kalıcı olarak +10 Hasar kazan.",
         "Tetiklendiğinde: Sadece benzersiz eşya türlerine sahipsen, kalıcı olarak +15 Hasar kazan.",
-        "Tetiklendiğinde: Kalıcı olarak +30 Hasar ve +%5 krit kazan."
+        "Tetiklendiğinde: Kalıcı olarak +30 Hasar ve +%5 Kritik Şansı kazan."
       ]
     },
     "mythic_bonk": {
@@ -2191,9 +2558,9 @@
     "dream_catcher": {
       "name": "Rüya Yakalayıcı",
       "texts": [
-        "Tetiklendiğinde: Üstündeki eşyanın bekleme süresini kalıcı olarak 0.1s azalt.",
-        "Tetiklendiğinde: Üstündeki eşyanın bekleme süresini kalıcı olarak 0.2s azalt.",
-        "Tetiklendiğinde: Üstündeki eşyanın bekleme süresini kalıcı olarak 0.4s azalt.",
+        "Tetiklendiğinde: Üstündeki eşyanın bekleme süresini kalıcı olarak %5 azalt.",
+        "Tetiklendiğinde: Üstündeki eşyanın bekleme süresini kalıcı olarak %10 azalt.",
+        "Tetiklendiğinde: Üstündeki eşyanın bekleme süresini kalıcı olarak %15 azalt.",
         "Tetiklendiğinde: Üstündeki eşyanın bekleme süresini kalıcı olarak 1s olarak ayarla."
       ]
     },
@@ -2209,19 +2576,19 @@
     "nature_s_call": {
       "name": "Doğanın Çağrısı",
       "texts": [
-        "Tetiklendiğinde: Altındaki eşyaya +1 bonus çoklu tetikleme ver.",
-        "Tetiklendiğinde: Altındaki eşyaya +2 bonus çoklu tetikleme ver.",
-        "Tetiklendiğinde: Altındaki eşyaya +3 bonus çoklu tetikleme ver.",
-        "Tetiklendiğinde: Altındaki eşyaya kalıcı olarak +4 çoklu tetikleme ver."
+        "Tetiklendiğinde: Altındaki eşyaya +1 bonus Çoklu Tetikleme ver.",
+        "Tetiklendiğinde: Altındaki eşyaya +2 bonus Çoklu Tetikleme ver.",
+        "Tetiklendiğinde: Altındaki eşyaya +3 bonus Çoklu Tetikleme ver.",
+        "Tetiklendiğinde: Altındaki eşyaya kalıcı olarak +4 Çoklu Tetikleme ver."
       ]
     },
     "life_essence": {
       "name": "Ejderha Küresi",
       "texts": [
-        "Tetiklendiğinde: Kalıcı olarak +50 maks. sağlık kazan (bu kritik vurabilir!).",
-        "Tetiklendiğinde: Kalıcı olarak +100 maks. sağlık kazan (bu kritik vurabilir!).",
-        "Tetiklendiğinde: Kalıcı olarak +200 maks. sağlık kazan (bu kritik vurabilir!).",
-        "Tetiklendiğinde: Kalıcı olarak +400 maks. sağlık ve +8 altın kazan (bunlar kritik vurabilir!)."
+        "Tetiklendiğinde: Kalıcı olarak +50 Maks. HP kazan (bu kritik vurabilir!).",
+        "Tetiklendiğinde: Kalıcı olarak +100 Maks. HP kazan (bu kritik vurabilir!).",
+        "Tetiklendiğinde: Kalıcı olarak +200 Maks. HP kazan (bu kritik vurabilir!).",
+        "Tetiklendiğinde: Kalıcı olarak +400 Maks. HP ve +8 Altın kazan (bunlar kritik vurabilir!)."
       ]
     },
     "sagon_yorb": {
@@ -2242,37 +2609,37 @@
     "astral_hammer": {
       "name": "Astral Çekiç",
       "texts": [
-        "Savaş başlangıcında: En az 4 Topuzun varsa, bekleme süresini 1 saniyeye azalt.",
-        "Savaş başlangıcında: En az 4 Topuzun varsa, bekleme süresini 0.5 saniyeye azalt.",
-        "Savaş başlangıcında: Bekleme süresini 0.5 saniyeye azalt ve her Topuz başına +3 hasar kazan.",
-        "Savaş başlangıcında: +50 hasar kazan ve bunu sınırsız tetikle."
+        "Savaş Başlangıcında: En az 4 Topuzun varsa, bekleme süresini 1 saniyeye azalt.",
+        "Savaş Başlangıcında: En az 4 Topuzun varsa, bekleme süresini 0.5 saniyeye azalt.",
+        "Savaş Başlangıcında: Bekleme süresini 0.5 saniyeye azalt ve her Topuz başına +3 Hasar kazan.",
+        "Savaş Başlangıcında: +50 Hasar kazan ve bunu sınırsız tetikle."
       ]
     },
     "warhorn": {
       "name": "Savaş Borusu",
       "texts": [
-        "Tetiklendiğinde: Bitişik eşyalara kendi kritik şanslarına eşit bonus hasar ver.",
-        "Tetiklendiğinde: Bitişik eşyalara kendi kritik şanslarının iki katı kadar bonus hasar ver.",
-        "Tetiklendiğinde: Bitişik eşyalara kendi kritik şanslarının 4 katı kadar bonus hasar ver.",
-        "Tetiklendiğinde: Tüm eşyalarına kendi kritik şanslarının 6 katı kadar bonus hasar ver."
+        "Tetiklendiğinde: Bitişik eşyalara kendi Krit Şanslarına eşit bonus Hasar ver.",
+        "Tetiklendiğinde: Bitişik eşyalara kendi Krit Şanslarının iki katı kadar bonus Hasar ver.",
+        "Tetiklendiğinde: Bitişik eşyalara kendi Krit Şanslarının 4 katı kadar bonus Hasar ver.",
+        "Tetiklendiğinde: Tüm eşyalarına kendi Krit Şanslarının 6 katı kadar bonus Hasar ver."
       ]
     },
     "lost_fragment": {
       "name": "Kayıp Parça",
       "texts": [
-        "Tetiklendiğinde: Üstündeki eşyaya +1 bonus çoklu tetikleme ver ve bu eşyanın bekleme süresini 4s artır.",
-        "Tetiklendiğinde: Üstündeki eşyaya +1 bonus çoklu tetikleme ver ve bu eşyanın bekleme süresini 2s artır.",
-        "Tetiklendiğinde: Üstündeki eşyaya +1 bonus çoklu tetikleme ver.",
-        "Tetiklendiğinde: Üstündeki eşyaya kalıcı olarak +1 çoklu tetikleme ver."
+        "Tetiklendiğinde: Üstündeki eşyaya +1 bonus Çoklu Tetikleme ver ve bu eşyanın bekleme süresini 4s artır.",
+        "Tetiklendiğinde: Üstündeki eşyaya +1 bonus Çoklu Tetikleme ver ve bu eşyanın bekleme süresini 2s artır.",
+        "Tetiklendiğinde: Üstündeki eşyaya +1 bonus Çoklu Tetikleme ver.",
+        "Tetiklendiğinde: Üstündeki eşyaya kalıcı olarak +1 Çoklu Tetikleme ver."
       ]
     },
     "trigem": {
       "name": "Trigem",
       "texts": [
-        "Tetiklendiğinde: Sadece benzersiz eşya türlerine sahipsen, eşyalarına kalıcı olarak +5 hasar ver.",
-        "Tetiklendiğinde: Sadece benzersiz eşya türlerine sahipsen, eşyalarına kalıcı olarak +10 hasar ver.",
-        "Tetiklendiğinde: Sadece benzersiz eşya türlerine sahipsen, eşyalarına kalıcı olarak +20 hasar ver.",
-        "Tetiklendiğinde: Eşyalarına kalıcı olarak +40 hasar ve +%15 krit ver."
+        "Tetiklendiğinde: Sadece benzersiz eşya türlerine sahipsen, eşyalarına kalıcı olarak +5 Hasar ver.",
+        "Tetiklendiğinde: Sadece benzersiz eşya türlerine sahipsen, eşyalarına kalıcı olarak +10 Hasar ver.",
+        "Tetiklendiğinde: Sadece benzersiz eşya türlerine sahipsen, eşyalarına kalıcı olarak +20 Hasar ver.",
+        "Tetiklendiğinde: Eşyalarına kalıcı olarak +40 Hasar ve +%15 Kritik Şansı ver."
       ]
     },
     "cobalt_spear": {
@@ -2296,10 +2663,10 @@
     "anvil": {
       "name": "Örs",
       "texts": [
-        "Tetiklendiğinde: Her kılıç başına +1 demir yığını kazan. 20 yığında: Rastgele bir Dövme Kılıcı kazan.",
-        "Tetiklendiğinde: Her kılıç başına +2 demir yığını kazan. 20 yığında: Rastgele bir Dövme Kılıcı kazan.",
-        "Tetiklendiğinde: Her kılıç başına +3 demir yığını kazan. 20 yığında: Rastgele bir Dövme Kılıcı kazan.",
-        "Tetiklendiğinde: Rastgele bir Dövme Kılıcı kazan."
+        "Tetiklendiğinde: Her kılıç başına +1 demir yığını kazan. 20 yığında: Rastgele bir Dövülmüş Kılıç kazan.",
+        "Tetiklendiğinde: Her kılıç başına +2 demir yığını kazan. 20 yığında: Rastgele bir Dövülmüş Kılıç kazan.",
+        "Tetiklendiğinde: Her kılıç başına +3 demir yığını kazan. 20 yığında: Rastgele bir Dövülmüş Kılıç kazan.",
+        "Tetiklendiğinde: Rastgele bir Dövülmüş Kılıç kazan."
       ]
     },
     "cutlass": {
@@ -2313,37 +2680,37 @@
     },
     "astralis": {
       "name": "Astralis",
-      "rarity": "forged",
+      "rarity": "Dövülmüş",
       "texts": [
-        "Savaş Başlangıcında: Kılıçlarına +1 bonus çoklu tetikleme ver.",
-        "Savaş Başlangıcında: Kılıçlarına +2 bonus çoklu tetikleme ver.",
-        "Savaş Başlangıcında: Kılıçlarına +4 bonus çoklu tetikleme ver.",
-        "Savaş Başlangıcında: Kılıçlarına kalıcı olarak +4 çoklu tetikleme ver."
+        "Savaş Başlangıcında: Kılıçlarına +1 bonus Çoklu Tetikleme ver.",
+        "Savaş Başlangıcında: Kılıçlarına +2 bonus Çoklu Tetikleme ver.",
+        "Savaş Başlangıcında: Kılıçlarına +4 bonus Çoklu Tetikleme ver.",
+        "Savaş Başlangıcında: Kılıçlarına kalıcı olarak +4 Çoklu Tetikleme ver."
       ]
     },
     "a_thousand_cuts": {
       "name": "Bin Kesik",
-      "rarity": "forged",
+      "rarity": "Dövülmüş",
       "texts": [
         "Başka bir kılıç tetiklendiğinde, bunu tetikle.",
         "Başka bir kılıç tetiklendiğinde, bunu iki kez tetikle.",
         "Başka bir kılıç tetiklendiğinde, bunu 4 kez tetikle.",
-        "Savaş Başlangıcında: Kalıcı olarak +10 hasar kazan ve bunu sınırsız tetikle."
+        "Savaş Başlangıcında: Kalıcı olarak +10 Hasar kazan ve bunu sınırsız tetikle."
       ]
     },
     "black_rose": {
       "name": "Kara Gül",
-      "rarity": "forged",
+      "rarity": "Dövülmüş",
       "texts": [
-        "Savaş Başlangıcında: Kılıçlarına +%100 bonus krit şansı ve +20 bonus hasar ver.",
-        "Savaş Başlangıcında: Kılıçlarına +%200 bonus krit şansı ve +40 bonus hasar ver.",
-        "Savaş Başlangıcında: Kılıçlarına +%400 bonus krit şansı ve +80 bonus hasar ver.",
-        "Savaş Başlangıcında: Kılıçlarına kalıcı olarak +%400 krit şansı ve +80 hasar ver."
+        "Savaş Başlangıcında: Kılıçlarına +%100 bonus Kritik Şansı ve +20 bonus Hasar ver.",
+        "Savaş Başlangıcında: Kılıçlarına +%200 bonus Kritik Şansı ve +40 bonus Hasar ver.",
+        "Savaş Başlangıcında: Kılıçlarına +%400 bonus Kritik Şansı ve +80 bonus Hasar ver.",
+        "Savaş Başlangıcında: Kılıçlarına kalıcı olarak +%400 Kritik Şansı ve +80 Hasar ver."
       ]
     },
     "harbinger": {
       "name": "Haberci",
-      "rarity": "forged",
+      "rarity": "Dövülmüş",
       "texts": [
         "",
         "",
@@ -2353,17 +2720,17 @@
     },
     "molten_core": {
       "name": "Erimiş Çekirdek",
-      "rarity": "forged",
+      "rarity": "Dövülmüş",
       "texts": [
-        "Savaş Başlangıcında: Kılıçlarına +10 bonus yanma ver.",
-        "Savaş Başlangıcında: Kılıçlarına +20 bonus yanma ver.",
-        "Savaş Başlangıcında: Kılıçlarına +40 bonus yanma ver.",
-        "Savaş Başlangıcında: Kılıçlarına kalıcı olarak +40 yanma ver."
+        "Savaş Başlangıcında: Kılıçlarına +10 bonus Yanma ver.",
+        "Savaş Başlangıcında: Kılıçlarına +20 bonus Yanma ver.",
+        "Savaş Başlangıcında: Kılıçlarına +40 bonus Yanma ver.",
+        "Savaş Başlangıcında: Kılıçlarına kalıcı olarak +40 Yanma ver."
       ]
     },
     "home_brew": {
       "name": "Ev Yapımı",
-      "rarity": "special",
+      "rarity": "Özel",
       "texts": [
         "Rastgele özelliklere sahip.",
         "Rastgele özelliklere sahip.",
@@ -2373,17 +2740,17 @@
     },
     "jade": {
       "name": "Yeşim",
-      "rarity": "special",
+      "rarity": "Özel",
       "texts": [
-        "Tetiklendiğinde: Zehir eşyalarına kalıcı olarak +1 zehir ver.",
-        "Tetiklendiğinde: Zehir eşyalarına kalıcı olarak +2 zehir ver.",
-        "Tetiklendiğine: Zehir eşyalarına kalıcı olarak +4 zehir ver.",
-        "Tetiklendiğinde: Eşyalarına kalıcı olarak +8 zehir ver."
+        "Tetiklendiğinde: Zehir eşyalarına kalıcı olarak +1 Zehir ver.",
+        "Tetiklendiğinde: Zehir eşyalarına kalıcı olarak +2 Zehir ver.",
+        "Tetiklendiğinde: Zehir eşyalarına kalıcı olarak +4 Zehir ver.",
+        "Tetiklendiğinde: Eşyalarına kalıcı olarak +8 Zehir ver."
       ]
     },
     "icicle": {
       "name": "Sarkıt",
-      "rarity": "special",
+      "rarity": "Özel",
       "texts": [
         "Tetiklendiğinde: Rastgele bir düşman eşyasını 2s boyunca dondur.",
         "Tetiklendiğinde: 2 rastgele düşman eşyasını 2s boyunca dondur.",
@@ -2393,17 +2760,17 @@
     },
     "mimic_rod": {
       "name": "Taklitçi Asası",
-      "rarity": "special",
+      "rarity": "Özel",
       "texts": [
         "Tetiklendiğinde: Üstündeki eşyanın düz bir kopyasını kazan.",
-        "Tetiklendiğinde: Üstündeki eşyanın 2 düz kopyasını kazan.",
-        "Tetiklendiğinde: Üstündeki eşyanın 3 düz kopyasını kazan.",
-        "Tetiklendiğinde: Üstündeki eşyanın 4 düz kopyasını kazan."
+        "Tetiklendiğinde: Üstündeki eşyanın 2 özelliksiz kopyasını kazan.",
+        "Tetiklendiğinde: Üstündeki eşyanın 3 özelliksiz kopyasını kazan.",
+        "Tetiklendiğinde: Üstündeki eşyanın 4 özelliksiz kopyasını kazan."
       ]
     },
     "cursed_garnet": {
       "name": "Lanetli Granat",
-      "rarity": "cursed",
+      "rarity": "Lanetli",
       "texts": [
         "Savaş Başlangıcında: 2 rastgele Karanlık eşyası kazan.",
         "Savaş Başlangıcında: 4 rastgele Karanlık eşyası kazan.",
@@ -2413,17 +2780,17 @@
     },
     "cursed_tiara": {
       "name": "Lanetli Tiara",
-      "rarity": "cursed",
+      "rarity": "Lanetli",
       "texts": [
-        "Savaş Başlangıcında: +5 bonus çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: +10 bonus çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: +15 bonus çoklu tetikleme kazan.",
-        "Savaş Başlangıcında: Kalıcı olarak +15 çoklu tetikleme kazan."
+        "Savaş Başlangıcında: +5 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: +10 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: +15 bonus Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +15 Çoklu Tetikleme kazan."
       ]
     },
     "dark_orb": {
       "name": "Karanlık Küre",
-      "rarity": "cursed",
+      "rarity": "Lanetli",
       "texts": [
         "Savaş Başlangıcında: Karanlık eşyalarını tetikle. (Karanlık Kolye hariç)",
         "Savaş Başlangıcında: Karanlık eşyalarını iki kez tetikle. (Karanlık Kolye hariç)",
@@ -2433,30 +2800,30 @@
     },
     "the_pyramid": {
       "name": "Piramit",
-      "rarity": "cursed",
+      "rarity": "Lanetli",
       "texts": [
-        "Savaş Başlangıcında: Sağındaki eşyaya rastgele bir debuff'ı kalıcı olarak ver.",
-        "Savaş Başlangıcında: Sağındaki eşyaya 2 rastgele debuff'ı kalıcı olarak ver.",
-        "Savaş Başlangıcında: Sağındaki eşyaya 4 rastgele debuff'ı kalıcı olarak ver.",
-        "Savaş Başlangıcında: Sağındaki eşyaya 8 rastgele debuff'ı kalıcı olarak ver."
+        "Savaş Başlangıcında: Sağındaki eşyaya kalıcı olarak rastgele 1 debuff ver.",
+        "Savaş Başlangıcında: Sağındaki eşyaya kalıcı olarak rastgele 2 debuff ver.",
+        "Savaş Başlangıcında: Sağındaki eşyaya kalıcı olarak rastgele 4 debuff ver.",
+        "Savaş Başlangıcında: Sağındaki eşyaya kalıcı olarak rastgele 8 debuff ver."
       ]
     },
     "cursed_shield": {
       "name": "Lanetli Kalkan",
-      "rarity": "cursed",
+      "rarity": "Lanetli",
       "texts": [
-        "Savaş başlangıcında: Kalıcı olarak +4 çoklu tetikleme kazan.",
-        "Savaş başlangıcında: Kalıcı olarak +8 çoklu tetikleme kazan.",
-        "Savaş başlangıcında: Kalıcı olarak +16 çoklu tetikleme ve +30 kalkan kazan.",
-        "Savaş başlangıcında: Bu eşyanın çoklu tetiklemesine eşit kalkanı kalıcı olarak kazan."
+        "Savaş Başlangıcında: Kalıcı olarak +4 Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +8 Çoklu Tetikleme kazan.",
+        "Savaş Başlangıcında: Kalıcı olarak +16 Çoklu Tetikleme ve +30 Kalkan kazan.",
+        "Savaş Başlangıcında: Bu eşyanın çoklu tetiklemesine eşit kalkanı kalıcı olarak kazan."
       ]
     }
   },
   "potions": {
     "charge_potion": {
-      "name": "Şarj Kavanozu",
+      "name": "Kullanım Kavanozu",
       "texts": [
-        "Bir eşyaya kalıcı olarak +1 Maks. Şarj ver."
+        "Bir eşyaya kalıcı olarak +1 Maks. Kullanım ver."
       ]
     },
     "luck_potion": {
@@ -2468,7 +2835,7 @@
     "starlight_potion": {
       "name": "Yıldız Işığı İksiri",
       "texts": [
-        "Bir Kadeh, +5 Gelir ve rastgele bir 1 Yıldızlı Efsanevi kazanmak için kullan."
+        "Yıldızsız bir eşyayı 1 Yıldızlı eşyaya yükseltmek için kullan."
       ]
     },
     "luck_tonic": {
@@ -2498,7 +2865,7 @@
     "candy_blueberry_burst": {
       "name": "Yaban Mersini Patlaması",
       "texts": [
-        "+{stat} daha ucuz yeniden salla kazanmak ve gelecekteki şekerini iyileştirmek için kullan."
+        "+{stat} daha ucuz yenileme kazanmak ve gelecekteki şekerini iyileştirmek için kullan."
       ]
     },
     "candy_caramel": {
@@ -2528,19 +2895,19 @@
     "candy_sunburst": {
       "name": "Güneş Patlaması",
       "texts": [
-        "Bir eşyaya +%{stat} krit şansı vermek ve gelecekteki şekerini iyileştirmek için üzerine kullan."
+        "Bir eşyaya +%{stat} Kritik Şansı vermek ve gelecekteki şekerini iyileştirmek için üzerine kullan."
       ]
     },
     "shock_vial": {
       "name": "Şok Şişesi",
       "texts": [
-        "Bir eşyaya +1 şok vermek için üzerine kullan."
+        "Bir eşyaya +1 Şok vermek için üzerine kullan."
       ]
     },
     "shock_potion": {
       "name": "Şok İksiri",
       "texts": [
-        "Bir eşyaya +3 şok vermek için üzerine kullan."
+        "Bir eşyaya +3 Şok vermek için üzerine kullan."
       ]
     },
     "thunder_potion": {
@@ -2552,29 +2919,29 @@
     "wrath_potion": {
       "name": "Öfke İksiri",
       "texts": [
-        "Bir eşyaya +8 hasar vermek için üzerine kullan."
+        "Bir eşyaya +8 Hasar vermek için üzerine kullan."
       ]
     },
     "precision_flask": {
       "name": "Hassasiyet Şişesi",
       "texts": [
-        "Bir eşyaya +%25 krit şansı vermek için üzerine kullan."
+        "Bir eşyaya +%25 Kritik Şansı vermek için üzerine kullan."
       ]
     },
     "mirror_elixir": {
       "name": "Ayna İksiri",
       "texts": [
-        "Bir eşyanın düz kopyasını kazanmak için üzerine kullan."
+        "Bir eşyanın özelliksiz kopyasını kazanmak için üzerine kullan."
       ]
     },
     "ink": {
       "name": "Mürekkep",
       "texts": [
-        "Bir eşyanın bekleme süresini 100 saniyeye ayarlamak için üzerine kullan. Boş bir yuvada kullanılırsa, yuva buffını kaldırır."
+        "Bir eşyanın bekleme süresini 100 saniyeye ayarlamak için üzerine kullan. Boş bir yuvada kullanılırsa, yuva buff'ını kaldırır."
       ]
     },
     "time_tonic": {
-      "name": "Zaman Tonu",
+      "name": "Zaman Toniği",
       "texts": [
         "Bir eşyaya -0.5s bekleme süresi vermek için üzerine kullan."
       ]
@@ -2606,19 +2973,19 @@
     "royal_drops": {
       "name": "Kraliyet Damlaları",
       "texts": [
-        "Dükkandaki bir eşyada kullanarak o eşyanın 3 kopyasını kazan."
+        "Dükkândaki bir eşyada kullanarak o eşyanın 3 kopyasını kazan."
       ]
     },
     "fury_potion": {
       "name": "Keskinlik Yağı",
       "texts": [
-        "Bir eşyaya +4 hasar ve +%15 krit vermek için üzerine kullan."
+        "Bir eşyaya +4 Hasar ve +%15 Kritik Şansı vermek için üzerine kullan."
       ]
     },
     "potion_of_appearance": {
       "name": "Görünüm İksiri",
       "texts": [
-        "Bir eşyanın dükkanda bulunma şansını artırmak için üzerine kullan."
+        "Bir eşyanın dükkânda bulunma şansını artırmak için üzerine kullan."
       ]
     },
     "potion_of_experience": {
@@ -2634,27 +3001,27 @@
       ]
     },
     "lesser_crit_potion": {
-      "name": "Küçük Krit İksiri",
+      "name": "Küçük Kritik İksiri",
       "texts": [
-        "Bir eşyaya +%3 krit vermek için üzerine kullan."
+        "Bir eşyaya +%3 Kritik Şansı vermek için üzerine kullan."
       ]
     },
     "lesser_damage_potion": {
       "name": "Küçük Hasar İksiri",
       "texts": [
-        "Bir eşyaya +1 hasar vermek için üzerine kullan."
+        "Bir eşyaya +1 Hasar vermek için üzerine kullan."
       ]
     },
     "lesser_heal_potion": {
       "name": "Küçük İyileştirme İksiri",
       "texts": [
-        "Bir eşyaya +1 iyileştirme vermek için üzerine kullan."
+        "Bir eşyaya +1 İyileştirme vermek için üzerine kullan."
       ]
     },
     "lesser_shield_potion": {
       "name": "Küçük Kalkan İksiri",
       "texts": [
-        "Bir eşyaya +1 kalkan vermek için üzerine kullan."
+        "Bir eşyaya +1 Kalkan vermek için üzerine kullan."
       ]
     },
     "lesser_xp_potion": {
@@ -2666,25 +3033,25 @@
     "lesser_gold_potion": {
       "name": "Küçük Altın İksiri",
       "texts": [
-        "+4 altın kazanmak için kullan."
+        "+4 Altın kazanmak için kullan."
       ]
     },
     "lesser_cloud_potion": {
       "name": "Küçük Bulut İksiri",
       "texts": [
-        "+1 daha ucuz yeniden salla kazanmak için kullan."
+        "+1 daha ucuz yenileme kazanmak için kullan."
       ]
     },
     "value_potion": {
       "name": "Değer İksiri",
       "texts": [
-        "Bu iksiri dükkandaki bir eşya ile takas etmek için o eşyada kullan."
+        "Bu iksiri dükkândaki bir eşya ile takas etmek için o eşyada kullan."
       ]
     },
     "excellence_flask": {
       "name": "Mükemmellik Şişesi",
       "texts": [
-        "+10 gelir kazanmak için kullan."
+        "+10 Gelir kazanmak için kullan."
       ]
     },
     "fortitude_potion": {
@@ -2702,19 +3069,19 @@
     "cloud_in_a_vial": {
       "name": "Şişedeki Bulut",
       "texts": [
-        "3 ücretsiz yeniden salla kazanmak için kullan."
+        "3 ücretsiz yenileme hakkı kazanmak için."
       ]
     },
     "crit_vial": {
-      "name": "Krit Şişesi",
+      "name": "Kritik Şişesi",
       "texts": [
-        "Bir eşyaya +%10 krit şansı vermek için üzerine kullan."
+        "Bir eşyaya +%10 Kritik Şansı vermek için üzerine kullan."
       ]
     },
     "damage_vial": {
       "name": "Hasar Şişesi",
       "texts": [
-        "Bir eşyaya +3 hasar vermek için üzerine kullan."
+        "Bir eşyaya +3 Hasar vermek için üzerine kullan."
       ]
     },
     "experience_vial": {
@@ -2726,7 +3093,7 @@
     "gold_vial": {
       "name": "Altın Şişesi",
       "texts": [
-        "+8 altın kazanmak için kullan."
+        "+8 Altın kazanmak için kullan."
       ]
     },
     "health_vial": {
@@ -2738,7 +3105,7 @@
     "heal_vial": {
       "name": "İyileştirme Şişesi",
       "texts": [
-        "Bir eşyaya +3 iyileştirme vermek için üzerine kullan."
+        "Bir eşyaya +3 İyileştirme vermek için üzerine kullan."
       ]
     },
     "poison_vial": {
@@ -2750,7 +3117,7 @@
     "shield_vial": {
       "name": "Kalkan Şişesi",
       "texts": [
-        "Bir eşyaya +3 kalkan vermek için üzerine kullan."
+        "Bir eşyaya +3 Kalkan vermek için üzerine kullan."
       ]
     },
     "time_vial": {
@@ -2774,25 +3141,25 @@
     "beetle_potion": {
       "name": "Uğurböceği İksiri",
       "texts": [
-        "+20 altın kazanmak için kullan."
+        "+20 Altın kazanmak için kullan."
       ]
     },
     "cloud_in_a_bottle": {
       "name": "Şişedeki Bulut",
       "texts": [
-        "8 ücretsiz yeniden salla kazanmak için kullan."
+        "8 ücretsiz yenileme kazanmak için kullan."
       ]
     },
     "iron_potion": {
       "name": "Demir İksiri",
       "texts": [
-        "Bir eşyaya +8 kalkan vermek için üzerine kullan."
+        "Bir eşyaya +8 Kalkan vermek için üzerine kullan."
       ]
     },
     "jungleblood": {
       "name": "Orman Kanı",
       "texts": [
-        "Bir eşyaya +8 zehir vermek için üzerine kullan."
+        "Bir eşyaya +8 Zehir vermek için üzerine kullan."
       ]
     },
     "liquid_knowledge": {
@@ -2802,21 +3169,21 @@
       ]
     },
     "mending_serum": {
-      "name": "Tamir Serumü",
+      "name": "Tamir Serumu",
       "texts": [
-        "Bir eşyaya +8 iyileştirme vermek için üzerine kullan."
+        "Bir eşyaya +8 İyileştirme vermek için üzerine kullan."
       ]
     },
     "phantom_brew": {
       "name": "Hayalet İçeceği",
       "texts": [
-        "Bir eşyaya +1 çoklu tetikleme vermek için üzerine kullan."
+        "Bir eşyaya +1 Çoklu Tetikleme vermek için üzerine kullan."
       ]
     },
     "arcane_essence": {
-      "name": "Esrarengiz Esansı",
+      "name": "Gizemli Esansı",
       "texts": [
-        "Bir eşyaya Esrarengiz etiketi vermek için üzerine kullan."
+        "Bir eşyaya Gizemli etiketi vermek için üzerine kullan."
       ]
     },
     "crystal_essence": {
@@ -2843,6 +3210,18 @@
         "Bir eşyaya Ejderha etiketi vermek için üzerine kullan."
       ]
     },
+    "fairy_essence": {
+      "name": "Peri Esansı",
+      "texts": [
+        "Bir eşyaya Peri etiketi vermek  için  üzerine için kullan."
+      ]
+    },
+    "vampire_essence": {
+      "name": "Vampir Esansı",
+      "texts": [
+        "Bir eşyaya Vampir etiketi  vermek  için  üzerine için kullan."
+      ]
+    },
     "goblin_essence": {
       "name": "Goblin Esansı",
       "texts": [
@@ -2850,13 +3229,13 @@
       ]
     },
     "frost_essence": {
-      "name": "Ayaz Esans",
+      "name": "Ayaz Esansı",
       "texts": [
         "Bir eşyaya Ayaz etiketi vermek için üzerine kullan."
       ]
     },
     "holy_essence": {
-      "name": "Kutsal Esans",
+      "name": "Kutsal Esansı",
       "texts": [
         "Bir eşyaya Kutsal etiketi vermek için üzerine kullan."
       ]
@@ -2888,7 +3267,7 @@
     "rainbow_potion": {
       "name": "Gökkuşağı İksiri",
       "texts": [
-        "Garantili bir şanslı yeniden salla kazanmak için kullan."
+        "Garantili bir şanslı yenileme kazanmak için kullan."
       ]
     }
   }
